@@ -1262,3 +1262,694 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.13-14.54.12:672][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
 [2020.02.13-14.54.12:702][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_26
 [2020.02.13-14.54.26:216][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.55.31:452][387]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.55.31:469][387]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.55.31:469][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.55.31:469][387]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:55:31 AM)
+[2020.02.13-14.55.31:469][387]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.55.31:471][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002379s)
+[2020.02.13-14.55.31:472][387]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.55.31:472][387]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2020.02.13-14.55.31:472][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003484s)
+[2020.02.13-14.55.31:504][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.02.13-14.55.31:616][387]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.55.31:704][387]LogInit: FAudioDevice initialized.
+[2020.02.13-14.55.31:730][387]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.55.31:732][387]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.55.31
+[2020.02.13-14.55.31:732][387]LogWorld: Bringing up level for play took: 0.000810
+[2020.02.13-14.55.31:746][387]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.469
+[2020.02.13-14.55.31:746][387]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.55.41:010][942]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.55.41:010][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.55.41:044][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.55.41:044][942]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.55.41:078][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.55.41:082][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.02.13-14.55.41:111][943]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.02.13-14.55.43:147][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.55.50:518][491]LogEditorTransaction: Undo Add Node
+[2020.02.13-14.56.19:164][188]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.56.19:317][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.02.13-14.56.19:658][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.56.19:697][205]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP4111514F485CD091386977AA536E9227.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.56.20:759][268]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.56.20:777][268]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.56.20:777][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.56.20:777][268]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:56:20 AM)
+[2020.02.13-14.56.20:778][268]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.56.20:780][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002836s)
+[2020.02.13-14.56.20:781][268]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.56.20:781][268]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2020.02.13-14.56.20:781][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003827s)
+[2020.02.13-14.56.20:814][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.02.13-14.56.20:921][268]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.56.21:006][268]LogInit: FAudioDevice initialized.
+[2020.02.13-14.56.21:034][268]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.56.21:036][268]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.56.21
+[2020.02.13-14.56.21:036][268]LogWorld: Bringing up level for play took: 0.000646
+[2020.02.13-14.56.21:049][268]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.834
+[2020.02.13-14.56.21:050][268]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.56.23:217][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.56.23:217][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.56.23:246][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.56.23:246][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.56.23:282][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.56.23:287][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.02.13-14.56.23:336][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-14.56.23:338][399]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.02.13-14.56.23:434][399]LogSlate: Took 0.063602 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.02.13-14.56.25:472][522]Cmd: TRANSACTION UNDO
+[2020.02.13-14.56.25:472][522]LogEditorTransaction: Undo Create Pin Link
+[2020.02.13-14.56.27:083][617]Cmd: TRANSACTION UNDO
+[2020.02.13-14.56.27:083][617]LogEditorTransaction: Undo Move Node
+[2020.02.13-14.56.27:719][654]Cmd: TRANSACTION UNDO
+[2020.02.13-14.56.27:719][654]LogEditorTransaction: Undo Create Pin Link
+[2020.02.13-14.56.31:530][881]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.56.31:704][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.02.13-14.56.31:963][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.56.31:996][893]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPD353B25946E23F2BDA5BC0A5D5E5A768.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.56.45:928][728]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.56.45:943][728]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.56.45:943][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.56.45:943][728]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:56:45 AM)
+[2020.02.13-14.56.45:943][728]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.56.45:945][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002041s)
+[2020.02.13-14.56.45:946][728]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.56.45:947][728]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2020.02.13-14.56.45:947][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003425s)
+[2020.02.13-14.56.45:978][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.02.13-14.56.46:082][728]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.56.46:170][728]LogInit: FAudioDevice initialized.
+[2020.02.13-14.56.46:198][728]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.56.46:199][728]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.56.46
+[2020.02.13-14.56.46:199][728]LogWorld: Bringing up level for play took: 0.000648
+[2020.02.13-14.56.46:212][728]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.002
+[2020.02.13-14.56.46:212][728]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.56.48:859][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.56.48:860][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.56.48:888][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.56.48:888][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.56.48:926][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.56.48:930][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.02.13-14.56.48:959][887]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.02.13-14.57.00:930][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.57.17:811][606]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.57.17:829][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.57.17:829][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.57.17:830][606]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:57:17 AM)
+[2020.02.13-14.57.17:830][606]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.57.17:832][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002587s)
+[2020.02.13-14.57.17:833][606]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.57.17:833][606]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2020.02.13-14.57.17:833][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003471s)
+[2020.02.13-14.57.17:863][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.02.13-14.57.17:972][606]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.57.18:056][606]LogInit: FAudioDevice initialized.
+[2020.02.13-14.57.18:086][606]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.57.18:087][606]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.57.18
+[2020.02.13-14.57.18:088][606]LogWorld: Bringing up level for play took: 0.000544
+[2020.02.13-14.57.18:100][606]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.114
+[2020.02.13-14.57.18:101][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.57.18:977][658]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.57.18:977][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.57.19:009][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.57.19:009][658]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.57.19:047][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.57.19:050][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.02.13-14.57.19:077][659]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.02.13-14.57.20:448][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.58.24:919][704]LogEditorTransaction: Undo Add Node
+[2020.02.13-14.58.27:023][829]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.58.27:179][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.02.13-14.58.27:429][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.58.27:468][840]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPF02D60A142141ACF7704D0936D102F0E.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-15.00.23:399][266]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.02.13-15.00.24:180][312]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.13-15.00.24:990][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-15.00.33:509][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-15.00.33:559][624]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-15.00.33:576][624]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.00.33:576][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-15.00.33:576][624]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 5:00:33 AM)
+[2020.02.13-15.00.33:576][624]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-15.00.33:578][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002355s)
+[2020.02.13-15.00.33:579][624]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-15.00.33:579][624]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2020.02.13-15.00.33:580][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003522s)
+[2020.02.13-15.00.33:613][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.02.13-15.00.33:726][624]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-15.00.33:816][624]LogInit: FAudioDevice initialized.
+[2020.02.13-15.00.33:847][624]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-15.00.33:849][624]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-10.00.33
+[2020.02.13-15.00.33:849][624]LogWorld: Bringing up level for play took: 0.000628
+[2020.02.13-15.00.33:862][624]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.353
+[2020.02.13-15.00.33:862][624]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.01.36:964][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-15.01.38:781][441]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.01.38:781][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-15.01.38:811][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-15.01.38:811][441]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.01.38:851][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-15.01.38:855][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.02.13-15.01.38:883][443]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.02.13-15.01.53:737][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-15.01.53:786][336]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-15.01.53:813][336]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.13-15.01.56:922][336]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.109 s
+[2020.02.13-15.01.56:922][336]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.13-15.01.56:922][336]LogOutputDevice: Error: 
+[2020.02.13-15.01.56:922][336]LogOutputDevice: Error: Ensure condition failed: Component && (Component->GetOuter() == GeneratedClass) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 1203]
+[2020.02.13-15.01.56:922][336]LogOutputDevice: Error: 
+[2020.02.13-15.01.56:922][336]LogOutputDevice: Error: Stack: 
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffb731bc489 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffb71eb70a6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffb74aff6ed UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffb74ab20f6 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffb70b25644 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffb74b9dde6 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffb74bb9188 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffb801b180a UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffb80289122 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffb8026aa84 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffb80322a12 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffb80174021 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffb801f0301 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffb801daaca UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffb801d0414 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffbbcd0b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffbbccfef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffbbcd0d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffbbccfc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffbcdeb5b6d USER32.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffbcdeb5562 USER32.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffbbcd0e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ff602fa5d3e UE4Editor.exe!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ff602fb554c UE4Editor.exe!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ff602fb55ca UE4Editor.exe!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ff602fc316c UE4Editor.exe!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ff602fc5b8e UE4Editor.exe!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffbcced7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: [Callstack] 0x00007ffbce62ced1 ntdll.dll!UnknownFunction []
+[2020.02.13-15.01.56:923][336]LogOutputDevice: Error: 
+[2020.02.13-15.01.56:926][336]LogStats:                SubmitErrorReport -  0.000 s
+[2020.02.13-15.02.03:520][336]LogStats:                    SendNewReport -  6.594 s
+[2020.02.13-15.02.03:520][336]LogStats:             FDebug::EnsureFailed -  9.707 s
+[2020.02.13-15.02.03:687][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.02.13-15.02.05:428][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-15.02.05:474][437]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP10AD47764899808F85EADD96D9BDCAB0.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-15.02.07:364][550]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-15.02.07:381][550]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.02.07:381][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-15.02.07:381][550]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 5:02:07 AM)
+[2020.02.13-15.02.07:382][550]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-15.02.07:387][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004811s)
+[2020.02.13-15.02.07:388][550]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-15.02.07:388][550]LogPlayLevel: PIE: World Init took: (0.001320s)
+[2020.02.13-15.02.07:388][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.006383s)
+[2020.02.13-15.02.07:424][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.02.13-15.02.07:574][550]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-15.02.07:665][550]LogInit: FAudioDevice initialized.
+[2020.02.13-15.02.07:700][550]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-15.02.07:702][550]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-10.02.07
+[2020.02.13-15.02.07:702][550]LogWorld: Bringing up level for play took: 0.000482
+[2020.02.13-15.02.07:715][550]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.499
+[2020.02.13-15.02.07:715][550]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.02.11:512][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.02.11:513][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-15.02.11:540][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-15.02.11:540][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.02.11:576][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-15.02.11:580][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.02.13-15.02.11:623][779]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.02.13-15.02.12:491][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-15.02.12:595][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.02.13-15.02.12:747][834]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Test_Realm_AlbertoA6E6111D4DC04EF4B6FF818CEBC9B530.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Test_Realm_Alberto.umap'
+[2020.02.13-15.02.12:781][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_Realm_Alberto_BuiltData" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Test_Realm_Alberto_BuiltData.uasset" SILENT=true
+[2020.02.13-15.02.12:804][834]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Test_Realm_Alberto_BuiltData70B1754C48FA98EE66DF3C913425ECE3.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Test_Realm_Alberto_BuiltData.uasset'
+[2020.02.13-15.04.21:473][917]LogEditorTransaction: Undo Add Node
+[2020.02.13-15.05.07:038][594]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-15.05.07:195][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.02.13-15.05.07:502][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-15.05.07:545][608]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP68ED17054939D2A20605069D4FA63A0E.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-15.05.10:059][758]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-15.05.10:075][758]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.05.10:075][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-15.05.10:075][758]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 5:05:10 AM)
+[2020.02.13-15.05.10:075][758]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-15.05.10:078][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002674s)
+[2020.02.13-15.05.10:078][758]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-15.05.10:079][758]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2020.02.13-15.05.10:079][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003715s)
+[2020.02.13-15.05.10:106][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.02.13-15.05.10:214][758]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-15.05.10:305][758]LogInit: FAudioDevice initialized.
+[2020.02.13-15.05.10:316][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-15.05.10:351][758]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-15.05.10:353][758]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-10.05.10
+[2020.02.13-15.05.10:353][758]LogWorld: Bringing up level for play took: 0.000951
+[2020.02.13-15.05.10:368][758]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.153
+[2020.02.13-15.05.10:368][758]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.05.10:403][760]LogRenderer: Reallocating scene render targets to support 1272x764 Format 10 NumSamples 1 (Frame:1).
+[2020.02.13-15.05.40:004][534]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.05.40:004][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-15.05.40:017][534]LogSlate: Window 'Zelda_Dungeon Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.13-15.05.40:055][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-15.05.40:055][534]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.05.40:100][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.02.13-15.05.40:117][535]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.02.13-15.05.41:267][604]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-15.05.41:285][604]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.05.41:285][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-15.05.41:285][604]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 5:05:41 AM)
+[2020.02.13-15.05.41:285][604]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-15.05.41:288][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002970s)
+[2020.02.13-15.05.41:289][604]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-15.05.41:289][604]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2020.02.13-15.05.41:289][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003968s)
+[2020.02.13-15.05.41:316][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.02.13-15.05.41:428][604]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-15.05.41:513][604]LogInit: FAudioDevice initialized.
+[2020.02.13-15.05.41:522][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-15.05.41:553][604]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-15.05.41:554][604]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-10.05.41
+[2020.02.13-15.05.41:554][604]LogWorld: Bringing up level for play took: 0.000806
+[2020.02.13-15.05.41:568][604]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.647
+[2020.02.13-15.05.41:569][604]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.05.50:144][115]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.05.50:145][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-15.05.50:158][115]LogSlate: Window 'Zelda_Dungeon Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.13-15.05.50:199][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-15.05.50:199][115]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.05.50:243][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.02.13-15.05.50:260][116]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.02.13-15.06.27:849][152]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-15.06.27:866][152]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.06.27:866][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-15.06.27:867][152]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 5:06:27 AM)
+[2020.02.13-15.06.27:867][152]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-15.06.27:869][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002494s)
+[2020.02.13-15.06.27:870][152]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-15.06.27:870][152]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2020.02.13-15.06.27:870][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003712s)
+[2020.02.13-15.06.27:898][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.02.13-15.06.28:032][152]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-15.06.28:120][152]LogInit: FAudioDevice initialized.
+[2020.02.13-15.06.28:153][152]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-15.06.28:154][152]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-10.06.28
+[2020.02.13-15.06.28:155][152]LogWorld: Bringing up level for play took: 0.000600
+[2020.02.13-15.06.28:167][152]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.047
+[2020.02.13-15.06.28:167][152]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.06.39:063][805]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.06.39:063][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-15.06.39:093][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-15.06.39:094][805]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.06.39:130][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-15.06.39:135][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.02.13-15.06.39:188][807]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.02.13-15.06.39:972][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-15.07.01:896][169]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-15.07.02:061][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.02.13-15.07.02:365][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-15.07.02:402][183]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP22057F6D4FB8DAB057596085B1DE80B0.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-15.07.07:076][462]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-15.07.07:096][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.07.07:096][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-15.07.07:096][462]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 5:07:07 AM)
+[2020.02.13-15.07.07:096][462]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-15.07.07:100][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004409s)
+[2020.02.13-15.07.07:101][462]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-15.07.07:101][462]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2020.02.13-15.07.07:101][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.005251s)
+[2020.02.13-15.07.07:133][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.02.13-15.07.07:258][462]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-15.07.07:344][462]LogInit: FAudioDevice initialized.
+[2020.02.13-15.07.07:374][462]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-15.07.07:376][462]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-10.07.07
+[2020.02.13-15.07.07:376][462]LogWorld: Bringing up level for play took: 0.000576
+[2020.02.13-15.07.07:389][462]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 1.174
+[2020.02.13-15.07.07:389][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.07.31:423][903]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.07.31:423][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-15.07.31:451][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-15.07.31:452][903]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-15.07.31:487][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-15.07.31:491][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.02.13-15.07.31:549][905]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.02.13-15.07.35:949][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-15.07.36:031][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.02.13-15.07.38:682][172]LogSlate: Window 'Save Content' being destroyed
+[2020.02.13-15.07.38:721][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dungeon_GM" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Dungeon_GM.uasset" SILENT=true
+[2020.02.13-15.07.38:746][172]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Dungeon_GMD8A6628E4CB1C88A052D2CA0683B04E5.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Dungeon_GM.uasset'
+[2020.02.13-15.07.38:755][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Player.uasset" SILENT=true
+[2020.02.13-15.07.38:765][172]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player87647D6A42BCF2845E9ED69B36732A37.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Player.uasset'
+[2020.02.13-15.07.38:917][172]LogSlate: Window 'Zelda_Dungeon - Unreal Editor' being destroyed
+[2020.02.13-15.07.39:191][173]Cmd: QUIT_EDITOR
+[2020.02.13-15.07.39:334][173]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.13-15.07.39:364][173]LogExit: Preparing to exit.
+[2020.02.13-15.07.40:574][173]LogExit: Editor shut down
+[2020.02.13-15.07.40:575][173]LogExit: Transaction tracking system shut down
+[2020.02.13-15.07.41:047][173]LogExit: Object subsystem successfully closed.
+[2020.02.13-15.07.41:074][173]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.13-15.07.41:094][173]LogD3D11RHI: Shutdown
+[2020.02.13-15.07.41:094][173]LogD3D11RHI: CleanupD3DDevice
+[2020.02.13-15.07.41:101][173]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.13-15.07.41:101][173]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.13-15.07.41:101][173]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.13-15.07.41:101][173]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.13-15.07.41:101][173]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.13-15.07.41:101][173]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.13-15.07.41:238][173]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.13-15.07.41:316][173]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (656)
+[2020.02.13-15.07.41:316][173]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (654)
+[2020.02.13-15.07.41:316][173]LogModuleManager: Shutting down and abandoning module Voice (652)
+[2020.02.13-15.07.41:316][173]LogModuleManager: Shutting down and abandoning module BlueprintGraph (650)
+[2020.02.13-15.07.41:316][173]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (648)
+[2020.02.13-15.07.41:316][173]LogModuleManager: Shutting down and abandoning module MeshBuilder (646)
+[2020.02.13-15.07.41:316][173]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2020.02.13-15.07.41:316][173]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2020.02.13-15.07.41:316][173]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2020.02.13-15.07.41:321][173]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2020.02.13-15.07.41:321][173]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2020.02.13-15.07.41:321][173]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2020.02.13-15.07.41:321][173]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2020.02.13-15.07.41:321][173]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2020.02.13-15.07.41:321][173]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.02.13-15.07.41:321][173]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.02.13-15.07.41:322][173]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.02.13-15.07.41:323][173]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.02.13-15.07.41:323][173]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.02.13-15.07.41:323][173]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.02.13-15.07.41:323][173]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.02.13-15.07.41:323][173]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.02.13-15.07.41:323][173]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.02.13-15.07.41:323][173]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.02.13-15.07.41:446][173]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.02.13-15.07.41:446][173]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.02.13-15.07.41:446][173]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.02.13-15.07.41:446][173]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.02.13-15.07.41:446][173]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.02.13-15.07.41:446][173]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.02.13-15.07.41:446][173]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.02.13-15.07.41:455][173]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.02.13-15.07.41:455][173]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.02.13-15.07.41:455][173]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.02.13-15.07.41:455][173]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.02.13-15.07.41:455][173]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.02.13-15.07.41:455][173]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.02.13-15.07.41:455][173]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.02.13-15.07.41:455][173]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.02.13-15.07.41:455][173]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.02.13-15.07.41:456][173]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.02.13-15.07.41:456][173]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.02.13-15.07.41:456][173]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.02.13-15.07.41:456][173]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.02.13-15.07.41:456][173]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.02.13-15.07.41:456][173]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.02.13-15.07.41:456][173]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.02.13-15.07.41:500][173]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.02.13-15.07.41:500][173]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.02.13-15.07.41:500][173]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.02.13-15.07.41:500][173]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.02.13-15.07.41:500][173]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.02.13-15.07.41:500][173]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.02.13-15.07.41:500][173]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.02.13-15.07.41:500][173]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.02.13-15.07.41:500][173]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.02.13-15.07.41:500][173]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.02.13-15.07.41:500][173]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.02.13-15.07.41:506][173]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.02.13-15.07.41:506][173]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.02.13-15.07.41:507][173]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.02.13-15.07.41:507][173]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.02.13-15.07.41:507][173]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.02.13-15.07.41:508][173]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.02.13-15.07.41:513][173]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.02.13-15.07.41:570][173]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.02.13-15.07.41:571][173]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.02.13-15.07.41:572][173]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.02.13-15.07.41:572][173]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.02.13-15.07.41:572][173]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.02.13-15.07.41:572][173]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.02.13-15.07.41:572][173]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.02.13-15.07.41:572][173]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.02.13-15.07.41:572][173]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.02.13-15.07.41:572][173]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.02.13-15.07.41:572][173]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.02.13-15.07.41:673][173]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.02.13-15.07.41:773][173]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.02.13-15.07.41:773][173]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.02.13-15.07.41:773][173]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.02.13-15.07.41:773][173]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.02.13-15.07.41:773][173]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.02.13-15.07.41:780][173]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.13-15.07.41:781][173]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.02.13-15.07.41:781][173]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.02.13-15.07.41:781][173]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.02.13-15.07.41:781][173]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.02.13-15.07.41:781][173]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.02.13-15.07.41:781][173]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.02.13-15.07.41:781][173]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.02.13-15.07.41:781][173]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.02.13-15.07.41:782][173]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.02.13-15.07.41:782][173]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.02.13-15.07.41:782][173]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.02.13-15.07.41:782][173]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.02.13-15.07.41:783][173]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.02.13-15.07.41:786][173]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.02.13-15.07.41:787][173]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.02.13-15.07.41:787][173]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.02.13-15.07.41:787][173]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.02.13-15.07.41:787][173]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.02.13-15.07.41:787][173]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.02.13-15.07.41:787][173]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.02.13-15.07.41:787][173]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.02.13-15.07.41:787][173]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.02.13-15.07.41:787][173]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.02.13-15.07.41:787][173]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.02.13-15.07.41:790][173]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.02.13-15.07.41:798][173]LogDerivedDataCache: Shutdown
+[2020.02.13-15.07.41:798][173]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.02.13-15.07.41:798][173]LogXGEController: Cleaning working directory: C:/Users/Alberto Martinez/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.13-15.07.41:799][173]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.02.13-15.07.41:799][173]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.02.13-15.07.41:799][173]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.02.13-15.07.41:799][173]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.02.13-15.07.41:799][173]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.02.13-15.07.41:799][173]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.02.13-15.07.41:799][173]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.02.13-15.07.41:799][173]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.02.13-15.07.41:799][173]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.02.13-15.07.41:799][173]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.02.13-15.07.41:799][173]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.02.13-15.07.41:799][173]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.02.13-15.07.41:799][173]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.02.13-15.07.41:799][173]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.02.13-15.07.41:799][173]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.02.13-15.07.41:800][173]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.02.13-15.07.41:800][173]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.02.13-15.07.41:871][173]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.02.13-15.07.41:871][173]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.02.13-15.07.41:871][173]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.02.13-15.07.41:871][173]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.02.13-15.07.41:871][173]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.02.13-15.07.41:886][173]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.02.13-15.07.41:886][173]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.02.13-15.07.41:894][173]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.02.13-15.07.41:894][173]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.02.13-15.07.41:951][173]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.02.13-15.07.41:951][173]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.02.13-15.07.41:951][173]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.02.13-15.07.41:951][173]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.02.13-15.07.41:951][173]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.02.13-15.07.41:951][173]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.02.13-15.07.41:951][173]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.02.13-15.07.41:951][173]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.02.13-15.07.41:951][173]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.02.13-15.07.41:951][173]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.02.13-15.07.41:951][173]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.02.13-15.07.41:951][173]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.02.13-15.07.41:952][173]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.02.13-15.07.41:952][173]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.02.13-15.07.41:952][173]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.13-15.07.41:952][173]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.02.13-15.07.41:952][173]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.02.13-15.07.41:952][173]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.02.13-15.07.41:952][173]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.02.13-15.07.41:952][173]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.02.13-15.07.41:953][173]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.02.13-15.07.41:953][173]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.02.13-15.07.41:972][173]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.02.13-15.07.41:972][173]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.13-15.07.41:972][173]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD63E4E17-4224-B1C6-68A0-BFA75F76A7EE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=681f5c9e4f365cb42c13e7909dc8320f%7C0f9af0154dce4c45ab11fbaaaaa0fb52%7Cadfe8e9a-8787-4c05-b90c-ae9bc24b4fdd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.13-15.07.41:980][173]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.02.13-15.07.41:982][173]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.02.13-15.07.41:984][173]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.02.13-15.07.41:991][173]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.02.13-15.07.41:991][173]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.02.13-15.07.41:992][173]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.13-15.07.41:992][173]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.13-15.07.41:992][173]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.13-15.07.41:992][173]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.13-15.07.41:992][173]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.13-15.07.41:992][173]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.13-15.07.41:992][173]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.13-15.07.41:994][173]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.13-15.07.41:994][173]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.13-15.07.41:994][173]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.13-15.07.41:994][173]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.13-15.07.41:994][173]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.13-15.07.41:994][173]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.13-15.07.41:994][173]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.13-15.07.41:994][173]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.13-15.07.41:994][173]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.13-15.07.41:994][173]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.13-15.07.41:994][173]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.13-15.07.41:994][173]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.13-15.07.42:004][173]LogExit: Exiting.
+[2020.02.13-15.07.42:039][173]Log file closed, 02/13/20 10:07:42
