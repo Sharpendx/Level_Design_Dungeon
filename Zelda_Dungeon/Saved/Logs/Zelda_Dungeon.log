@@ -871,3 +871,394 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.13-14.26.33:424][135]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Test_Realm_Alberto6899C6804871C04F94D8C8B7BC9C12A4.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Test_Realm_Alberto.umap'
 [2020.02.13-14.26.33:468][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_Realm_Alberto_BuiltData" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Test_Realm_Alberto_BuiltData.uasset" SILENT=true
 [2020.02.13-14.26.33:489][135]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Test_Realm_Alberto_BuiltData6A7050F047375787F76FD5B670E06AF2.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Test_Realm_Alberto_BuiltData.uasset'
+[2020.02.13-14.26.55:900][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.26.59:542][611]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Player_Char_BP.Player_Char_BP
+[2020.02.13-14.27.01:527][697]LogSlate: Window 'Player_Char_BP' being destroyed
+[2020.02.13-14.27.16:195][531]LogEditorTransaction: Undo Move Node
+[2020.02.13-14.27.16:629][556]LogEditorTransaction: Undo Add Node
+[2020.02.13-14.27.25:319][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.27.25:347][ 66]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP98AE7ADE4C313A65E26BFBB6FABC6B44.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.27.32:800][444]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.13-14.30.20:379][420]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.30.20:533][420]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.02.13-14.30.20:859][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.30.20:892][437]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP4A38500A41328158F272C29E2943ECB5.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.30.29:252][923]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.13-14.30.50:720][194]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.30.50:872][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.02.13-14.30.51:170][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.30.51:198][209]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP8962779F4EFF0CC083E972A4FBEF14A9.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.36.23:013][616]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.36.23:168][616]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.02.13-14.36.23:530][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.36.23:573][634]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPEFAB7B86435425D329B6F08ED2EDCA30.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.36.29:871][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.36.29:888][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.36.29:889][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.36.29:889][ 10]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:36:29 AM)
+[2020.02.13-14.36.29:889][ 10]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.36.29:891][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003233s)
+[2020.02.13-14.36.29:892][ 10]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.36.29:892][ 10]LogPlayLevel: PIE: World Init took: (0.001340s)
+[2020.02.13-14.36.29:892][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.004693s)
+[2020.02.13-14.36.29:927][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.02.13-14.36.30:074][ 10]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.36.30:172][ 10]LogInit: FAudioDevice initialized.
+[2020.02.13-14.36.30:205][ 10]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.36.30:206][ 10]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.36.30
+[2020.02.13-14.36.30:207][ 10]LogWorld: Bringing up level for play took: 0.000607
+[2020.02.13-14.36.30:221][ 10]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.005
+[2020.02.13-14.36.30:221][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.36.41:392][679]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.36.41:392][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.36.41:426][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.36.41:426][679]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.36.41:468][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.36.41:473][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.13-14.36.41:498][680]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.13-14.36.42:414][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.37.08:863][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.37.08:892][243]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP93A4F8AC491675F0734328A3520F22A2.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.37.56:224][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.02.13-14.37.56:224][509]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test_Realm_Alberto' took 0.036
+[2020.02.13-14.37.56:225][509]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Dungeon_GM] ([1] browsable assets)...
+[2020.02.13-14.37.56:225][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Dungeon_GM]
+[2020.02.13-14.37.56:241][509]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Dungeon_GM_Auto216C5B32847F1A2031969528E9EBD97DA.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Autosaves/Game/Blueprints/Dungeon_GM_Auto2.uasset'
+[2020.02.13-14.37.56:243][509]LogFileHelpers: Auto-saving content packages took 0.018
+[2020.02.13-14.41.12:080][429]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.41.12:101][429]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.41.12:101][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.41.12:101][429]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:41:12 AM)
+[2020.02.13-14.41.12:101][429]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.41.12:104][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002734s)
+[2020.02.13-14.41.12:105][429]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.41.12:105][429]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2020.02.13-14.41.12:105][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003932s)
+[2020.02.13-14.41.12:142][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.02.13-14.41.12:293][429]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.41.12:394][429]LogInit: FAudioDevice initialized.
+[2020.02.13-14.41.12:425][429]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.41.12:427][429]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.41.12
+[2020.02.13-14.41.12:427][429]LogWorld: Bringing up level for play took: 0.000840
+[2020.02.13-14.41.12:441][429]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.227
+[2020.02.13-14.41.12:442][429]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.41.17:576][736]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.41.17:577][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.41.17:609][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.41.17:609][736]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.41.17:649][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.41.17:653][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.02.13-14.41.17:677][737]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.13-14.41.18:878][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.41.47:841][522]LogEditorTransaction: Undo Move Node
+[2020.02.13-14.41.48:484][559]LogEditorTransaction: Undo Move Node
+[2020.02.13-14.41.49:052][592]LogEditorTransaction: Undo Add Node
+[2020.02.13-14.42.16:323][197]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.42.16:505][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.02.13-14.42.16:824][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.42.16:866][212]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPE2A1846A495EF388C24DFDAEE67ED1CB.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.43.20:540][ 14]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.43.20:717][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.02.13-14.43.21:083][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.43.21:122][ 31]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP81706D424B853FE24B9DFAB1A1990B87.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.44.17:283][133]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.44.17:455][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.02.13-14.44.17:910][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.44.17:944][157]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPEEA45A5F4D904C7BADDD3FA99FD0A91A.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.44.19:548][251]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.44.19:565][251]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.44.19:565][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.44.19:565][251]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:44:19 AM)
+[2020.02.13-14.44.19:565][251]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.44.19:568][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002305s)
+[2020.02.13-14.44.19:568][251]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.44.19:569][251]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2020.02.13-14.44.19:569][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003382s)
+[2020.02.13-14.44.19:602][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.02.13-14.44.19:716][251]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.44.19:801][251]LogInit: FAudioDevice initialized.
+[2020.02.13-14.44.19:829][251]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.44.19:830][251]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.44.19
+[2020.02.13-14.44.19:830][251]LogWorld: Bringing up level for play took: 0.000582
+[2020.02.13-14.44.19:843][251]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.372
+[2020.02.13-14.44.19:843][251]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.44.39:511][431]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.44.39:512][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.44.39:543][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.44.39:543][431]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.44.39:586][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.44.39:591][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.02.13-14.44.39:624][432]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.02.13-14.44.40:476][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.44.49:265][817]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.44.49:435][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.02.13-14.44.49:760][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.44.49:794][833]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP89150C4D498E1A9A9AC2B5A92A904EA8.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.44.51:051][908]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.44.51:069][908]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.44.51:069][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.44.51:069][908]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:44:51 AM)
+[2020.02.13-14.44.51:069][908]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.44.51:071][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002315s)
+[2020.02.13-14.44.51:072][908]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.44.51:073][908]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2020.02.13-14.44.51:073][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003851s)
+[2020.02.13-14.44.51:106][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.02.13-14.44.51:218][908]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.44.51:306][908]LogInit: FAudioDevice initialized.
+[2020.02.13-14.44.51:334][908]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.44.51:335][908]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.44.51
+[2020.02.13-14.44.51:335][908]LogWorld: Bringing up level for play took: 0.000442
+[2020.02.13-14.44.51:348][908]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 1.134
+[2020.02.13-14.44.51:348][908]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.45.06:401][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.45.06:402][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.45.06:433][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.45.06:433][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.45.06:469][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.45.06:474][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.02.13-14.45.06:503][811]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.02.13-14.45.11:706][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.45.17:577][263]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.45.17:749][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.02.13-14.45.18:121][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.45.18:155][282]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP0CEF431245B54AF57678DC89D1B0E3E0.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.45.19:690][373]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.45.19:707][373]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.45.19:707][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.45.19:707][373]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:45:19 AM)
+[2020.02.13-14.45.19:707][373]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.45.19:710][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002685s)
+[2020.02.13-14.45.19:711][373]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.45.19:711][373]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2020.02.13-14.45.19:711][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.004041s)
+[2020.02.13-14.45.19:746][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.02.13-14.45.19:854][373]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.45.19:939][373]LogInit: FAudioDevice initialized.
+[2020.02.13-14.45.19:969][373]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.45.19:970][373]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.45.19
+[2020.02.13-14.45.19:970][373]LogWorld: Bringing up level for play took: 0.000531
+[2020.02.13-14.45.19:983][373]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.232
+[2020.02.13-14.45.19:983][373]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.46.05:849][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.46.08:666][853]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.46.08:666][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.46.08:694][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.46.08:695][853]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.46.08:734][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.46.08:738][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.02.13-14.46.08:781][856]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.02.13-14.46.25:390][669]LogEditorTransaction: Undo Add Node
+[2020.02.13-14.46.58:179][620]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.46.58:335][620]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.02.13-14.46.58:629][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.46.58:663][634]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP4B91B0DC42EFBAB0D0C1418CDADEFAF1.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.47.04:477][981]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.47.04:650][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.02.13-14.47.05:315][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.47.05:352][ 17]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP608721234E2130F5718403A529DCEE3E.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.47.06:514][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.47.06:530][ 86]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.47.06:530][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.47.06:530][ 86]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:47:06 AM)
+[2020.02.13-14.47.06:530][ 86]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.47.06:532][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002017s)
+[2020.02.13-14.47.06:533][ 86]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.47.06:534][ 86]LogPlayLevel: PIE: World Init took: (0.001403s)
+[2020.02.13-14.47.06:534][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003645s)
+[2020.02.13-14.47.06:560][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.02.13-14.47.06:671][ 86]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.47.06:759][ 86]LogInit: FAudioDevice initialized.
+[2020.02.13-14.47.06:791][ 86]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.47.06:792][ 86]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.47.06
+[2020.02.13-14.47.06:793][ 86]LogWorld: Bringing up level for play took: 0.000614
+[2020.02.13-14.47.06:806][ 86]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.591
+[2020.02.13-14.47.06:806][ 86]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.47.15:865][629]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.47.15:866][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.47.15:900][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.47.15:900][629]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.47.15:939][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.47.15:943][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.02.13-14.47.15:970][630]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.02.13-14.47.16:971][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.47.32:622][627]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.47.32:767][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.02.13-14.47.33:111][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.47.33:152][644]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP162404BF407D627ACEA296BFBD0EB292.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.47.34:313][713]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.47.34:329][713]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.47.34:329][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.47.34:329][713]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:47:34 AM)
+[2020.02.13-14.47.34:329][713]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.47.34:332][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002989s)
+[2020.02.13-14.47.34:333][713]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.47.34:333][713]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2020.02.13-14.47.34:333][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.004004s)
+[2020.02.13-14.47.34:362][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.02.13-14.47.34:474][713]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.47.34:561][713]LogInit: FAudioDevice initialized.
+[2020.02.13-14.47.34:590][713]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.47.34:591][713]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.47.34
+[2020.02.13-14.47.34:592][713]LogWorld: Bringing up level for play took: 0.000590
+[2020.02.13-14.47.34:604][713]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.39
+[2020.02.13-14.47.34:604][713]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.47.55:186][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.47.55:187][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.47.55:219][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.47.55:219][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.47.55:256][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.47.55:261][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.02.13-14.47.55:289][947]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.13-14.47.55:809][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.48.06:077][593]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.48.06:093][593]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.48.06:093][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.48.06:093][593]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:48:06 AM)
+[2020.02.13-14.48.06:093][593]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.48.06:096][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002485s)
+[2020.02.13-14.48.06:096][593]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.48.06:096][593]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2020.02.13-14.48.06:096][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003415s)
+[2020.02.13-14.48.06:124][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.02.13-14.48.06:272][593]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.48.06:364][593]LogInit: FAudioDevice initialized.
+[2020.02.13-14.48.06:393][593]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.48.06:394][593]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.48.06
+[2020.02.13-14.48.06:394][593]LogWorld: Bringing up level for play took: 0.000424
+[2020.02.13-14.48.06:407][593]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.192
+[2020.02.13-14.48.06:407][593]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.48.13:956][ 45]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.48.13:957][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.13:987][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.48.13:987][ 45]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.48.14:024][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.14:028][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.02.13-14.48.14:091][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.02.13-14.48.15:126][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.48.38:057][662]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.48.38:206][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.02.13-14.48.38:616][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.48.38:649][683]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPA9DD998848C07BD161B3F6BE5545AD2E.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.48.43:095][949]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.48.43:111][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.48.43:111][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.48.43:111][949]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:48:43 AM)
+[2020.02.13-14.48.43:111][949]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.48.43:113][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002416s)
+[2020.02.13-14.48.43:113][949]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.48.43:114][949]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2020.02.13-14.48.43:114][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003551s)
+[2020.02.13-14.48.43:147][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.02.13-14.48.43:255][949]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.48.43:357][949]LogInit: FAudioDevice initialized.
+[2020.02.13-14.48.43:384][949]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.48.43:385][949]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.48.43
+[2020.02.13-14.48.43:385][949]LogWorld: Bringing up level for play took: 0.000439
+[2020.02.13-14.48.43:398][949]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 1.183
+[2020.02.13-14.48.43:398][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.48.58:196][836]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.48.58:196][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.58:224][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.48.58:224][836]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.48.58:258][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.58:262][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.02.13-14.48.58:310][838]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.02.13-14.48.59:044][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.49.13:322][736]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.49.13:472][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.02.13-14.49.14:201][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.49.14:241][776]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP9B6383BD4AFFD2371A3D2FBF26493314.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.49.24:394][384]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.49.24:410][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.49.24:410][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.49.24:410][384]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:49:24 AM)
+[2020.02.13-14.49.24:410][384]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.49.24:412][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002294s)
+[2020.02.13-14.49.24:413][384]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.49.24:413][384]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2020.02.13-14.49.24:413][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003354s)
+[2020.02.13-14.49.24:447][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.02.13-14.49.24:563][384]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.49.24:658][384]LogInit: FAudioDevice initialized.
+[2020.02.13-14.49.24:689][384]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.49.24:691][384]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.49.24
+[2020.02.13-14.49.24:691][384]LogWorld: Bringing up level for play took: 0.000903
+[2020.02.13-14.49.24:704][384]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.489
+[2020.02.13-14.49.24:705][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.49.35:355][ 22]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.49.35:355][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.35:385][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.49.35:385][ 22]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.49.35:420][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.35:424][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.02.13-14.49.35:458][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.02.13-14.49.36:229][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.50.32:202][409]LogEditorTransaction: Undo Create Pin Link
+[2020.02.13-14.50.33:142][464]LogEditorTransaction: Undo Move Node
+[2020.02.13-14.50.34:829][564]LogEditorTransaction: Undo Add Node
+[2020.02.13-14.51.14:154][533]LogEditorTransaction: Undo Add Node
+[2020.02.13-14.52.56:023][604]LogEditorTransaction: Undo Create Pin Link
+[2020.02.13-14.53.34:246][857]LogEditorTransaction: Undo Move Nodes
+[2020.02.13-14.53.34:621][878]LogEditorTransaction: Undo Create Pin Link
+[2020.02.13-14.53.35:181][910]LogEditorTransaction: Undo Move Nodes
+[2020.02.13-14.53.35:736][942]LogEditorTransaction: Undo Add Node
+[2020.02.13-14.53.48:809][718]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.53.48:967][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.02.13-14.53.49:714][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.53.49:758][757]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP2E70AECE49F2047EF5A8F7900AD4C691.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.53.51:222][844]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.53.51:241][844]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.53.51:242][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.53.51:242][844]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:53:51 AM)
+[2020.02.13-14.53.51:242][844]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.53.51:246][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003590s)
+[2020.02.13-14.53.51:246][844]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.53.51:246][844]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2020.02.13-14.53.51:246][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.004512s)
+[2020.02.13-14.53.51:279][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.02.13-14.53.51:387][844]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.53.51:477][844]LogInit: FAudioDevice initialized.
+[2020.02.13-14.53.51:504][844]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.53.51:506][844]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.53.51
+[2020.02.13-14.53.51:506][844]LogWorld: Bringing up level for play took: 0.000599
+[2020.02.13-14.53.51:519][844]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.696
+[2020.02.13-14.53.51:519][844]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.53.58:567][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.53.58:567][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.53.58:597][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.53.58:597][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.53.58:636][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.53.58:639][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.02.13-14.53.58:672][267]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.02.13-14.53.59:508][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.54.06:876][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.54.06:942][762]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.13-14.54.07:114][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.02.13-14.54.07:438][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.02.13-14.54.07:474][778]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPCE804B3546C2D4BEAB4D9687BFD9AFF1.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.13-14.54.08:712][852]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.54.08:728][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.54.08:728][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.54.08:728][852]PIE: New page: PIE session: Test_Realm_Alberto (Feb 13, 2020, 4:54:08 AM)
+[2020.02.13-14.54.08:728][852]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.13-14.54.08:730][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002486s)
+[2020.02.13-14.54.08:731][852]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.13-14.54.08:731][852]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2020.02.13-14.54.08:731][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003547s)
+[2020.02.13-14.54.08:761][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.02.13-14.54.08:872][852]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.13-14.54.08:957][852]LogInit: FAudioDevice initialized.
+[2020.02.13-14.54.08:990][852]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.13-14.54.08:991][852]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 60) at 2020.02.13-09.54.08
+[2020.02.13-14.54.08:991][852]LogWorld: Bringing up level for play took: 0.000503
+[2020.02.13-14.54.09:004][852]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.789
+[2020.02.13-14.54.09:004][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.54.12:602][ 66]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.54.12:602][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.54.12:634][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.54.12:634][ 66]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.13-14.54.12:668][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.54.12:672][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.02.13-14.54.12:702][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.02.13-14.54.26:216][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
