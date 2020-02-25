@@ -945,3 +945,164 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-03.47.38:728][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.02.25-03.47.38:828][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
 [2020.02.25-03.47.39:093][263]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Monster_Type_Map64B7034B44F0918542E964B38374C0A2.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Monster_Type_Map.umap'
+[2020.02.25-03.48.28:416][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-04.00.32:038][270]LogSlate: Window 'Jump' being destroyed
+[2020.02.25-04.03.52:384][282]LogEditorTransaction: Undo Add Component Nodes
+[2020.02.25-04.04.25:832][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-04.07.59:233][508]BlueprintLog: New page: Compile NPC
+[2020.02.25-04.07.59:462][508]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.02.25-04.07.59:910][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/NPC" FILE="../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/NPC.uasset" SILENT=true
+[2020.02.25-04.07.59:944][555]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/NPC62A1B09F4611EBCB4E2091AEE69A9D38.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/NPC.uasset'
+[2020.02.25-04.08.21:127][ 93]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.25-04.08.29:619][106]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/NPC_BB59E8B6254F2F1F465573E6ABCA3DECEF.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/NPC_BB.uasset'
+[2020.02.25-04.08.49:994][547]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AI/BTDecorator_BlueprintBase_New.BTDecorator_BlueprintBase_New
+[2020.02.25-04.08.50:267][547]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/AI/BTDecorator_BlueprintBase_New.
+[2020.02.25-04.09.04:586][254]Cmd: TRANSACTION UNDO
+[2020.02.25-04.09.04:586][254]LogEditorTransaction: Undo Rename Blackboard Entry
+[2020.02.25-04.09.13:435][315]Cmd: TRANSACTION REDO
+[2020.02.25-04.09.13:435][315]LogEditorTransaction: Redo Rename Blackboard Entry
+[2020.02.25-04.09.27:513][  3]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AI/BTService_BlueprintBase_New.BTService_BlueprintBase_New
+[2020.02.25-04.09.27:774][  3]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/AI/BTService_BlueprintBase_New.
+[2020.02.25-04.12.00:375][304]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.25-04.12.01:583][446]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.25-04.12.01:583][446]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AI/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.02.25-04.12.01:840][446]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/AI/BTTask_BlueprintBase_New.
+[2020.02.25-04.13.07:875][268]BlueprintLog: New page: Compile BTTask_BlueprintBase_New
+[2020.02.25-04.13.07:876][268]LogBlueprint: Error: [Compiler BTTask_BlueprintBase_New] The current value of the ' Key ' pin is invalid: 'Key' in action 'Set Blackboard Value as Vector' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.02.25-04.13.07:915][268]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.02.25-04.13.07:922][268]LogBlueprint: Warning: [Compiler BTTask_BlueprintBase_New] [2666.33] Compile of BTTask_BlueprintBase_New failed. 1 Fatal Issue(s) 0 Warning(s) [in 46 ms] (/Game/Blueprints/AI/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New)
+[2020.02.25-04.13.08:336][310]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/BTTask_BlueprintBase_New369EDF5C4B587AD87D834681BC2C432E.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/BTTask_BlueprintBase_New.uasset'
+[2020.02.25-04.13.08:396][316]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/BTTask_BlueprintBase_New.
+[2020.02.25-04.13.23:990][182]BlueprintLog: New page: Compile BTTask_BlueprintBase_New
+[2020.02.25-04.13.23:991][182]LogBlueprint: Error: [Compiler BTTask_BlueprintBase_New] The current value of the ' Key ' pin is invalid: 'Key' in action 'Set Blackboard Value as Vector' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.02.25-04.13.24:031][182]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.02.25-04.13.24:036][182]LogBlueprint: Warning: [Compiler BTTask_BlueprintBase_New] [2682.44] Compile of BTTask_BlueprintBase_New failed. 1 Fatal Issue(s) 0 Warning(s) [in 45 ms] (/Game/Blueprints/AI/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New)
+[2020.02.25-04.13.28:934][766]BlueprintLog: New page: Compile BTTask_BlueprintBase_New
+[2020.02.25-04.13.28:973][766]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.02.25-04.13.29:445][818]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/BTTask_BlueprintBase_New5F3C88C94EBD2A6F0A1138ABAC7B5DB6.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/BTTask_BlueprintBase_New.uasset'
+[2020.02.25-04.13.51:444][445]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.02.25-04.13.51:449][445]LogMetaData: Removing '/Game/Blueprints/AI/FindPlayer.SKEL_FindPlayer_C' ref from Metadata '/Game/Blueprints/AI/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.02.25-04.13.51:449][445]LogMetaData: Removing '/Game/Blueprints/AI/FindPlayer.FindPlayer_C' ref from Metadata '/Game/Blueprints/AI/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.02.25-04.13.51:480][445]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/FindPlayerF76180FC45D8EEF24DB296ABF5A43267.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/FindPlayer.uasset'
+[2020.02.25-04.13.51:746][445]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.02.25-04.13.51:779][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.02.25-04.13.51:815][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.02.25-04.13.51:943][456]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/FindPlayer.
+[2020.02.25-04.14.09:532][564]LogUObjectHash: Warning: Ambiguous search, could be BehaviorTreeGraphNode_SimpleParallel /Game/Blueprints/AI/NPC_BT.NPC_BT:Behavior Tree.BehaviorTreeGraphNode_SimpleParallel_0 or BehaviorTreeGraphNode_SimpleParallel /Engine/Transient.EdGraph_86:BehaviorTreeGraphNode_SimpleParallel_0
+[2020.02.25-04.14.09:532][564]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildComposite: unresolved reference to 'BTComposite_SimpleParallel'"BehaviorTreeGraphNode_SimpleParallel_0.BTComposite_SimpleParallel_0"')'
+[2020.02.25-04.14.09:532][564]LogUObjectHash: Warning: Ambiguous search, could be BehaviorTreeGraphNode_Task /Engine/Transient.EdGraph_86:BehaviorTreeGraphNode_Task_12 or BehaviorTreeGraphNode_Task /Game/Blueprints/AI/NPC_BT.NPC_BT:Behavior Tree.BehaviorTreeGraphNode_Task_12
+[2020.02.25-04.14.09:532][564]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildTask: unresolved reference to 'BTTask_MoveTo'"BehaviorTreeGraphNode_Task_12.BTTask_MoveTo_0"')'
+[2020.02.25-04.14.09:532][564]LogUObjectHash: Warning: Ambiguous search, could be BehaviorTreeGraphNode_Task /Engine/Transient.EdGraph_86:BehaviorTreeGraphNode_Task_0 or BehaviorTreeGraphNode_Task /Game/Blueprints/AI/NPC_BT.NPC_BT:Behavior Tree.BehaviorTreeGraphNode_Task_0
+[2020.02.25-04.14.09:532][564]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildTask: unresolved reference to 'Jump_C'"BehaviorTreeGraphNode_Task_0.Jump_C_0"',Decorators=(BTDecorator_Cooldown'"BehaviorTreeGraphNode_Decorator_15.BTDecorator_Cooldown_1"'))'
+[2020.02.25-04.14.09:532][564]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:Decorators.Decorators: unresolved reference to 'BTDecorator_Cooldown'"BehaviorTreeGraphNode_Decorator_15.BTDecorator_Cooldown_1"'))'
+[2020.02.25-04.14.09:532][564]LogUObjectHash: Warning: Ambiguous search, could be BehaviorTreeGraphNode_Composite /Game/Blueprints/AI/NPC_BT.NPC_BT:Behavior Tree.BehaviorTreeGraphNode_Composite_0 or BehaviorTreeGraphNode_Composite /Engine/Transient.EdGraph_86:BehaviorTreeGraphNode_Composite_0
+[2020.02.25-04.14.09:532][564]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Sequence'"BehaviorTreeGraphNode_Composite_0.BTComposite_Sequence_0"''
+[2020.02.25-04.14.09:533][564]LogUObjectHash: Warning: Ambiguous search, could be BehaviorTreeGraphNode_SimpleParallel /Game/Blueprints/AI/NPC_BT.NPC_BT:Behavior Tree.BehaviorTreeGraphNode_SimpleParallel_0 or BehaviorTreeGraphNode_SimpleParallel /Engine/Transient.EdGraph_86:BehaviorTreeGraphNode_SimpleParallel_0
+[2020.02.25-04.14.09:533][564]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_SimpleParallel'"BehaviorTreeGraphNode_SimpleParallel_0.BTComposite_SimpleParallel_0"''
+[2020.02.25-04.14.09:533][564]LogUObjectHash: Warning: Ambiguous search, could be BehaviorTreeGraphNode_SimpleParallel /Game/Blueprints/AI/NPC_BT.NPC_BT:Behavior Tree.BehaviorTreeGraphNode_SimpleParallel_0 or BehaviorTreeGraphNode_SimpleParallel /Engine/Transient.EdGraph_86:BehaviorTreeGraphNode_SimpleParallel_0
+[2020.02.25-04.14.09:533][564]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_SimpleParallel'"BehaviorTreeGraphNode_SimpleParallel_0.BTComposite_SimpleParallel_0"''
+[2020.02.25-04.14.09:533][564]LogUObjectHash: Warning: Ambiguous search, could be BehaviorTreeGraphNode_SimpleParallel /Game/Blueprints/AI/NPC_BT.NPC_BT:Behavior Tree.BehaviorTreeGraphNode_SimpleParallel_0 or BehaviorTreeGraphNode_SimpleParallel /Engine/Transient.EdGraph_86:BehaviorTreeGraphNode_SimpleParallel_0
+[2020.02.25-04.14.09:533][564]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_SimpleParallel'"BehaviorTreeGraphNode_SimpleParallel_0.BTComposite_SimpleParallel_0"''
+[2020.02.25-04.14.22:917][166]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/NPC_BT11A427B3461CD51846EA3A944F334A10.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/NPC_BT.uasset'
+[2020.02.25-04.14.22:931][166]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/NPC_BB50D76EC84581C30B34198C8A521E7144.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/NPC_BB.uasset'
+[2020.02.25-04.14.28:197][794]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-04.14.28:229][794]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.02.25-04.14.28:234][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-04.14.28:234][794]PIE: New page: PIE session: Monster_Type_Map (Feb 24, 2020, 12:14:28 PM)
+[2020.02.25-04.14.28:234][794]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.02.25-04.14.28:248][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014152s)
+[2020.02.25-04.14.28:248][794]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.02.25-04.14.28:249][794]LogPlayLevel: PIE: World Init took: (0.000495s)
+[2020.02.25-04.14.28:249][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.014744s)
+[2020.02.25-04.14.28:287][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.02.25-04.14.28:293][794]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-04.14.28:302][794]LogInit: FAudioDevice initialized.
+[2020.02.25-04.14.28:333][794]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-04.14.28:335][794]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.02.24-20.14.28
+[2020.02.25-04.14.28:335][794]LogWorld: Bringing up level for play took: 0.002097
+[2020.02.25-04.14.28:349][794]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map 0.675
+[2020.02.25-04.14.28:349][794]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.02.25-04.15.00:791][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.02.25-04.15.00:795][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-04.15.00:829][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-04.15.00:829][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.02.25-04.15.00:869][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-04.15.00:874][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.02.25-04.15.00:893][683]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.02.25-04.15.02:344][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-04.15.29:815][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.02.25-04.15.30:080][140]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Monster_Type_Map_Auto1626E717A4A882005F7509EB61F1D2E6A.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Autosaves/Game/Maps/Monster_Type_Map_Auto1.umap'
+[2020.02.25-04.15.30:082][140]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Monster_Type_Map' took 0.305
+[2020.02.25-04.15.30:082][140]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.305
+[2020.02.25-04.15.30:084][140]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTDecorator_BlueprintBase_New] ([1] browsable assets)...
+[2020.02.25-04.15.30:084][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTDecorator_BlueprintBase_New]
+[2020.02.25-04.15.30:090][140]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/BTDecorator_BlueprintBase_New_Au20EE97FB434456ED26F08CAD0BCC51F3.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Autosaves/Game/Blueprints/AI/BTDecorator_BlueprintBase_New_Auto1.uasset'
+[2020.02.25-04.15.30:091][140]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTService_BlueprintBase_New] ([1] browsable assets)...
+[2020.02.25-04.15.30:091][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTService_BlueprintBase_New]
+[2020.02.25-04.15.30:097][140]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/BTService_BlueprintBase_New_AutoD9B512874F977059751BC9B626C0BDFA.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Autosaves/Game/Blueprints/AI/BTService_BlueprintBase_New_Auto1.uasset'
+[2020.02.25-04.15.30:097][140]LogFileHelpers: Auto-saving content packages took 0.014
+[2020.02.25-04.18.18:119][ 16]BlueprintLog: New page: Compile NPC
+[2020.02.25-04.18.18:328][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.02.25-04.18.19:095][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/NPC" FILE="../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/NPC.uasset" SILENT=true
+[2020.02.25-04.18.19:132][103]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/NPC1C2DB2AD4DABF056612A6AA6048919CB.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/NPC.uasset'
+[2020.02.25-04.18.22:257][474]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-04.18.22:297][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.02.25-04.18.22:300][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-04.18.22:300][474]PIE: New page: PIE session: Monster_Type_Map (Feb 24, 2020, 12:18:22 PM)
+[2020.02.25-04.18.22:300][474]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.02.25-04.18.22:315][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014062s)
+[2020.02.25-04.18.22:315][474]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.02.25-04.18.22:315][474]LogPlayLevel: PIE: World Init took: (0.000482s)
+[2020.02.25-04.18.22:315][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.014642s)
+[2020.02.25-04.18.22:353][474]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.02.25-04.18.22:359][474]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-04.18.22:367][474]LogInit: FAudioDevice initialized.
+[2020.02.25-04.18.22:397][474]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-04.18.22:398][474]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.02.24-20.18.22
+[2020.02.25-04.18.22:399][474]LogWorld: Bringing up level for play took: 0.001664
+[2020.02.25-04.18.22:412][474]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map 0.738
+[2020.02.25-04.18.22:412][474]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.02.25-04.18.44:297][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.02.25-04.18.44:300][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-04.18.44:329][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-04.18.44:329][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.02.25-04.18.44:371][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-04.18.44:376][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.02.25-04.18.44:431][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.25-04.18.46:238][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-04.18.46:458][318]LogRenderer: Reallocating scene render targets to support 784x540 Format 10 NumSamples 1 (Frame:83331).
+[2020.02.25-04.18.46:563][319]LogRenderer: Reallocating scene render targets to support 808x540 Format 10 NumSamples 1 (Frame:83333).
+[2020.02.25-04.18.46:647][320]LogRenderer: Reallocating scene render targets to support 812x540 Format 10 NumSamples 1 (Frame:83335).
+[2020.02.25-04.18.48:917][587]LogRenderer: Reallocating scene render targets to support 816x540 Format 10 NumSamples 1 (Frame:83604).
+[2020.02.25-04.18.48:952][588]LogRenderer: Reallocating scene render targets to support 844x540 Format 10 NumSamples 1 (Frame:83606).
+[2020.02.25-04.18.49:002][589]LogRenderer: Reallocating scene render targets to support 920x540 Format 10 NumSamples 1 (Frame:83608).
+[2020.02.25-04.18.49:079][590]LogRenderer: Reallocating scene render targets to support 1096x540 Format 10 NumSamples 1 (Frame:83610).
+[2020.02.25-04.18.49:176][591]LogRenderer: Reallocating scene render targets to support 1144x540 Format 10 NumSamples 1 (Frame:83612).
+[2020.02.25-04.18.49:301][594]LogRenderer: Reallocating scene render targets to support 1148x540 Format 10 NumSamples 1 (Frame:83616).
+[2020.02.25-04.18.49:349][595]LogRenderer: Reallocating scene render targets to support 1168x540 Format 10 NumSamples 1 (Frame:83618).
+[2020.02.25-04.18.49:436][596]LogRenderer: Reallocating scene render targets to support 1204x540 Format 10 NumSamples 1 (Frame:83620).
+[2020.02.25-04.18.49:517][597]LogRenderer: Reallocating scene render targets to support 1208x540 Format 10 NumSamples 1 (Frame:83622).
+[2020.02.25-04.18.53:396][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-04.18.53:418][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.02.25-04.18.53:422][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-04.18.53:422][ 12]PIE: New page: PIE session: Monster_Type_Map (Feb 24, 2020, 12:18:53 PM)
+[2020.02.25-04.18.53:422][ 12]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.02.25-04.18.53:436][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014097s)
+[2020.02.25-04.18.53:437][ 12]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.02.25-04.18.53:437][ 12]LogPlayLevel: PIE: World Init took: (0.000460s)
+[2020.02.25-04.18.53:437][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.014650s)
+[2020.02.25-04.18.53:474][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.02.25-04.18.53:478][ 12]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-04.18.53:486][ 12]LogInit: FAudioDevice initialized.
+[2020.02.25-04.18.53:518][ 12]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-04.18.53:519][ 12]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.02.24-20.18.53
+[2020.02.25-04.18.53:520][ 12]LogWorld: Bringing up level for play took: 0.001616
+[2020.02.25-04.18.53:533][ 12]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map -0.141
+[2020.02.25-04.18.53:533][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.02.25-04.19.30:022][386]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.02.25-04.19.30:025][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-04.19.30:055][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-04.19.30:055][386]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.02.25-04.19.30:097][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-04.19.30:102][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.02.25-04.19.30:124][387]LogPlayLevel: Display: Destroying online subsystem :Context_22
