@@ -1273,3 +1273,39 @@ Script Stack (0 frames):
 [2020.02.25-09.30.45:876][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2020.02.25-09.30.45:933][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2020.02.25-09.30.46:129][821]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Test_Realm_Alberto6F2F79DC49A00CA3EEE3E4966498154D.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Test_Realm_Alberto.umap'
+[2020.02.25-09.32.17:747][417]LogSlate: Window 'SpawnEnemy' being destroyed
+[2020.02.25-09.32.17:755][417]LogSlate: Window 'SpawnEnemy' being destroyed
+[2020.02.25-09.32.29:093][ 77]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.02.25-09.32.29:111][ 77]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Monster_Type_Map.Monster_Type_Map
+[2020.02.25-09.32.29:147][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.02.25-09.32.29:149][ 77]Cmd: MAP LOAD FILE="../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Monster_Type_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.25-09.32.29:149][ 77]LightingResults: New page: Lighting Build
+[2020.02.25-09.32.29:150][ 77]LoadErrors: New page: Loading map: Monster_Type_Map.umap
+[2020.02.25-09.32.29:151][ 77]MapCheck: New page: Map Check
+[2020.02.25-09.32.29:151][ 77]LightingResults: New page: Lighting Build
+[2020.02.25-09.32.29:189][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.02.25-09.32.29:269][ 77]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.25-09.32.29:304][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.02.25-09.32.29:342][ 77]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.25-09.32.29:344][ 77]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.345ms to complete.
+[2020.02.25-09.32.29:344][ 77]LogFileHelpers: Loading map 'Monster_Type_Map' took 0.197
+[2020.02.25-09.32.51:256][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.25-09.32.55:785][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-09.33.09:828][472]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-09.33.09:876][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.02.25-09.33.10:163][472]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Monster_Type_Map9A0D89EB40941C8EACFC8EB24B67C76C.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Monster_Type_Map.umap'
+[2020.02.25-09.33.13:572][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.25-09.33.14:990][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-09.33.21:628][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-09.33.46:901][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.25-09.33.47:694][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.25-09.33.49:915][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-09.33.52:114][957]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2020.02.25-09.33.52:972][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.25-09.33.53:622][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.25-09.33.54:116][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.25-09.33.55:994][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.25-09.34.00:325][444]LogEditorViewport: Clicking on Actor (LMB): CentralBrain_C (CentralBrain)
+[2020.02.25-09.34.09:875][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-09.34.09:989][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.02.25-09.34.10:275][ 14]LogSavePackage: Moving '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Saved/Monster_Type_MapEC2ECCF94E9A91E824B768897776FA93.tmp' to '../../../../../ZeldaRepo/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Monster_Type_Map.umap'
