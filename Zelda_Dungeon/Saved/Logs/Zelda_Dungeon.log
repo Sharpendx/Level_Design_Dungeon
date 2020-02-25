@@ -1106,3 +1106,1417 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-04.19.30:097][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.02.25-04.19.30:102][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
 [2020.02.25-04.19.30:124][387]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.02.25-04.26.28:950][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.02.25-04.26.29:221][ 39]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Monster_Type_Map_Auto27E320E224B7084F452CB408A0E24456D.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Autosaves/Game/Maps/Monster_Type_Map_Auto2.umap'
+[2020.02.25-04.26.29:225][ 39]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Monster_Type_Map' took 0.314
+[2020.02.25-04.26.29:225][ 39]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.314
+[2020.02.25-05.00.59:713][252]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.01.03:747][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.01.17:096][260]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.01.17:110][260]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto
+[2020.02.25-05.01.17:150][260]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.02.25-05.01.22:200][260]LogSlate: Window 'Save Content' being destroyed
+[2020.02.25-05.01.22:203][260]Cmd: MAP LOAD FILE="../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Test_Realm_Alberto.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.25-05.01.22:204][260]LightingResults: New page: Lighting Build
+[2020.02.25-05.01.22:205][260]LoadErrors: New page: Loading map: Test_Realm_Alberto.umap
+[2020.02.25-05.01.22:206][260]MapCheck: New page: Map Check
+[2020.02.25-05.01.22:206][260]LightingResults: New page: Lighting Build
+[2020.02.25-05.01.22:247][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.02.25-05.01.22:249][260]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.25-05.01.22:288][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.02.25-05.01.22:315][260]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.25-05.01.22:315][260]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2020.02.25-05.01.22:315][260]LogFileHelpers: Loading map 'Test_Realm_Alberto' took 0.112
+[2020.02.25-05.01.26:256][717]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC)
+[2020.02.25-05.01.27:363][844]Cmd: DELETE
+[2020.02.25-05.01.27:363][844]Cmd: ACTOR DELETE
+[2020.02.25-05.01.27:367][844]LogEditorActor: Deleted Actor: NPC_C
+[2020.02.25-05.01.27:404][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.02.25-05.01.27:405][844]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.02.25-05.01.32:586][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.01.32:645][470]LogRenderer: Reallocating scene render targets to support 1212x540 Format 10 NumSamples 1 (Frame:1235).
+[2020.02.25-05.01.40:005][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.01.52:472][643]LogActorFactory: Actor Factory created Plane
+[2020.02.25-05.01.53:076][715]LogActorFactory: Actor Factory created Plane
+[2020.02.25-05.02.15:557][392]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.02.15:810][422]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.02.25-05.02.16:596][516]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.02.16:624][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.02.16:628][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.02.16:628][516]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:02:16 PM)
+[2020.02.25-05.02.16:628][516]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.02.16:631][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002540s)
+[2020.02.25-05.02.16:631][516]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.02.16:631][516]LogPlayLevel: PIE: World Init took: (0.000472s)
+[2020.02.25-05.02.16:631][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003095s)
+[2020.02.25-05.02.16:668][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.02.25-05.02.16:674][516]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.02.16:683][516]LogInit: FAudioDevice initialized.
+[2020.02.25-05.02.16:683][516]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.02.16:709][516]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.02.16:709][516]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.02.16
+[2020.02.25-05.02.16:710][516]LogWorld: Bringing up level for play took: 0.000493
+[2020.02.25-05.02.16:722][516]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 1.049
+[2020.02.25-05.02.16:722][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.02.19:262][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.02.19:266][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.02.19:292][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.02.19:292][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.02.19:335][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.02.19:339][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.02.25-05.02.19:409][820]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.02.25-05.02.20:497][947]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2020.02.25-05.02.23:602][315]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.02.24:422][412]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.02.24:449][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.02.24:453][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.02.24:453][412]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:02:24 PM)
+[2020.02.25-05.02.24:454][412]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.02.24:456][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002462s)
+[2020.02.25-05.02.24:456][412]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.02.24:456][412]LogPlayLevel: PIE: World Init took: (0.000451s)
+[2020.02.25-05.02.24:457][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.002999s)
+[2020.02.25-05.02.24:496][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.02.25-05.02.24:501][412]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.02.24:509][412]LogInit: FAudioDevice initialized.
+[2020.02.25-05.02.24:509][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.02.24:539][412]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.02.24:539][412]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.02.24
+[2020.02.25-05.02.24:540][412]LogWorld: Bringing up level for play took: 0.000497
+[2020.02.25-05.02.24:552][412]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.878
+[2020.02.25-05.02.24:552][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.02.28:131][839]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.02.28:135][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.02.28:165][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.02.28:165][839]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.02.28:205][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.02.28:209][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.02.25-05.02.28:282][841]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.02.25-05.02.29:565][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.25-05.02.42:320][514]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-05.02.42:890][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.25-05.02.45:075][838]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2020.02.25-05.02.46:501][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.02.47:545][131]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.02.47:573][131]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.02.47:578][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.02.47:578][131]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:02:47 PM)
+[2020.02.25-05.02.47:578][131]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.02.47:580][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002450s)
+[2020.02.25-05.02.47:581][131]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.02.47:581][131]LogPlayLevel: PIE: World Init took: (0.000468s)
+[2020.02.25-05.02.47:581][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.002997s)
+[2020.02.25-05.02.47:617][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.02.25-05.02.47:622][131]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.02.47:630][131]LogInit: FAudioDevice initialized.
+[2020.02.25-05.02.47:630][131]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.02.47:662][131]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.02.47:662][131]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.02.47
+[2020.02.25-05.02.47:663][131]LogWorld: Bringing up level for play took: 0.000485
+[2020.02.25-05.02.47:675][131]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.001
+[2020.02.25-05.02.47:675][131]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.02.51:695][611]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.02.51:699][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.02.51:730][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.02.51:730][611]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.02.51:773][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.02.51:777][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.02.25-05.02.51:795][612]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.02.25-05.02.53:338][791]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2020.02.25-05.02.57:624][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.02.57:778][315]LogActorFactory: Actor Factory created Sphere
+[2020.02.25-05.02.59:215][487]LogActorFactory: Actor Factory created Sphere
+[2020.02.25-05.03.01:782][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.03.02:763][909]Cmd: DELETE
+[2020.02.25-05.03.02:763][909]Cmd: ACTOR DELETE
+[2020.02.25-05.03.02:765][909]LogEditorActor: Deleted Actor: Actor
+[2020.02.25-05.03.02:800][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.02.25-05.03.02:800][909]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.02.25-05.03.04:532][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.02.25-05.03.09:691][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.03.10:649][843]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.03.10:676][843]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.03.10:681][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.03.10:681][843]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:03:10 PM)
+[2020.02.25-05.03.10:681][843]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.03.10:684][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002515s)
+[2020.02.25-05.03.10:684][843]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.03.10:684][843]LogPlayLevel: PIE: World Init took: (0.000447s)
+[2020.02.25-05.03.10:684][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003044s)
+[2020.02.25-05.03.10:724][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.02.25-05.03.10:729][843]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.03.10:737][843]LogInit: FAudioDevice initialized.
+[2020.02.25-05.03.10:737][843]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.03.10:764][843]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.03.10:764][843]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.03.10
+[2020.02.25-05.03.10:765][843]LogWorld: Bringing up level for play took: 0.000499
+[2020.02.25-05.03.10:777][843]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 1.103
+[2020.02.25-05.03.10:777][843]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.03.12:731][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.03.12:735][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.03.12:764][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.03.12:764][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.03.12:806][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.03.12:811][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.02.25-05.03.12:890][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.02.25-05.03.13:836][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.02.25-05.03.15:436][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.03.18:104][693]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.03.18:130][693]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.03.18:134][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.03.18:134][693]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:03:18 PM)
+[2020.02.25-05.03.18:134][693]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.03.18:137][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002491s)
+[2020.02.25-05.03.18:137][693]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.03.18:137][693]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2020.02.25-05.03.18:137][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003025s)
+[2020.02.25-05.03.18:175][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.02.25-05.03.18:180][693]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.03.18:188][693]LogInit: FAudioDevice initialized.
+[2020.02.25-05.03.18:214][693]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.03.18:214][693]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.03.18
+[2020.02.25-05.03.18:215][693]LogWorld: Bringing up level for play took: 0.000526
+[2020.02.25-05.03.18:227][693]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.554
+[2020.02.25-05.03.18:227][693]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.03.20:498][963]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.03.20:501][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.03.20:529][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.03.20:529][963]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.03.20:573][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.03.20:577][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.02.25-05.03.20:656][965]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.02.25-05.03.22:116][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.02.25-05.03.23:414][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.03.47:288][133]LogSlate: Window 'Select Path' being destroyed
+[2020.02.25-05.03.47:295][133]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Carry_Item_BP.
+[2020.02.25-05.03.47:347][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.25-05.03.47:379][133]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Carry_Item_BP.Carry_Item_BP
+[2020.02.25-05.03.52:469][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.03.53:894][868]BlueprintLog: New page: Compile Carry_Item_BP
+[2020.02.25-05.03.54:135][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.02.25-05.03.54:419][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Carry_Item_BP" FILE="../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Carry_Item_BP.uasset" SILENT=true
+[2020.02.25-05.03.54:435][896]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Carry_Item_BP7C57394344B36067CAB8B6AF3D28211B.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Carry_Item_BP.uasset'
+[2020.02.25-05.03.54:466][898]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Carry_Item_BP.
+[2020.02.25-05.03.57:958][313]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.03.57:985][313]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.03.57:988][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.03.57:989][313]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:03:57 PM)
+[2020.02.25-05.03.57:989][313]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.03.57:991][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002413s)
+[2020.02.25-05.03.57:991][313]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.03.57:992][313]LogPlayLevel: PIE: World Init took: (0.000454s)
+[2020.02.25-05.03.57:992][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.002950s)
+[2020.02.25-05.03.58:030][313]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.02.25-05.03.58:035][313]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.03.58:043][313]LogInit: FAudioDevice initialized.
+[2020.02.25-05.03.58:072][313]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.03.58:073][313]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.03.58
+[2020.02.25-05.03.58:073][313]LogWorld: Bringing up level for play took: 0.000631
+[2020.02.25-05.03.58:085][313]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.411
+[2020.02.25-05.03.58:085][313]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.04.02:889][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.04.02:893][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.04.02:924][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.04.02:924][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.04.02:965][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.04.02:969][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.02.25-05.04.03:048][889]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.02.25-05.04.05:135][139]LogEditorViewport: Clicking on Actor (LMB): Carry_Item_BP_C (Carry_Item_BP)
+[2020.02.25-05.05.29:826][732]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.05.35:777][403]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Player.Player
+[2020.02.25-05.05.35:787][403]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2020.02.25-05.05.36:468][404]LogRenderer: Reallocating scene render targets to support 1212x560 Format 10 NumSamples 1 (Frame:1).
+[2020.02.25-05.05.55:024][594]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Player_Char_BP.Player_Char_BP
+[2020.02.25-05.07.19:120][328]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.25-05.07.19:417][328]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2020.02.25-05.07.19:957][381]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPB991FA3C4AC0AFED79E4B7AECB98A40C.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.08.39:471][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.08.39:529][395]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.25-05.08.39:813][395]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.02.25-05.08.40:108][420]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPF8188F29422A73EA02204081D735F5C4.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.10.26:438][443]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.25-05.10.26:705][443]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.02.25-05.10.28:321][625]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP76BE8AF64C72DF309A23C699B6996D89.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.10.38:467][372]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.25-05.10.38:729][372]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.02.25-05.10.38:935][385]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP1456F47A4A0BCBC5423267809AD4AAEA.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.10.56:456][977]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.25-05.10.56:720][977]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2020.02.25-05.10.57:177][ 20]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPE0C2E87D458D247D9ACFF997283DCD70.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.11.43:484][167]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  CustomEvent_0  and was replaced as a Custom Event!
+[2020.02.25-05.12.47:532][473]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.25-05.12.47:803][473]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2020.02.25-05.12.48:319][521]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP229ADFD74D1A78D65294FD8A3A8C1C23.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.13.45:575][252]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.25-05.13.45:846][252]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2020.02.25-05.13.46:509][318]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP8EC05B904D8966DB2CB032B7989E671F.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.14.19:500][773]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.25-05.14.19:769][773]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.02.25-05.14.20:037][791]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPD829B855439F993B500C9490B968159C.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.14.44:496][903]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2020.02.25-05.14.44:739][903]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Test_Realm_Alberto_Auto36BD3DCD04184BC50F74B9EA50F24C616.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Autosaves/Game/Maps/Test_Realm_Alberto_Auto3.umap'
+[2020.02.25-05.14.44:741][903]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test_Realm_Alberto' took 0.296
+[2020.02.25-05.14.44:742][903]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.296
+[2020.02.25-05.15.53:595][821]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.25-05.15.53:864][821]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2020.02.25-05.15.54:315][861]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPE625ED8B441F433079B2AA822AC0C1E2.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.16.03:944][425]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.16.03:977][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.16.03:981][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.16.03:981][425]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:16:03 PM)
+[2020.02.25-05.16.03:981][425]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.16.03:983][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002426s)
+[2020.02.25-05.16.03:984][425]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.16.03:984][425]LogPlayLevel: PIE: World Init took: (0.000469s)
+[2020.02.25-05.16.03:984][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.002979s)
+[2020.02.25-05.16.04:033][425]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2020.02.25-05.16.04:039][425]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.16.04:047][425]LogInit: FAudioDevice initialized.
+[2020.02.25-05.16.04:073][425]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.16.04:074][425]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.16.04
+[2020.02.25-05.16.04:074][425]LogWorld: Bringing up level for play took: 0.000541
+[2020.02.25-05.16.04:086][425]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.413
+[2020.02.25-05.16.04:086][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.16.07:687][849]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.16.07:690][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.16.07:721][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.16.07:721][849]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.16.07:772][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.16.07:777][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.02.25-05.16.07:797][850]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.02.25-05.16.11:904][336]LogEditorViewport: Clicking on Actor (LMB): Carry_Item_BP_C (Carry_Item_BP)
+[2020.02.25-05.16.19:100][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.16.19:922][290]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.16.19:956][290]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.16.19:960][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.16.19:960][290]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:16:19 PM)
+[2020.02.25-05.16.19:960][290]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.16.19:963][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002398s)
+[2020.02.25-05.16.19:963][290]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.16.19:963][290]LogPlayLevel: PIE: World Init took: (0.000448s)
+[2020.02.25-05.16.19:963][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.002929s)
+[2020.02.25-05.16.20:008][290]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.02.25-05.16.20:013][290]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.16.20:021][290]LogInit: FAudioDevice initialized.
+[2020.02.25-05.16.20:021][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.16.20:049][290]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.16.20:049][290]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.16.20
+[2020.02.25-05.16.20:050][290]LogWorld: Bringing up level for play took: 0.000534
+[2020.02.25-05.16.20:062][290]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.389
+[2020.02.25-05.16.20:062][290]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.16.32:166][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.16.32:170][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.16.32:198][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.16.32:198][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.16.32:247][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.16.32:252][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.02.25-05.16.32:270][741]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.02.25-05.16.36:703][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.16.38:489][435]LogEditorViewport: Clicking on Actor (LMB): Carry_Item_BP_C (Carry_Item_BP)
+[2020.02.25-05.16.40:799][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.16.54:162][312]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.16.54:195][312]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.16.54:199][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.16.54:199][312]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:16:54 PM)
+[2020.02.25-05.16.54:199][312]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.16.54:201][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002416s)
+[2020.02.25-05.16.54:202][312]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.16.54:202][312]LogPlayLevel: PIE: World Init took: (0.000446s)
+[2020.02.25-05.16.54:202][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.002942s)
+[2020.02.25-05.16.54:247][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.02.25-05.16.54:252][312]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.16.54:260][312]LogInit: FAudioDevice initialized.
+[2020.02.25-05.16.54:265][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.16.54:297][312]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.16.54:298][312]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.16.54
+[2020.02.25-05.16.54:299][312]LogWorld: Bringing up level for play took: 0.000547
+[2020.02.25-05.16.54:313][312]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.639
+[2020.02.25-05.16.54:313][312]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.17.02:553][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.17.02:556][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.17.02:571][295]LogSlate: Window 'Zelda_Dungeon Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.25-05.17.02:601][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.17.02:601][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.17.02:658][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.02.25-05.17.02:671][296]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.02.25-05.17.11:244][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.17.21:105][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.17.23:479][773]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.17.23:510][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.17.23:514][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.17.23:514][773]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:17:23 PM)
+[2020.02.25-05.17.23:514][773]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.17.23:517][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002397s)
+[2020.02.25-05.17.23:517][773]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.17.23:517][773]LogPlayLevel: PIE: World Init took: (0.000479s)
+[2020.02.25-05.17.23:517][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.002956s)
+[2020.02.25-05.17.23:564][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.02.25-05.17.23:569][773]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.17.23:577][773]LogInit: FAudioDevice initialized.
+[2020.02.25-05.17.23:604][773]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.17.23:604][773]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.17.23
+[2020.02.25-05.17.23:605][773]LogWorld: Bringing up level for play took: 0.000598
+[2020.02.25-05.17.23:617][773]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.057
+[2020.02.25-05.17.23:617][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.17.41:623][931]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.17.41:626][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.17.41:655][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.17.41:655][931]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.17.41:705][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.17.41:710][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.02.25-05.17.41:730][932]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.02.25-05.17.43:416][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.17.43:599][147]LogActorFactory: Actor Factory created Cube
+[2020.02.25-05.17.44:283][229]LogActorFactory: Actor Factory created Cube
+[2020.02.25-05.17.55:676][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.18.00:256][134]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.18.00:291][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.18.00:295][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.18.00:296][134]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:18:00 PM)
+[2020.02.25-05.18.00:296][134]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.18.00:298][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002471s)
+[2020.02.25-05.18.00:298][134]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.18.00:299][134]LogPlayLevel: PIE: World Init took: (0.000473s)
+[2020.02.25-05.18.00:299][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003029s)
+[2020.02.25-05.18.00:344][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.02.25-05.18.00:349][134]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.18.00:357][134]LogInit: FAudioDevice initialized.
+[2020.02.25-05.18.00:387][134]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.18.00:388][134]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.18.00
+[2020.02.25-05.18.00:388][134]LogWorld: Bringing up level for play took: 0.000559
+[2020.02.25-05.18.00:400][134]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.726
+[2020.02.25-05.18.00:400][134]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.18.10:797][223]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.18.10:800][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.18.10:832][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.18.10:832][223]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.18.10:882][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.18.10:888][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.02.25-05.18.10:899][224]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.02.25-05.18.23:675][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.19.16:983][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.19.17:033][217]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.19.17:066][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.19.17:070][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.19.17:070][217]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:19:17 PM)
+[2020.02.25-05.19.17:070][217]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.19.17:072][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002535s)
+[2020.02.25-05.19.17:073][217]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.19.17:073][217]LogPlayLevel: PIE: World Init took: (0.000493s)
+[2020.02.25-05.19.17:073][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003112s)
+[2020.02.25-05.19.17:118][217]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.02.25-05.19.17:123][217]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.19.17:131][217]LogInit: FAudioDevice initialized.
+[2020.02.25-05.19.17:136][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.19.17:166][217]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.19.17:167][217]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.19.17
+[2020.02.25-05.19.17:168][217]LogWorld: Bringing up level for play took: 0.000742
+[2020.02.25-05.19.17:182][217]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.492
+[2020.02.25-05.19.17:182][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.19.29:810][724]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.19.29:814][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.19.29:828][724]LogSlate: Window 'Zelda_Dungeon Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.25-05.19.29:859][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.19.29:859][724]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.19.29:915][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.02.25-05.19.29:935][725]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.02.25-05.19.41:063][ 34]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.25-05.19.43:695][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.19.46:390][655]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.19.46:409][655]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.19.46:409][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.19.46:409][655]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:19:46 PM)
+[2020.02.25-05.19.46:410][655]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.19.46:412][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002461s)
+[2020.02.25-05.19.46:412][655]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.19.46:413][655]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2020.02.25-05.19.46:413][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003031s)
+[2020.02.25-05.19.46:479][655]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.02.25-05.19.46:483][655]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.19.46:491][655]LogInit: FAudioDevice initialized.
+[2020.02.25-05.19.46:496][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.19.46:529][655]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.19.46:530][655]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.19.46
+[2020.02.25-05.19.46:530][655]LogWorld: Bringing up level for play took: 0.000547
+[2020.02.25-05.19.46:544][655]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.87
+[2020.02.25-05.19.46:545][655]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.19.48:486][790]LogRenderer: Reallocating scene render targets to support 1212x648 Format 10 NumSamples 1 (Frame:136).
+[2020.02.25-05.19.56:372][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.20.23:838][690]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.20.23:838][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.20.23:854][690]LogSlate: Window 'Zelda_Dungeon Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.25-05.20.23:886][690]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.20.23:886][690]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.20.23:956][690]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.02.25-05.20.23:967][691]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.02.25-05.21.03:898][ 93]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPFE4285AF44B2AEB41DB38DB966EBD997.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.21.27:024][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.21.27:090][854]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.25-05.21.27:313][854]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.02.25-05.21.27:785][899]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPBC86215B45CA1F3298D0AB9ACAE6EC70.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.21.28:625][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.21.30:295][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.21.32:792][491]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.21.32:810][491]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.21.32:810][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.21.32:811][491]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:21:32 PM)
+[2020.02.25-05.21.32:811][491]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.21.32:813][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002627s)
+[2020.02.25-05.21.32:814][491]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.21.32:814][491]LogPlayLevel: PIE: World Init took: (0.000482s)
+[2020.02.25-05.21.32:814][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003209s)
+[2020.02.25-05.21.32:854][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.02.25-05.21.32:858][491]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.21.32:866][491]LogInit: FAudioDevice initialized.
+[2020.02.25-05.21.32:896][491]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.21.32:897][491]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.21.32
+[2020.02.25-05.21.32:897][491]LogWorld: Bringing up level for play took: 0.000563
+[2020.02.25-05.21.32:909][491]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.764
+[2020.02.25-05.21.32:909][491]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.21.40:008][340]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.21.40:009][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.21.40:037][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.21.40:037][340]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.21.40:077][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.21.40:082][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.02.25-05.21.40:163][342]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.02.25-05.21.59:079][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.22.01:451][565]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.22.01:470][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.22.01:470][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.22.01:470][565]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:22:01 PM)
+[2020.02.25-05.22.01:470][565]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.22.01:472][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002432s)
+[2020.02.25-05.22.01:473][565]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.22.01:473][565]LogPlayLevel: PIE: World Init took: (0.000447s)
+[2020.02.25-05.22.01:473][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.002963s)
+[2020.02.25-05.22.01:515][565]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.02.25-05.22.01:521][565]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.22.01:529][565]LogInit: FAudioDevice initialized.
+[2020.02.25-05.22.01:556][565]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.22.01:557][565]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.22.01
+[2020.02.25-05.22.01:557][565]LogWorld: Bringing up level for play took: 0.000598
+[2020.02.25-05.22.01:570][565]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.104
+[2020.02.25-05.22.01:570][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.22.07:328][128]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.22.11:507][598]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.22.11:507][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.22.11:540][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.22.11:540][598]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.22.11:580][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.22.11:584][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.02.25-05.22.11:671][601]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.02.25-05.22.12:155][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.25-05.22.17:704][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.22.31:842][540]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.25-05.22.32:063][540]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.02.25-05.22.32:539][583]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPF08199CB41FA9DFB5AE741ACDB70E43A.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.22.35:485][935]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.22.35:504][935]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.22.35:504][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.22.35:504][935]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:22:35 PM)
+[2020.02.25-05.22.35:504][935]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.22.35:507][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002455s)
+[2020.02.25-05.22.35:507][935]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.22.35:507][935]LogPlayLevel: PIE: World Init took: (0.000458s)
+[2020.02.25-05.22.35:507][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.002998s)
+[2020.02.25-05.22.35:542][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.02.25-05.22.35:547][935]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.22.35:555][935]LogInit: FAudioDevice initialized.
+[2020.02.25-05.22.35:581][935]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.22.35:581][935]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.22.35
+[2020.02.25-05.22.35:582][935]LogWorld: Bringing up level for play took: 0.000556
+[2020.02.25-05.22.35:594][935]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.079
+[2020.02.25-05.22.35:594][935]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.22.43:072][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.22.54:225][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.22.54:225][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.22.54:252][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.22.54:252][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.22.54:290][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.22.54:295][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.02.25-05.22.54:331][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.02.25-05.24.01:126][682]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPA0C227304E4218ADA0E869B88093647E.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.24.02:635][862]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.24.02:653][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.24.02:653][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.24.02:653][862]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:24:02 PM)
+[2020.02.25-05.24.02:653][862]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.24.02:656][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002439s)
+[2020.02.25-05.24.02:656][862]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.24.02:656][862]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2020.02.25-05.24.02:656][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003048s)
+[2020.02.25-05.24.02:695][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.02.25-05.24.02:699][862]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.24.02:707][862]LogInit: FAudioDevice initialized.
+[2020.02.25-05.24.02:712][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.24.02:745][862]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.24.02:746][862]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.24.02
+[2020.02.25-05.24.02:747][862]LogWorld: Bringing up level for play took: 0.000571
+[2020.02.25-05.24.02:761][862]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 1.086
+[2020.02.25-05.24.02:761][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.24.12:723][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.24.12:724][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.24.12:738][ 47]LogSlate: Window 'Zelda_Dungeon Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.25-05.24.12:768][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.24.12:768][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.24.12:812][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.02.25-05.24.12:830][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.02.25-05.24.29:860][ 87]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.25-05.24.30:078][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.02.25-05.24.30:529][127]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP42284845414A373FEA9B4CA479D01049.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.24.32:812][397]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.24.32:830][397]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.24.32:830][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.24.32:830][397]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:24:32 PM)
+[2020.02.25-05.24.32:830][397]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.24.32:833][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002476s)
+[2020.02.25-05.24.32:833][397]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.24.32:833][397]LogPlayLevel: PIE: World Init took: (0.000458s)
+[2020.02.25-05.24.32:833][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003015s)
+[2020.02.25-05.24.32:872][397]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.02.25-05.24.32:877][397]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.24.32:885][397]LogInit: FAudioDevice initialized.
+[2020.02.25-05.24.32:916][397]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.24.32:916][397]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.24.32
+[2020.02.25-05.24.32:917][397]LogWorld: Bringing up level for play took: 0.000562
+[2020.02.25-05.24.32:929][397]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.745
+[2020.02.25-05.24.32:929][397]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.24.36:139][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.24.36:140][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.24.36:170][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.24.36:170][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.24.36:208][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.24.36:212][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.02.25-05.24.36:287][779]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.02.25-05.24.36:705][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.24.38:196][  6]Cmd: TRANSACTION UNDO
+[2020.02.25-05.24.38:196][  6]LogEditorTransaction: Undo Delete current selection
+[2020.02.25-05.24.47:761][147]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.25-05.24.47:980][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.02.25-05.24.48:454][190]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP78587E2048BECC8C6878CE8BA3BD58DF.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.24.50:752][464]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.24.50:770][464]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.24.50:771][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.24.50:771][464]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:24:50 PM)
+[2020.02.25-05.24.50:771][464]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.24.50:773][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002496s)
+[2020.02.25-05.24.50:774][464]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.24.50:774][464]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2020.02.25-05.24.50:774][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003065s)
+[2020.02.25-05.24.50:814][464]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.02.25-05.24.50:818][464]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.24.50:826][464]LogInit: FAudioDevice initialized.
+[2020.02.25-05.24.50:854][464]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.24.50:854][464]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.24.50
+[2020.02.25-05.24.50:855][464]LogWorld: Bringing up level for play took: 0.000567
+[2020.02.25-05.24.50:867][464]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.806
+[2020.02.25-05.24.50:867][464]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.24.59:858][540]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.24.59:858][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.24.59:886][540]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.24.59:886][540]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.24.59:927][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.24.59:932][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.02.25-05.25.00:011][542]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.02.25-05.25.27:101][641]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.25.48:868][167]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.25-05.25.49:100][167]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.02.25-05.25.49:586][216]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPEEC9673D48622A9D596F5F9A89DCA646.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.27.27:082][552]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.02.25-05.27.27:290][552]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Test_Realm_Alberto_Auto4F9E5B42C40ABB652D7AF8DB310D165CE.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Autosaves/Game/Maps/Test_Realm_Alberto_Auto4.umap'
+[2020.02.25-05.27.27:292][552]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test_Realm_Alberto' took 0.248
+[2020.02.25-05.27.27:292][552]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.248
+[2020.02.25-05.30.18:102][913]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.02.25-05.30.18:303][913]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Test_Realm_AlbertoD55BBEE64AC9A4E41DDBC392D9B37097.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Test_Realm_Alberto.umap'
+[2020.02.25-05.30.21:893][339]LogEditorViewport: Clicking on Actor (LMB): Carry_Item_BP_C (Carry_Item_BP)
+[2020.02.25-05.30.23:179][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.02.25-05.36.03:138][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.36.04:319][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.25-05.36.05:641][743]Cmd: DELETE
+[2020.02.25-05.36.05:641][743]Cmd: ACTOR DELETE
+[2020.02.25-05.36.05:643][743]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-05.36.05:685][743]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.02.25-05.36.05:685][743]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.02.25-05.36.08:108][ 34]LogEditorViewport: Clicking on Actor (LMB): Carry_Item_BP_C (Carry_Item_BP)
+[2020.02.25-05.36.20:324][490]Cmd: TRANSACTION UNDO
+[2020.02.25-05.36.20:324][490]LogEditorTransaction: Undo Move Actors
+[2020.02.25-05.36.20:858][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.36.25:633][120]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.36.26:582][233]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.36.26:603][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.36.26:603][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.36.26:603][233]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:36:26 PM)
+[2020.02.25-05.36.26:603][233]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.36.26:606][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002647s)
+[2020.02.25-05.36.26:606][233]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.36.26:606][233]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2020.02.25-05.36.26:607][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003249s)
+[2020.02.25-05.36.26:643][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.02.25-05.36.26:648][233]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.36.26:657][233]LogInit: FAudioDevice initialized.
+[2020.02.25-05.36.26:657][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.36.26:684][233]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.36.26:685][233]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.36.26
+[2020.02.25-05.36.26:685][233]LogWorld: Bringing up level for play took: 0.000557
+[2020.02.25-05.36.26:697][233]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 1.023
+[2020.02.25-05.36.26:697][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.36.29:353][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.36.29:353][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.36.29:382][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.36.29:382][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.36.29:421][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.36.29:425][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.02.25-05.36.29:502][548]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.02.25-05.36.35:857][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.36.41:272][952]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.25-05.36.56:407][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.37.00:197][212]Cmd: DELETE
+[2020.02.25-05.37.00:197][212]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.02.25-05.37.00:197][212]LogGeometryMode: Warning: Unable to resolve ConeBrush Brush in new BSP, see above
+[2020.02.25-05.37.00:197][212]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.25-05.37.01:706][393]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-05.37.08:676][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.37.09:945][371]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-05.37.15:340][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.37.16:485][146]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.37.16:505][146]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.37.16:505][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.37.16:505][146]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:37:16 PM)
+[2020.02.25-05.37.16:505][146]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.37.16:508][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002931s)
+[2020.02.25-05.37.16:509][146]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.37.16:509][146]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2020.02.25-05.37.16:509][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003533s)
+[2020.02.25-05.37.16:545][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.02.25-05.37.16:550][146]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.37.16:557][146]LogInit: FAudioDevice initialized.
+[2020.02.25-05.37.16:557][146]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.37.16:584][146]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.37.16:584][146]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.37.16
+[2020.02.25-05.37.16:585][146]LogWorld: Bringing up level for play took: 0.000606
+[2020.02.25-05.37.16:596][146]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.25-05.37.16:597][146]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Player_Char_BP_C]
+[2020.02.25-05.37.16:597][146]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Player_Char_BP_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2020.02.25-05.37.16:599][146]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.925
+[2020.02.25-05.37.16:599][146]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.37.19:572][500]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.37.19:572][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.37.19:602][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.37.19:602][500]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.37.19:642][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.37.19:647][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.02.25-05.37.19:714][502]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.02.25-05.37.22:960][886]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.37.24:256][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.37.24:275][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.37.24:275][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.37.24:275][ 41]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:37:24 PM)
+[2020.02.25-05.37.24:275][ 41]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.37.24:278][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002915s)
+[2020.02.25-05.37.24:278][ 41]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.37.24:279][ 41]LogPlayLevel: PIE: World Init took: (0.000454s)
+[2020.02.25-05.37.24:279][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003458s)
+[2020.02.25-05.37.24:312][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.02.25-05.37.24:317][ 41]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.37.24:324][ 41]LogInit: FAudioDevice initialized.
+[2020.02.25-05.37.24:325][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.37.24:352][ 41]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.37.24:352][ 41]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.37.24
+[2020.02.25-05.37.24:353][ 41]LogWorld: Bringing up level for play took: 0.000582
+[2020.02.25-05.37.24:364][ 41]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.25-05.37.24:365][ 41]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Player_Char_BP_C]
+[2020.02.25-05.37.24:365][ 41]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Player_Char_BP_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2020.02.25-05.37.24:365][ 41]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.691
+[2020.02.25-05.37.24:365][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.37.25:520][177]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.37.25:520][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.37.25:547][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.37.25:547][177]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.37.25:586][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.37.25:591][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.02.25-05.37.25:663][179]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.02.25-05.37.27:905][447]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.02.25-05.37.34:709][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.37.35:810][384]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.37.35:831][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.37.35:831][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.37.35:831][384]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:37:35 PM)
+[2020.02.25-05.37.35:831][384]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.37.35:834][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002883s)
+[2020.02.25-05.37.35:834][384]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.37.35:834][384]LogPlayLevel: PIE: World Init took: (0.000470s)
+[2020.02.25-05.37.35:834][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.003436s)
+[2020.02.25-05.37.35:870][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.02.25-05.37.35:875][384]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.37.35:883][384]LogInit: FAudioDevice initialized.
+[2020.02.25-05.37.35:908][384]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.37.35:909][384]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.37.35
+[2020.02.25-05.37.35:910][384]LogWorld: Bringing up level for play took: 0.000588
+[2020.02.25-05.37.35:922][384]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto 0.248
+[2020.02.25-05.37.35:922][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.37.40:136][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.37.40:136][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.37.40:166][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.37.40:166][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.37.40:205][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.37.40:209][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.02.25-05.37.40:278][889]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.02.25-05.37.45:703][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.37.48:334][845]LogSlate: Window 'Select Path' being destroyed
+[2020.02.25-05.37.48:356][845]LogStaticMesh: Building static mesh Cone_Brush_StaticMesh...
+[2020.02.25-05.37.48:361][845]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2020.02.25-05.37.48:365][845]LogStaticMesh: Built static mesh [0.01s] /Game/Cone_Brush_StaticMesh.Cone_Brush_StaticMesh
+[2020.02.25-05.37.48:367][845]LogActorFactory: Actor Factory created Cone_Brush_StaticMesh
+[2020.02.25-05.37.48:386][845]LogEditor: Error: Actor 'Brush /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.ConeBrush' is marked pending kill and cannot be converted
+[2020.02.25-05.37.48:386][845]EditorErrors: New page: Actor Reattachment
+[2020.02.25-05.37.48:426][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.02.25-05.37.49:895][990]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-05.37.53:248][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.25-05.37.58:698][ 30]Cmd: TRANSACTION UNDO
+[2020.02.25-05.37.58:699][ 30]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-05.37.59:158][ 82]Cmd: TRANSACTION UNDO
+[2020.02.25-05.37.59:158][ 82]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-05.37.59:876][165]Cmd: TRANSACTION UNDO
+[2020.02.25-05.37.59:876][165]LogEditorTransaction: Undo Convert Actors
+[2020.02.25-05.38.10:319][401]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-05.38.12:867][703]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.12:867][703]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-05.38.13:292][752]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.13:292][752]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.38.13:727][803]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.13:727][803]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.38.14:135][851]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.14:135][851]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.38.14:511][895]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.14:511][895]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.38.14:962][948]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.14:962][948]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.38.15:337][992]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.15:337][992]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.38.15:680][ 32]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.15:680][ 32]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.25-05.38.16:305][107]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.16:305][107]LogEditorTransaction: Undo Move Actors
+[2020.02.25-05.38.16:697][154]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.16:697][154]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-05.38.17:081][200]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.17:081][200]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-05.38.17:540][254]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.17:540][254]LogEditorTransaction: Undo Modifier [Flip]
+[2020.02.25-05.38.17:979][301]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.17:979][301]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.25-05.38.18:556][369]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.18:556][369]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-05.38.19:102][432]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.19:102][432]LogEditorTransaction: Undo Modifier [Delete]
+[2020.02.25-05.38.20:457][587]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-05.38.36:438][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.38.36:546][501]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2020.02.25-05.38.36:546][501]LogGeometryMode: Warning: Unable to resolve ConeBrush Brush in new BSP, see above
+[2020.02.25-05.38.36:546][501]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.25-05.38.42:698][236]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-05.38.47:696][827]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-05.38.48:716][947]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.48:716][947]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-05.38.49:174][  0]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.49:174][  0]LogEditorTransaction: Undo Move Actors
+[2020.02.25-05.38.49:176][  0]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.02.25-05.38.49:176][  0]LogGeometryMode: Warning: Unable to resolve ConeBrush Brush in new BSP, see above
+[2020.02.25-05.38.49:176][  0]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.25-05.38.57:071][930]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-05.38.58:040][ 44]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.58:040][ 44]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-05.38.59:509][218]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.59:509][218]LogEditorTransaction: Undo Move Actors
+[2020.02.25-05.38.59:511][218]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.02.25-05.38.59:511][218]LogGeometryMode: Warning: Unable to resolve ConeBrush Brush in new BSP, see above
+[2020.02.25-05.38.59:511][218]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.25-05.38.59:938][263]Cmd: TRANSACTION UNDO
+[2020.02.25-05.38.59:938][263]LogEditorTransaction: Undo Move Actors
+[2020.02.25-05.38.59:940][263]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.02.25-05.38.59:940][263]LogGeometryMode: Warning: Unable to resolve ConeBrush Brush in new BSP, see above
+[2020.02.25-05.38.59:940][263]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.25-05.39.09:790][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.39.16:479][232]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.25-05.39.17:870][396]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.39.18:857][514]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.39.18:879][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.39.18:879][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.39.18:879][514]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:39:18 PM)
+[2020.02.25-05.39.18:880][514]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.39.18:883][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003548s)
+[2020.02.25-05.39.18:884][514]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.39.18:884][514]LogPlayLevel: PIE: World Init took: (0.000471s)
+[2020.02.25-05.39.18:884][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.004102s)
+[2020.02.25-05.39.18:946][514]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2020.02.25-05.39.18:951][514]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.39.18:959][514]LogInit: FAudioDevice initialized.
+[2020.02.25-05.39.18:959][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.39.18:991][514]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.39.18:992][514]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.39.18
+[2020.02.25-05.39.18:992][514]LogWorld: Bringing up level for play took: 0.000685
+[2020.02.25-05.39.19:003][514]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.25-05.39.19:004][514]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Player_Char_BP_C]
+[2020.02.25-05.39.19:004][514]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Player_Char_BP_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2020.02.25-05.39.19:004][514]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.67
+[2020.02.25-05.39.19:004][514]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.39.20:584][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.39.20:584][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.39.20:612][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.39.20:612][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.39.20:658][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.39.20:668][701]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.02.25-05.39.20:688][702]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.02.25-05.39.23:301][  9]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.02.25-05.39.27:322][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.39.31:925][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.39.33:350][201]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.39.33:371][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.39.33:371][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.39.33:371][201]PIE: New page: PIE session: Test_Realm_Alberto (Feb 24, 2020, 4:39:33 PM)
+[2020.02.25-05.39.33:371][201]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test_Realm_Alberto
+[2020.02.25-05.39.33:375][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003593s)
+[2020.02.25-05.39.33:375][201]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.39.33:375][201]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2020.02.25-05.39.33:375][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto to /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto (0.004156s)
+[2020.02.25-05.39.33:414][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.02.25-05.39.33:418][201]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.39.33:427][201]LogInit: FAudioDevice initialized.
+[2020.02.25-05.39.33:427][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.39.33:454][201]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.39.33:455][201]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test_Realm_Alberto.Test_Realm_Alberto up for play (max tick rate 0) at 2020.02.25-00.39.33
+[2020.02.25-05.39.33:455][201]LogWorld: Bringing up level for play took: 0.000686
+[2020.02.25-05.39.33:467][201]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test_Realm_Alberto -0.206
+[2020.02.25-05.39.33:467][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.39.37:964][738]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.39.37:964][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.39.37:996][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.39.37:996][738]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto' with GeneratedClass '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto_C' with ClassGeneratedBy '/Game/Maps/Test_Realm_Alberto.Test_Realm_Alberto:PersistentLevel.Test_Realm_Alberto'
+[2020.02.25-05.39.38:041][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.39.38:046][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.02.25-05.39.38:065][739]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.02.25-05.39.41:297][121]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.41:297][121]LogEditorTransaction: Undo Move Actors
+[2020.02.25-05.39.41:695][165]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.41:695][165]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-05.39.42:242][227]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.42:242][227]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.25-05.39.42:726][283]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.42:726][283]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-05.39.43:212][341]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.43:212][341]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-05.39.43:614][388]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.43:614][388]LogEditorTransaction: Undo Move Actors
+[2020.02.25-05.39.44:056][434]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.44:056][434]LogEditorTransaction: Undo Move Actors
+[2020.02.25-05.39.44:058][434]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2020.02.25-05.39.44:058][434]LogGeometryMode: Warning: Unable to resolve ConeBrush Brush in new BSP, see above
+[2020.02.25-05.39.44:058][434]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.25-05.39.44:609][499]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.44:609][499]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.39.45:024][547]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.45:024][547]LogEditorTransaction: Undo Modifier [Split]
+[2020.02.25-05.39.45:420][591]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.45:420][591]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.39.45:802][634]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.45:802][634]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.39.46:169][676]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.46:169][676]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.39.46:529][717]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.46:529][717]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.39.46:971][768]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.46:971][768]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.39.47:363][813]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.47:363][813]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.25-05.39.47:862][871]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.47:862][871]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-05.39.48:316][924]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.48:317][924]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.39.48:697][968]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.48:698][968]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.39.49:165][ 23]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.49:165][ 23]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.39.49:566][ 70]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.49:566][ 70]LogEditorTransaction: Undo Modifier [Split]
+[2020.02.25-05.39.50:090][130]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.50:090][130]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.39.50:689][199]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.50:689][199]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.39.51:823][333]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.51:823][333]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.39.52:265][384]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.52:265][384]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.39.52:957][465]Cmd: TRANSACTION UNDO
+[2020.02.25-05.39.52:957][465]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.25-05.40.12:870][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.40.23:890][123]LogAIModule: Creating AISystem for world Puzzle_Realm_Jonathan
+[2020.02.25-05.40.23:894][123]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan
+[2020.02.25-05.40.23:934][123]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.02.25-05.40.30:009][123]LogSlate: Window 'Save Content' being destroyed
+[2020.02.25-05.40.30:020][123]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/BTDecorator_BlueprintBase_New6225793943E847814EE83CB4879F7388.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/BTDecorator_BlueprintBase_New.uasset'
+[2020.02.25-05.40.30:030][123]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/BTService_BlueprintBase_NewD3FB8F2642E3A8C6563B13B80987CB77.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/BTService_BlueprintBase_New.uasset'
+[2020.02.25-05.40.30:071][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.02.25-05.40.30:312][123]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Test_Realm_AlbertoD0E648124A610D090C278FAB956A90F3.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Test_Realm_Alberto.umap'
+[2020.02.25-05.40.30:340][123]LogFileHelpers: Saving map 'Test_Realm_Alberto' took 0.308
+[2020.02.25-05.40.30:341][123]Cmd: MAP LOAD FILE="../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Puzzle_Realm_Jonathan.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.25-05.40.30:341][123]LightingResults: New page: Lighting Build
+[2020.02.25-05.40.30:341][123]LoadErrors: New page: Loading map: Puzzle_Realm_Jonathan.umap
+[2020.02.25-05.40.30:342][123]MapCheck: New page: Map Check
+[2020.02.25-05.40.30:342][123]LightingResults: New page: Lighting Build
+[2020.02.25-05.40.30:383][123]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.02.25-05.40.30:388][123]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.25-05.40.30:428][123]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.02.25-05.40.30:453][123]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.25-05.40.30:453][123]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2020.02.25-05.40.30:453][123]LogFileHelpers: Loading map 'Puzzle_Realm_Jonathan' took 0.114
+[2020.02.25-05.40.30:512][123]LogAIModule: Creating AISystem for world Test_Realm_Alberto
+[2020.02.25-05.40.30:615][128]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/BTDecorator_BlueprintBase_New.
+[2020.02.25-05.40.30:618][128]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/BTService_BlueprintBase_New.
+[2020.02.25-05.40.33:222][439]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.40.34:397][580]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.40.34:422][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan' with GeneratedClass '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan'
+[2020.02.25-05.40.34:422][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.40.34:422][580]PIE: New page: PIE session: Puzzle_Realm_Jonathan (Feb 24, 2020, 4:40:34 PM)
+[2020.02.25-05.40.34:422][580]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Realm_Jonathan
+[2020.02.25-05.40.34:427][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004593s)
+[2020.02.25-05.40.34:428][580]LogAIModule: Creating AISystem for world Puzzle_Realm_Jonathan
+[2020.02.25-05.40.34:428][580]LogPlayLevel: PIE: World Init took: (0.000500s)
+[2020.02.25-05.40.34:428][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan to /Game/Maps/UEDPIE_0_Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan (0.005284s)
+[2020.02.25-05.40.34:466][580]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.02.25-05.40.34:471][580]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.40.34:479][580]LogInit: FAudioDevice initialized.
+[2020.02.25-05.40.34:479][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-05.40.34:508][580]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.40.34:509][580]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan up for play (max tick rate 0) at 2020.02.25-00.40.34
+[2020.02.25-05.40.34:509][580]LogWorld: Bringing up level for play took: 0.000676
+[2020.02.25-05.40.34:521][580]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Realm_Jonathan 0.847
+[2020.02.25-05.40.34:521][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan' with GeneratedClass '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan'
+[2020.02.25-05.40.46:900][ 59]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan' with GeneratedClass '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan'
+[2020.02.25-05.40.46:900][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.40.46:929][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.40.46:929][ 59]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan' with GeneratedClass '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan'
+[2020.02.25-05.40.46:971][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.40.46:976][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.02.25-05.40.47:002][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.02.25-05.40.48:963][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.41.11:796][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.41.11:863][ 10]BlueprintLog: New page: Compile Player_Char_BP
+[2020.02.25-05.41.12:140][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.02.25-05.41.12:639][ 56]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP9BDDC86C413AFE13CFCEEEB1DEB9EC6F.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.41.15:545][402]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.41.15:568][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan' with GeneratedClass '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan'
+[2020.02.25-05.41.15:568][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-05.41.15:568][402]PIE: New page: PIE session: Puzzle_Realm_Jonathan (Feb 24, 2020, 4:41:15 PM)
+[2020.02.25-05.41.15:568][402]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Realm_Jonathan
+[2020.02.25-05.41.15:573][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004548s)
+[2020.02.25-05.41.15:573][402]LogAIModule: Creating AISystem for world Puzzle_Realm_Jonathan
+[2020.02.25-05.41.15:573][402]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2020.02.25-05.41.15:573][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan to /Game/Maps/UEDPIE_0_Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan (0.005128s)
+[2020.02.25-05.41.15:613][402]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.02.25-05.41.15:617][402]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.41.15:626][402]LogInit: FAudioDevice initialized.
+[2020.02.25-05.41.15:658][402]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.41.15:659][402]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan up for play (max tick rate 0) at 2020.02.25-00.41.15
+[2020.02.25-05.41.15:659][402]LogWorld: Bringing up level for play took: 0.000666
+[2020.02.25-05.41.15:671][402]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Realm_Jonathan -0.002
+[2020.02.25-05.41.15:671][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan' with GeneratedClass '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan'
+[2020.02.25-05.41.23:202][303]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan' with GeneratedClass '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan'
+[2020.02.25-05.41.23:202][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.41.23:229][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.41.23:229][303]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan' with GeneratedClass '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan'
+[2020.02.25-05.41.23:272][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.41.23:277][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.02.25-05.41.23:351][305]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.02.25-05.41.24:650][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.41.29:000][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.41.30:688][181]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-05.41.30:712][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan' with GeneratedClass '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan'
+[2020.02.25-05.41.30:712][181]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.25-05.41.30:717][181]LogPlayLevel: [PlayLevel] Compiling Player_Char_BP before play...
+[2020.02.25-05.41.30:968][181]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.02.25-05.41.30:968][181]LogPlayLevel: PlayLevel: Blueprint regeneration took 256 ms (1 blueprints)
+[2020.02.25-05.41.30:968][181]PIE: New page: PIE session: Puzzle_Realm_Jonathan (Feb 24, 2020, 4:41:30 PM)
+[2020.02.25-05.41.30:968][181]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Realm_Jonathan
+[2020.02.25-05.41.30:973][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004570s)
+[2020.02.25-05.41.30:973][181]LogAIModule: Creating AISystem for world Puzzle_Realm_Jonathan
+[2020.02.25-05.41.30:974][181]LogPlayLevel: PIE: World Init took: (0.000470s)
+[2020.02.25-05.41.30:974][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan to /Game/Maps/UEDPIE_0_Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan (0.005127s)
+[2020.02.25-05.41.31:014][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.02.25-05.41.31:019][181]LogInit: XAudio2 using '1 - D43n-E1 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-05.41.31:027][181]LogInit: FAudioDevice initialized.
+[2020.02.25-05.41.31:054][181]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.02.25-05.41.31:055][181]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan up for play (max tick rate 0) at 2020.02.25-00.41.31
+[2020.02.25-05.41.31:055][181]LogWorld: Bringing up level for play took: 0.000658
+[2020.02.25-05.41.31:067][181]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Realm_Jonathan -0.606
+[2020.02.25-05.41.31:067][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan' with GeneratedClass '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan'
+[2020.02.25-05.41.45:156][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan' with GeneratedClass '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan'
+[2020.02.25-05.41.45:156][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.41.45:181][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-05.41.45:181][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan' with GeneratedClass '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Realm_Jonathan.Puzzle_Realm_Jonathan:PersistentLevel.Puzzle_Realm_Jonathan'
+[2020.02.25-05.41.45:224][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-05.41.45:229][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.02.25-05.41.45:308][870]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.02.25-05.41.46:536][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-05.41.48:521][238]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP92BE53744B7508702B24768B25305494.tmp' to '../../../../../../Users/Albatross/Desktop/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.02.25-05.50.58:670][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.02.25-05.50.58:670][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Puzzle_Realm_Jonathan' took 0.040
+[2020.02.25-05.52.10:324][865]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.02.25-05.52.10:395][865]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.25-05.52.10:458][865]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.25-05.52.10:524][865]LogSlate: Window 'Zelda_Dungeon - Unreal Editor' being destroyed
+[2020.02.25-05.52.10:678][866]Cmd: QUIT_EDITOR
+[2020.02.25-05.52.11:405][866]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.25-05.52.11:417][866]LogExit: Preparing to exit.
+[2020.02.25-05.52.12:470][866]LogExit: Editor shut down
+[2020.02.25-05.52.12:470][866]LogExit: Transaction tracking system shut down
+[2020.02.25-05.52.12:748][866]LogExit: Object subsystem successfully closed.
+[2020.02.25-05.52.12:762][866]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.25-05.52.12:767][866]LogD3D11RHI: Shutdown
+[2020.02.25-05.52.12:768][866]LogD3D11RHI: CleanupD3DDevice
+[2020.02.25-05.52.12:768][866]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.25-05.52.12:768][866]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.25-05.52.12:768][866]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.25-05.52.12:768][866]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.25-05.52.12:768][866]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.25-05.52.12:768][866]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.25-05.52.12:769][866]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.25-05.52.12:782][866]LogModuleManager: Shutting down and abandoning module MeshBuilder (654)
+[2020.02.25-05.52.12:782][866]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (652)
+[2020.02.25-05.52.12:782][866]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2020.02.25-05.52.12:782][866]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2020.02.25-05.52.12:782][866]LogModuleManager: Shutting down and abandoning module BlueprintGraph (646)
+[2020.02.25-05.52.12:782][866]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2020.02.25-05.52.12:782][866]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2020.02.25-05.52.12:782][866]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.02.25-05.52.12:783][866]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.02.25-05.52.12:784][866]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.02.25-05.52.13:764][866]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.02.25-05.52.13:764][866]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.02.25-05.52.13:764][866]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.02.25-05.52.13:764][866]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.02.25-05.52.13:764][866]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.02.25-05.52.13:764][866]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.02.25-05.52.13:764][866]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.02.25-05.52.13:764][866]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.02.25-05.52.13:764][866]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.02.25-05.52.13:764][866]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.02.25-05.52.13:764][866]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.02.25-05.52.13:764][866]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.02.25-05.52.13:764][866]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.02.25-05.52.13:765][866]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.02.25-05.52.13:765][866]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.02.25-05.52.13:765][866]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.02.25-05.52.13:765][866]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.02.25-05.52.13:765][866]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.02.25-05.52.13:765][866]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.02.25-05.52.13:765][866]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.02.25-05.52.13:765][866]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.02.25-05.52.13:765][866]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.02.25-05.52.13:765][866]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.02.25-05.52.13:809][866]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.02.25-05.52.13:809][866]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.02.25-05.52.13:809][866]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.02.25-05.52.13:809][866]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.02.25-05.52.13:809][866]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.02.25-05.52.13:809][866]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.02.25-05.52.13:809][866]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.02.25-05.52.13:809][866]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.02.25-05.52.13:809][866]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.02.25-05.52.13:809][866]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.02.25-05.52.13:809][866]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.02.25-05.52.13:821][866]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.02.25-05.52.13:821][866]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.02.25-05.52.13:822][866]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.02.25-05.52.13:822][866]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.02.25-05.52.13:822][866]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.02.25-05.52.13:822][866]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.02.25-05.52.13:822][866]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.02.25-05.52.13:822][866]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.02.25-05.52.13:823][866]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.02.25-05.52.13:825][866]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.02.25-05.52.13:830][866]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.02.25-05.52.13:831][866]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.02.25-05.52.13:932][866]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.02.25-05.52.14:032][866]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.02.25-05.52.14:032][866]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.02.25-05.52.14:032][866]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.02.25-05.52.14:032][866]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.02.25-05.52.14:032][866]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.02.25-05.52.14:032][866]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.25-05.52.14:032][866]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.02.25-05.52.14:032][866]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.02.25-05.52.14:032][866]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.02.25-05.52.14:032][866]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.02.25-05.52.14:032][866]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.02.25-05.52.14:032][866]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.02.25-05.52.14:032][866]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.02.25-05.52.14:032][866]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.02.25-05.52.14:032][866]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.02.25-05.52.14:033][866]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.02.25-05.52.14:033][866]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.02.25-05.52.14:033][866]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.02.25-05.52.14:033][866]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.02.25-05.52.14:034][866]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.02.25-05.52.14:035][866]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.02.25-05.52.14:035][866]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.02.25-05.52.14:035][866]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.02.25-05.52.14:035][866]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.02.25-05.52.14:035][866]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.02.25-05.52.14:035][866]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.02.25-05.52.14:035][866]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.02.25-05.52.14:035][866]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.02.25-05.52.14:035][866]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.02.25-05.52.14:036][866]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.02.25-05.52.14:036][866]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.02.25-05.52.14:036][866]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.02.25-05.52.14:036][866]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.02.25-05.52.14:036][866]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.02.25-05.52.14:036][866]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.02.25-05.52.14:036][866]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.02.25-05.52.14:062][866]LogDerivedDataCache: Shutdown
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.02.25-05.52.14:062][866]LogXGEController: Cleaning working directory: C:/Users/Albatross/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.02.25-05.52.14:062][866]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.02.25-05.52.14:063][866]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.02.25-05.52.14:063][866]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.02.25-05.52.14:063][866]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.02.25-05.52.14:063][866]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.02.25-05.52.14:063][866]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.02.25-05.52.14:064][866]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.02.25-05.52.14:064][866]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.02.25-05.52.14:064][866]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.02.25-05.52.14:064][866]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.02.25-05.52.14:070][866]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.02.25-05.52.14:070][866]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.02.25-05.52.14:074][866]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.02.25-05.52.14:074][866]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.25-05.52.14:074][866]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5B24B926-4CF9-296B-0AC9-6A923234D80C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b7bea754d17ab4e099206abf249931e%7C0f9af0154dce4c45ab11fbaaaaa0fb52%7C2bf8359c-0f5a-4db7-b136-79ebd56f13b5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.25-05.52.14:088][866]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.02.25-05.52.14:089][866]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.02.25-05.52.14:090][866]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.02.25-05.52.14:096][866]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.02.25-05.52.14:096][866]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.02.25-05.52.14:096][866]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.25-05.52.14:096][866]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.25-05.52.14:096][866]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.25-05.52.14:096][866]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.25-05.52.14:096][866]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.25-05.52.14:096][866]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.25-05.52.14:096][866]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.25-05.52.14:097][866]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.25-05.52.14:097][866]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.25-05.52.14:097][866]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.25-05.52.14:097][866]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.25-05.52.14:097][866]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.25-05.52.14:097][866]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.25-05.52.14:097][866]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.25-05.52.14:097][866]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.25-05.52.14:097][866]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.25-05.52.14:097][866]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.25-05.52.14:097][866]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.25-05.52.14:098][866]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.25-05.52.14:105][866]LogExit: Exiting.
+[2020.02.25-05.52.14:120][866]Log file closed, 02/25/20 00:52:14
