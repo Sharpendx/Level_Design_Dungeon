@@ -2112,4 +2112,151 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-04.31.30:739][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.03.05-04.31.30:744][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
 [2020.03.05-04.31.30:832][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_28
+<<<<<<< HEAD
+>>>>>>> master
+=======
+[2020.03.05-04.33.37:134][177]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC)
+[2020.03.05-04.33.44:267][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-04.33.44:351][968]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-04.33.44:376][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.33.44:376][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-04.33.44:376][968]PIE: New page: PIE session: Monster_Type_Map (Mar 4, 2020, 6:33:44 PM)
+[2020.03.05-04.33.44:376][968]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-04.33.44:393][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017181s)
+[2020.03.05-04.33.44:394][968]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-04.33.44:394][968]LogPlayLevel: PIE: World Init took: (0.000469s)
+[2020.03.05-04.33.44:394][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.017758s)
+[2020.03.05-04.33.44:431][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.03.05-04.33.44:440][968]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-04.33.44:448][968]LogInit: FAudioDevice initialized.
+[2020.03.05-04.33.44:477][968]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-04.33.44:479][968]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.04-23.33.44
+[2020.03.05-04.33.44:480][968]LogWorld: Bringing up level for play took: 0.002221
+[2020.03.05-04.33.44:494][968]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map -0.388
+[2020.03.05-04.33.44:494][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.33.44:523][969]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [NPC_C]
+[2020.03.05-04.34.19:274][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.34.19:274][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-04.34.19:304][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-04.34.19:305][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.34.19:345][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-04.34.19:349][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.03.05-04.34.19:417][135]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.03.05-04.34.20:377][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.03.05-04.34.21:001][316]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC)
+[2020.03.05-04.34.34:060][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-04.34.42:860][861]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AI/NPC.NPC
+[2020.03.05-04.35.34:519][666]BlueprintLog: New page: Compile NPC
+[2020.03.05-04.35.34:796][666]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.03.05-04.35.35:278][713]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/NPC4ABE953D48D9BCD61EFA80A07A2A7491.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/NPC.uasset'
+[2020.03.05-04.35.46:554][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.03.05-04.35.46:868][ 55]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Monster_Type_Map04AD7F854894BC9AA4AB35AFDB37C93A.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Monster_Type_Map.umap'
+[2020.03.05-04.37.35:461][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-04.38.38:486][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.03.05-04.38.43:571][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-04.40.40:019][796]BlueprintLog: New page: Compile NPC
+[2020.03.05-04.40.40:243][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.03.05-04.40.40:654][835]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/NPC8FDBEF804ABD7CCC6B2693AA2C3A7C4A.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/NPC.uasset'
+[2020.03.05-04.43.01:698][443]BlueprintLog: New page: Compile NPC
+[2020.03.05-04.43.01:915][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.03.05-04.43.02:702][527]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/NPC90A5538D462AC160897CCDB8F9319401.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/NPC.uasset'
+[2020.03.05-04.43.04:545][746]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-04.43.04:576][746]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.43.04:576][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-04.43.04:576][746]PIE: New page: PIE session: Monster_Type_Map (Mar 4, 2020, 6:43:04 PM)
+[2020.03.05-04.43.04:576][746]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-04.43.04:593][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016825s)
+[2020.03.05-04.43.04:594][746]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-04.43.04:594][746]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2020.03.05-04.43.04:594][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.017443s)
+[2020.03.05-04.43.04:635][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.03.05-04.43.04:646][746]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-04.43.04:655][746]LogInit: FAudioDevice initialized.
+[2020.03.05-04.43.04:680][746]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-04.43.04:682][746]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.04-23.43.04
+[2020.03.05-04.43.04:682][746]LogWorld: Bringing up level for play took: 0.002203
+[2020.03.05-04.43.04:697][746]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map -0.185
+[2020.03.05-04.43.04:697][746]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.43.37:537][674]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.43.37:537][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-04.43.37:568][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-04.43.37:568][674]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.43.37:611][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-04.43.37:616][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.03.05-04.43.37:637][675]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.03.05-04.43.38:199][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-04.44.03:377][712]BlueprintLog: New page: Compile NPC
+[2020.03.05-04.44.03:600][712]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.03.05-04.44.04:032][754]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/NPCB95DC9F048E8AB2999C8398DB9EB1355.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/NPC.uasset'
+[2020.03.05-04.44.05:827][968]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-04.44.05:859][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.44.05:859][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-04.44.05:859][968]PIE: New page: PIE session: Monster_Type_Map (Mar 4, 2020, 6:44:05 PM)
+[2020.03.05-04.44.05:859][968]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-04.44.05:876][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016753s)
+[2020.03.05-04.44.05:876][968]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-04.44.05:876][968]LogPlayLevel: PIE: World Init took: (0.000494s)
+[2020.03.05-04.44.05:876][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.017348s)
+[2020.03.05-04.44.05:915][968]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.03.05-04.44.05:923][968]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-04.44.05:931][968]LogInit: FAudioDevice initialized.
+[2020.03.05-04.44.05:957][968]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-04.44.05:959][968]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.04-23.44.05
+[2020.03.05-04.44.05:960][968]LogWorld: Bringing up level for play took: 0.002222
+[2020.03.05-04.44.05:974][968]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map 1.092
+[2020.03.05-04.44.05:974][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.44.27:262][516]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.44.27:262][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-04.44.27:294][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-04.44.27:294][516]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.44.27:335][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-04.44.27:340][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.03.05-04.44.27:413][518]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.03.05-04.44.30:134][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-04.45.25:171][416]BlueprintLog: New page: Compile NPC
+[2020.03.05-04.45.25:178][416]LogBlueprint: Error: [Compiler NPC] This blueprint (self) is not a BlackboardComponent, therefore ' Target ' must have a connection.
+[2020.03.05-04.45.25:178][416]LogBlueprint: Error: [Compiler NPC] This blueprint (self) is not a BlackboardComponent, therefore ' Target ' must have a connection.
+[2020.03.05-04.45.25:390][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.03.05-04.45.25:398][416]LogBlueprint: Warning: [Compiler NPC] [2158.85] Compile of NPC failed. 2 Fatal Issue(s) 0 Warning(s) [in 226 ms] (/Game/Blueprints/AI/NPC.NPC)
+[2020.03.05-04.45.32:668][286]LogEditorTransaction: Undo Create Pin Link
+[2020.03.05-04.45.33:001][323]LogEditorTransaction: Undo Create Pin Link
+[2020.03.05-04.45.33:302][356]LogEditorTransaction: Undo Create Pin Link
+[2020.03.05-04.45.33:582][387]LogEditorTransaction: Undo Create Pin Link
+[2020.03.05-04.45.33:970][431]LogEditorTransaction: Undo Create Pin Link
+[2020.03.05-04.45.42:612][439]BlueprintLog: New page: Compile NPC
+[2020.03.05-04.45.42:831][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.03.05-04.45.43:514][511]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/NPC659410854AAB68D46408EB98A51AD23A.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/NPC.uasset'
+[2020.03.05-04.45.44:993][686]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-04.45.45:025][686]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.45.45:025][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-04.45.45:025][686]PIE: New page: PIE session: Monster_Type_Map (Mar 4, 2020, 6:45:45 PM)
+[2020.03.05-04.45.45:025][686]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-04.45.45:041][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016675s)
+[2020.03.05-04.45.45:042][686]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-04.45.45:042][686]LogPlayLevel: PIE: World Init took: (0.000462s)
+[2020.03.05-04.45.45:042][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.017247s)
+[2020.03.05-04.45.45:082][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.03.05-04.45.45:091][686]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-04.45.45:099][686]LogInit: FAudioDevice initialized.
+[2020.03.05-04.45.45:130][686]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-04.45.45:132][686]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.04-23.45.45
+[2020.03.05-04.45.45:133][686]LogWorld: Bringing up level for play took: 0.002183
+[2020.03.05-04.45.45:147][686]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map 0.265
+[2020.03.05-04.45.45:147][686]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.46.01:020][584]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.46.01:020][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-04.46.01:054][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-04.46.01:054][584]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-04.46.01:095][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-04.46.01:099][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.03.05-04.46.01:172][586]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.03.05-04.46.08:087][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-04.46.17:041][926]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map
+[2020.03.05-04.46.42:057][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.03.05-04.46.42:379][858]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Monster_Type_Map32A5E5ED41116FD078DD76A178E7D66D.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Monster_Type_Map.umap'
+[2020.03.05-04.46.42:419][858]LogFileHelpers: Saving map 'Monster_Type_Map' took 0.405
+[2020.03.05-04.46.42:568][870]LogSlate: Window 'Monster_Type_Map' being destroyed
+[2020.03.05-04.46.42:570][870]LogSlate: Window 'Monster_Type_Map' being destroyed
+[2020.03.05-04.46.48:027][260]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-04.47.34:954][900]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 >>>>>>> master
