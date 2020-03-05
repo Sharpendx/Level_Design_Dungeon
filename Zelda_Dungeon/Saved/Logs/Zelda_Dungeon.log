@@ -6970,8 +6970,11 @@ Make sure 'AttackBall_Bp_C' has been compiled for  Set Health
 [2020.03.05-13.50.04:267][301]LogSavePackage: Moving '../../../../../../Users/jo269473/Documents/Dungeon_Level_Design/Level_Design_Dungeon/Zelda_Dungeon/Saved/TeleportNPC20A7242E412FB428ECAC5A9628279D69.tmp' to '../../../../../../Users/jo269473/Documents/Dungeon_Level_Design/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/TeleportNPC/TeleportNPC.uasset'
 [2020.03.05-13.50.04:300][301]LogSavePackage: Moving '../../../../../../Users/jo269473/Documents/Dungeon_Level_Design/Level_Design_Dungeon/Zelda_Dungeon/Saved/ChasePlayer7735D4AB4C137C68BE9E9C98BD109874.tmp' to '../../../../../../Users/jo269473/Documents/Dungeon_Level_Design/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/TeleportNPC/ChasePlayer.uasset'
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> master
 =======
+=======
+>>>>>>> Stashed changes
 [2020.03.05-13.53.50:583][153]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
 [2020.03.05-13.53.50:719][153]LogSlate: Window 'TeleportNPC' being destroyed
 [2020.03.05-13.53.50:777][153]LogSlate: Window 'Zelda_Dungeon - Unreal Editor' being destroyed
@@ -7319,4 +7322,7 @@ Make sure 'AttackBall_Bp_C' has been compiled for  Set Health
 [2020.03.05-13.53.53:056][154]LogModuleManager: Shutting down and abandoning module RSA (3)
 [2020.03.05-13.53.53:070][154]LogExit: Exiting.
 [2020.03.05-13.53.53:093][154]Log file closed, 03/05/20 08:53:53
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
