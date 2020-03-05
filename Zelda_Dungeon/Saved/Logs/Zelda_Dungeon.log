@@ -1,4 +1,4 @@
-﻿Log file open, 03/05/20 01:34:37
+﻿Log file open, 03/05/20 04:59:10
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,8 +9,8 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: Zelda_Dungeon
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
-LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.318497
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178987
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -120,12 +120,12 @@ LogInit: Build: ++UE4+Release-4.22-CL-7053642
 LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
 LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
 LogInit: Net CL: 5660361
-LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: OS: Windows 8.1 (), CPU: Intel(R) Core(TM) i5-4440 CPU @ 3.10GHz, GPU: Intel(R) HD Graphics 4600
 LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
 LogInit: Compiled with Visual C++: 19.16.27025.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.22
-LogInit: Command Line:  -EpicPortal -epicusername=ReMoRse_xD -epicuserid=cd1301a7ca1040d096b32cdedd9baae1 -epiclocale=en
+LogInit: Command Line: 
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 23
@@ -156,6 +156,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2020.03.05-06.34.38:488][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.03.05-06.34.38:488][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.03.05-06.34.38:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Program Files (HDD)/GitHub/Level Design Dungeon Project/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
@@ -1452,3 +1453,1345 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-07.33.29:813][196]LogModuleManager: Shutting down and abandoning module RSA (3)
 [2020.03.05-07.33.29:821][196]LogExit: Exiting.
 [2020.03.05-07.33.29:836][196]Log file closed, 03/05/20 02:33:29
+=======
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
+[2020.03.05-09.59.10:838][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.05-09.59.10:838][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
+[2020.03.05-09.59.10:838][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
+[2020.03.05-09.59.10:840][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-09.59.10:840][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.05-09.59.10:840][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.05-09.59.10:840][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-09.59.10:840][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.05-09.59.10:840][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-09.59.10:840][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.05-09.59.10:840][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.05-09.59.10:840][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.05-09.59.10:841][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.05-09.59.10:841][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-09.59.10:841][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.05-09.59.10:852][  0]LogHAL: Display: Platform has ~ 12 GB [12785070080 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.05-09.59.10:852][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.05-09.59.10:852][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.05-09.59.10:852][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-09.59.10:852][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.05-09.59.10:852][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.05-09.59.10:852][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-09.59.10:852][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.05-09.59.10:852][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-09.59.10:852][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.05-09.59.10:852][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.05-09.59.10:853][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.05-09.59.10:854][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.05-09.59.10:854][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.05-09.59.10:854][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
+[2020.03.05-09.59.10:854][  0]LogInit: Computer: OURS
+[2020.03.05-09.59.10:854][  0]LogInit: User: allen
+[2020.03.05-09.59.10:854][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.05-09.59.10:854][  0]LogInit: High frequency timer resolution =3.020371 MHz
+[2020.03.05-09.59.10:854][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2020.03.05-09.59.10:854][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.05-09.59.10:854][  0]LogMemory: Process Physical Memory: 95.48 MB used, 95.48 MB peak
+[2020.03.05-09.59.10:854][  0]LogMemory: Process Virtual Memory: 95.93 MB used, 95.93 MB peak
+[2020.03.05-09.59.10:854][  0]LogMemory: Physical Memory: 5470.66 MB used,  6722.13 MB free, 12192.79 MB total
+[2020.03.05-09.59.10:854][  0]LogMemory: Virtual Memory: 503.18 MB used,  134217224.00 MB free, 134217728.00 MB total
+[2020.03.05-09.59.10:875][  0]LogInit: Using OS detected language (en-US).
+[2020.03.05-09.59.10:875][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.05-09.59.10:876][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.05-09.59.11:063][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.05-09.59.11:088][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.05-09.59.11:088][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.05-09.59.11:268][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-09.59.11:268][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.05-09.59.11:276][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2020.03.05-09.59.11:276][  0]LogD3D11RHI:       0/0/1792 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.03.05-09.59.11:278][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.05-09.59.11:278][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.05-09.59.11:278][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.05-09.59.11:284][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.05-09.59.11:284][  0]LogD3D11RHI:     GPU DeviceId: 0x412 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.05-09.59.11:284][  0]LogWindows: EnumDisplayDevices:
+[2020.03.05-09.59.11:284][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2020.03.05-09.59.11:285][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.03.05-09.59.11:285][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.03.05-09.59.11:285][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.03.05-09.59.11:285][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4600
+[2020.03.05-09.59.11:285][  0]LogD3D11RHI:   Driver Version: 10.18.14.4029 (internal:10.18.14.4029, unified:10.18.14.4029)
+[2020.03.05-09.59.11:285][  0]LogD3D11RHI:      Driver Date: 11-18-2014
+[2020.03.05-09.59.11:285][  0]LogRHI: Texture pool is 627 MB (70% of 896 MB)
+[2020.03.05-09.59.11:292][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.05-09.59.11:295][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-09.59.11:295][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-09.59.11:295][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-09.59.11:298][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2020.03.05-09.59.11:569][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.05-09.59.11:584][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.05-09.59.11:599][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.05-09.59.11:614][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.05-09.59.11:630][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.05-09.59.11:645][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.05-09.59.11:662][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.05-09.59.11:679][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.05-09.59.11:686][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.05-09.59.11:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.05-09.59.11:780][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.05-09.59.11:832][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.05-09.59.11:832][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.05-09.59.11:860][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.05-09.59.11:860][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.05-09.59.11:874][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.05-09.59.11:888][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.05-09.59.11:902][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.05-09.59.11:917][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.05-09.59.11:967][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.05-09.59.11:967][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.05-09.59.11:967][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.05-09.59.11:976][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.05-09.59.12:023][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Intermediate/Shaders/WorkingDirectory/3556/).
+[2020.03.05-09.59.12:023][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/allen/AppData/Local/Temp/UnrealShaderWorkingDir/4F1279F74ED106AD4AFF01BABEB42717/'.
+[2020.03.05-09.59.12:025][  0]LogXGEController: Cleaning working directory: C:/Users/allen/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.05-09.59.12:025][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.05-09.59.12:025][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.05-09.59.12:025][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.05-09.59.12:660][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.05-09.59.12:740][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/allen/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.05-09.59.12:740][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/allen/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.05-09.59.12:740][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.05-09.59.12:740][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.05-09.59.12:740][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-09.59.12:740][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.05-09.59.12:755][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.05-09.59.12:755][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-09.59.12:755][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.05-09.59.12:768][  0]LogDerivedDataCache: Using Local data cache path C:/Users/allen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.05-09.59.12:768][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.05-09.59.12:768][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.05-09.59.12:794][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.05-09.59.12:795][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.05-09.59.12:796][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.05-09.59.12:899][  0]LogAssetRegistry: FAssetRegistry took 0.0359 seconds to start up
+[2020.03.05-09.59.13:253][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-09.59.13:398][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.05-09.59.13:398][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.05-09.59.13:398][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.05-09.59.13:398][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.05-09.59.13:398][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.05-09.59.13:410][  0]LogNetVersion: Zelda_Dungeon 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 331747485)
+[2020.03.05-09.59.13:892][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.061624 seconds
+[2020.03.05-09.59.13:899][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.03.05-09.59.13:899][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.03.05-09.59.13:899][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.05-09.59.14:769][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.05-09.59.14:783][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.05-09.59.14:891][  0]SourceControl: Source control is disabled
+[2020.03.05-09.59.14:891][  0]SourceControl: Source control is disabled
+[2020.03.05-09.59.14:894][  0]SourceControl: Source control is disabled
+[2020.03.05-09.59.14:895][  0]SourceControl: Source control is disabled
+[2020.03.05-09.59.14:968][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.05-09.59.15:013][  0]LogOcInput: OculusInput pre-init called
+[2020.03.05-09.59.15:801][  0]LogEngine: Initializing Engine...
+[2020.03.05-09.59.15:802][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-09.59.15:803][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.05-09.59.16:065][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.05-09.59.16:097][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.05-09.59.16:108][  0]LogInit: XAudio2 using 'Speakers / Headphones (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-09.59.16:123][  0]LogInit: FAudioDevice initialized.
+[2020.03.05-09.59.16:123][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.05-09.59.16:238][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/allen/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.05-09.59.16:245][  0]LogInit: Texture streaming: Enabled
+[2020.03.05-09.59.16:264][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.05-09.59.16:282][  0]LogInit: Transaction tracking system initialized
+[2020.03.05-09.59.16:302][  0]BlueprintLog: New page: Editor Load
+[2020.03.05-09.59.16:381][  0]LocalizationService: Localization service is disabled
+[2020.03.05-09.59.16:683][  0]LogFileCache: Scanning file cache for directory 'C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/' took 0.01s
+[2020.03.05-09.59.16:683][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.05-09.59.16:683][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.05-09.59.16:864][  0]SourceControl: Source control is disabled
+[2020.03.05-09.59.16:864][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.05-09.59.16:864][  0]LightingResults: New page: Lighting Build
+[2020.03.05-09.59.16:867][  0]MapCheck: New page: Map Check
+[2020.03.05-09.59.16:867][  0]LightingResults: New page: Lighting Build
+[2020.03.05-09.59.16:893][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.03.05-09.59.16:982][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.03.05-09.59.16:987][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.05-09.59.17:016][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.03.05-09.59.17:016][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.05-09.59.17:016][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2020.03.05-09.59.17:016][  0]LogFileHelpers: Loading map 'Template_Default' took 0.152
+[2020.03.05-09.59.17:112][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-09.59.17:120][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-09.59.17:129][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-09.59.17:137][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-09.59.17:143][  0]LogCollectionManager: Loaded 0 collections in 0.001392 seconds
+[2020.03.05-09.59.17:182][  0]LogFileCache: Scanning file cache for directory 'C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Collections/' took 0.01s
+[2020.03.05-09.59.17:182][  0]LogFileCache: Scanning file cache for directory 'C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Developers/allen/Collections/' took 0.01s
+[2020.03.05-09.59.17:182][  0]LogFileCache: Scanning file cache for directory 'C:/Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Collections/' took 0.01s
+[2020.03.05-09.59.17:182][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.05-09.59.17:191][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2732 classes and 659 folders.
+[2020.03.05-09.59.17:199][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.05-09.59.17:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-09.59.17:241][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.05-09.59.17:247][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.05-09.59.17:260][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.05-09.59.17:262][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.05-09.59.17:268][  0]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.05-09.59.17:335][  0]LogRenderer: Reallocating scene render targets to support 808x384 Format 10 NumSamples 1 (Frame:1).
+[2020.03.05-09.59.17:902][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.05-09.59.17:902][  0]LogLoad: (Engine Initialization) Total time: 8.55 seconds
+[2020.03.05-09.59.17:902][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.05-09.59.17:938][  0]LogAssetRegistry: Asset discovery search completed in 5.0627 seconds
+[2020.03.05-09.59.17:940][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.05-09.59.17:940][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2020.03.05-09.59.17:941][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.05-09.59.17:960][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-10.00.35:247][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-10.00.35:453][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_D'
+[2020.03.05-10.00.35:453][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_D' while loading NULL.
+[2020.03.05-10.00.35:453][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M'
+[2020.03.05-10.00.35:453][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M' while loading NULL.
+[2020.03.05-10.00.35:453][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N'
+[2020.03.05-10.00.35:453][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N' while loading NULL.
+[2020.03.05-10.00.35:454][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_D'
+[2020.03.05-10.00.35:454][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_D' while loading NULL.
+[2020.03.05-10.00.35:454][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M'
+[2020.03.05-10.00.35:454][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M' while loading NULL.
+[2020.03.05-10.00.35:454][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N'
+[2020.03.05-10.00.35:454][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N' while loading NULL.
+[2020.03.05-10.00.35:459][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_Ember_01'
+[2020.03.05-10.00.35:459][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_Ember_01' while loading NULL.
+[2020.03.05-10.00.35:459][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_Pop_01'
+[2020.03.05-10.00.35:459][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_Pop_01' while loading NULL.
+[2020.03.05-10.00.35:459][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01'
+[2020.03.05-10.00.35:459][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01' while loading NULL.
+[2020.03.05-10.00.35:462][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_Ember_01'
+[2020.03.05-10.00.35:462][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_Ember_01' while loading NULL.
+[2020.03.05-10.00.35:462][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_Pop_01'
+[2020.03.05-10.00.35:462][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_Pop_01' while loading NULL.
+[2020.03.05-10.00.35:462][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01'
+[2020.03.05-10.00.35:462][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01' while loading NULL.
+[2020.03.05-10.00.35:533][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_Pop_01'
+[2020.03.05-10.00.35:533][212]LoadErrors: Failed to load /Game/PrototypeWeap/FX/Materials/M_Pop_01.M_Pop_01 Referenced by ParticleModuleRequired_14
+[2020.03.05-10.00.35:534][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_Pop_01' while loading NULL.
+[2020.03.05-10.00.35:534][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01'
+[2020.03.05-10.00.35:534][212]LoadErrors: Failed to load /Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01.M_SmokeSimple_01 Referenced by ParticleModuleRequired_5
+[2020.03.05-10.00.35:534][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01' while loading NULL.
+[2020.03.05-10.00.35:534][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_Ember_01'
+[2020.03.05-10.00.35:534][212]LoadErrors: Failed to load /Game/PrototypeWeap/FX/Materials/M_Ember_01.M_Ember_01 Referenced by ParticleModuleRequired_7
+[2020.03.05-10.00.35:534][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_Ember_01' while loading NULL.
+[2020.03.05-10.00.35:536][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M'
+[2020.03.05-10.00.35:536][212]LoadErrors: Failed to load /Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M.T_Prototype_GrenadeLauncher_M Referenced by MaterialExpressionTextureSampleParameter2D_13
+[2020.03.05-10.00.35:536][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M' while loading NULL.
+[2020.03.05-10.00.35:536][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N'
+[2020.03.05-10.00.35:536][212]LoadErrors: Failed to load /Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N.T_Prototype_GrenadeLauncher_N Referenced by MaterialExpressionTextureSampleParameter2D_16
+[2020.03.05-10.00.35:537][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N' while loading NULL.
+[2020.03.05-10.00.35:537][212]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_D'
+[2020.03.05-10.00.35:537][212]LoadErrors: Failed to load /Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_D.T_Prototype_GrenadeLauncher_D Referenced by MaterialExpressionTextureSampleParameter2D_8
+[2020.03.05-10.00.35:537][212]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_D' while loading NULL.
+[2020.03.05-10.00.35:554][212]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.03.05-10.00.35:555][212]LogMaterial: Warning: C:\Users\allen\Desktop\Level_Design_Dungeon\Zelda_Dungeon\Content\PrototypeWeap\Materials\M_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.05-10.00.35:555][212]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.03.05-10.00.35:584][212]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-10.00.35:590][212]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Allen/AIEnemy.AIEnemy
+[2020.03.05-10.00.35:883][212]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.03.05-10.00.36:815][212]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.05-10.00.36:965][213]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.05-10.03.05:206][792]BlueprintLog: New page: Compile AIEnemy
+[2020.03.05-10.03.05:418][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.03.05-10.03.07:078][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Allen/AIEnemy" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset" SILENT=true
+[2020.03.05-10.03.07:127][913]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/AIEnemyC5D2B1A24A17CEE2BF6173A7D267AC50.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset'
+[2020.03.05-10.03.31:724][920]BlueprintLog: New page: Compile AIEnemy
+[2020.03.05-10.03.31:915][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.03.05-10.03.32:291][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Allen/AIEnemy" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset" SILENT=true
+[2020.03.05-10.03.32:336][939]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/AIEnemy5662BC634D6638F9F005B790A1920856.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset'
+[2020.03.05-10.04.00:775][960]BlueprintLog: New page: Compile AIEnemy
+[2020.03.05-10.04.00:967][960]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.03.05-10.04.01:556][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Allen/AIEnemy" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset" SILENT=true
+[2020.03.05-10.04.01:602][995]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/AIEnemy9750D6164A00C22A7B0DC28505978335.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset'
+[2020.03.05-10.04.23:774][121]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-10.04.23:804][121]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Monster_Type_Map.Monster_Type_Map
+[2020.03.05-10.04.23:842][121]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.03.05-10.04.23:843][121]Cmd: MAP LOAD FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Monster_Type_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.05-10.04.23:843][121]LightingResults: New page: Lighting Build
+[2020.03.05-10.04.23:844][121]LoadErrors: New page: Loading map: Monster_Type_Map.umap
+[2020.03.05-10.04.23:844][121]MapCheck: New page: Map Check
+[2020.03.05-10.04.23:844][121]LightingResults: New page: Lighting Build
+[2020.03.05-10.04.23:881][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.03.05-10.04.23:889][121]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.05-10.04.23:929][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.03.05-10.04.23:970][121]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.05-10.04.23:970][121]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2020.03.05-10.04.23:970][121]LogFileHelpers: Loading map 'Monster_Type_Map' took 0.128
+[2020.03.05-10.04.26:434][363]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-10.04.26:462][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.04.26:462][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-10.04.26:463][363]PIE: New page: PIE session: Monster_Type_Map (Mar 5, 2020, 12:04:26 AM)
+[2020.03.05-10.04.26:475][363]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-10.04.26:500][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025340s)
+[2020.03.05-10.04.26:501][363]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-10.04.26:501][363]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2020.03.05-10.04.26:501][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.026241s)
+[2020.03.05-10.04.26:537][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.03.05-10.04.26:540][363]LogInit: XAudio2 using 'Speakers / Headphones (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-10.04.26:547][363]LogInit: FAudioDevice initialized.
+[2020.03.05-10.04.26:594][363]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-10.04.26:598][363]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.05-05.04.26
+[2020.03.05-10.04.26:599][363]LogWorld: Bringing up level for play took: 0.003362
+[2020.03.05-10.04.26:617][363]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.03.05-10.04.26:621][363]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.03.05-10.04.26:622][363]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.03.05-10.04.26:627][363]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map -0.78
+[2020.03.05-10.04.26:627][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.04.27:196][364]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.086532 > MaxSimulationTimeStep (0.050) for 'AIEnemy_2', movement 'Walking'
+[2020.03.05-10.04.57:405][211]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [NPC_C]
+[2020.03.05-10.05.50:294][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.05.50:295][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.05.50:388][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-10.05.50:389][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.05.50:433][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.05.50:446][687]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2020.03.05-10.05.50:474][688]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.03.05-10.05.52:571][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-10.09.14:182][614]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-10.09.14:213][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.09.14:213][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-10.09.14:214][614]PIE: New page: PIE session: Monster_Type_Map (Mar 5, 2020, 12:09:14 AM)
+[2020.03.05-10.09.14:215][614]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-10.09.14:240][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024629s)
+[2020.03.05-10.09.14:241][614]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-10.09.14:241][614]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2020.03.05-10.09.14:241][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.026770s)
+[2020.03.05-10.09.14:280][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.03.05-10.09.14:282][614]LogInit: XAudio2 using 'Speakers / Headphones (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-10.09.14:290][614]LogInit: FAudioDevice initialized.
+[2020.03.05-10.09.14:320][614]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-10.09.14:322][614]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.05-05.09.14
+[2020.03.05-10.09.14:323][614]LogWorld: Bringing up level for play took: 0.003104
+[2020.03.05-10.09.14:338][614]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map 0.931
+[2020.03.05-10.09.14:339][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.09.24:626][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.09.24:627][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.09.24:708][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-10.09.24:709][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.09.24:750][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.09.24:755][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.03.05-10.09.24:782][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.03.05-10.09.26:719][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-10.09.27:941][380]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-10.09.27:968][380]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.09.27:968][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-10.09.27:968][380]PIE: New page: PIE session: Monster_Type_Map (Mar 5, 2020, 12:09:27 AM)
+[2020.03.05-10.09.27:968][380]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-10.09.27:992][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023958s)
+[2020.03.05-10.09.27:993][380]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-10.09.27:993][380]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2020.03.05-10.09.27:993][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.024700s)
+[2020.03.05-10.09.28:032][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.03.05-10.09.28:034][380]LogInit: XAudio2 using 'Speakers / Headphones (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-10.09.28:040][380]LogInit: FAudioDevice initialized.
+[2020.03.05-10.09.28:068][380]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-10.09.28:071][380]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.05-05.09.28
+[2020.03.05-10.09.28:071][380]LogWorld: Bringing up level for play took: 0.002912
+[2020.03.05-10.09.28:086][380]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map 0.68
+[2020.03.05-10.09.28:087][380]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.09.42:778][786]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.09.42:778][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.09.42:881][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-10.09.42:881][786]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.09.42:924][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.09.42:929][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.03.05-10.09.42:957][787]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.03.05-10.09.51:075][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-10.15.41:922][211]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.03.05-10.26.20:251][807]BlueprintLog: New page: Compile AIEnemy
+[2020.03.05-10.26.20:497][807]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.03.05-10.28.40:600][862]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.03.05-10.28.40:941][862]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Monster_Type_Map_Auto1D3691EF94582CCEC7A775FA0D9DB03A6.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Autosaves/Game/Maps/Monster_Type_Map_Auto1.umap'
+[2020.03.05-10.28.40:948][862]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Monster_Type_Map' took 0.391
+[2020.03.05-10.28.40:948][862]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.391
+[2020.03.05-10.28.40:949][862]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Allen/AIEnemy] ([1] browsable assets)...
+[2020.03.05-10.28.40:991][862]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Allen/AIEnemy.AIEnemy]
+[2020.03.05-10.28.40:992][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/Allen/AIEnemy]
+[2020.03.05-10.28.41:046][862]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/AIEnemy_Auto19B01F1AA46745A190FA4D492045E61F7.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Autosaves/Game/Allen/AIEnemy_Auto1.uasset'
+[2020.03.05-10.28.41:049][862]LogFileHelpers: Auto-saving content packages took 0.100
+[2020.03.05-10.28.46:857][352]BlueprintLog: New page: Compile AIEnemy
+[2020.03.05-10.28.46:863][352]LogBlueprint: Error: [Compiler AIEnemy] Event Dispatcher pin is not connected  Unbind Event from OnTakeAnyDamage
+[2020.03.05-10.28.47:099][352]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.03.05-10.28.47:109][352]LogBlueprint: Warning: [Compiler AIEnemy] [1777.76] Compile of AIEnemy failed. 1 Fatal Issue(s) 0 Warning(s) [in 252 ms] (/Game/Allen/AIEnemy.AIEnemy)
+[2020.03.05-10.29.15:850][818]BlueprintLog: New page: Compile AIEnemy
+[2020.03.05-10.29.16:096][818]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.03.05-10.29.17:073][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Allen/AIEnemy" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset" SILENT=true
+[2020.03.05-10.29.17:123][890]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/AIEnemy8E1F3B1240B10C996083AFB226799164.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset'
+[2020.03.05-10.29.29:170][983]BlueprintLog: New page: Compile AIEnemy
+[2020.03.05-10.29.29:419][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.03.05-10.29.29:916][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Allen/AIEnemy" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset" SILENT=true
+[2020.03.05-10.29.29:966][ 12]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/AIEnemyB032B5C348EB01A003E0B998BE748A7F.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset'
+[2020.03.05-10.34.31:082][381]BlueprintLog: New page: Compile AIEnemy
+[2020.03.05-10.34.31:327][381]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.03.05-10.34.32:119][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Allen/AIEnemy" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset" SILENT=true
+[2020.03.05-10.34.32:177][438]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/AIEnemyB5E0B9414AF2FBC0BC449E8311E8719E.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset'
+[2020.03.05-10.36.26:043][201]BlueprintLog: New page: Compile AIEnemy
+[2020.03.05-10.36.26:301][201]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.03.05-10.36.31:468][646]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-10.36.31:504][646]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.36.31:504][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-10.36.31:504][646]PIE: New page: PIE session: Monster_Type_Map (Mar 5, 2020, 12:36:31 AM)
+[2020.03.05-10.36.31:504][646]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-10.36.31:529][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025162s)
+[2020.03.05-10.36.31:530][646]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-10.36.31:530][646]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2020.03.05-10.36.31:530][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.026014s)
+[2020.03.05-10.36.31:569][646]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.03.05-10.36.31:572][646]LogInit: XAudio2 using 'Speakers / Headphones (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-10.36.31:579][646]LogInit: FAudioDevice initialized.
+[2020.03.05-10.36.31:609][646]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-10.36.31:612][646]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.05-05.36.31
+[2020.03.05-10.36.31:613][646]LogWorld: Bringing up level for play took: 0.003206
+[2020.03.05-10.36.31:629][646]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map 0.221
+[2020.03.05-10.36.31:629][646]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.36.49:808][156]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.36.49:808][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.36.49:899][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-10.36.49:900][156]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.36.49:943][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.36.49:949][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.03.05-10.36.49:986][157]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.03.05-10.36.51:557][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-10.37.20:965][721]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Stun_Gun.Stun_Gun
+[2020.03.05-10.37.30:584][322]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Stun_Bullet.Stun_Bullet
+[2020.03.05-10.37.35:089][638]LogRenderer: Reallocating scene render targets to support 880x568 Format 10 NumSamples 1 (Frame:1).
+[2020.03.05-10.38.07:405][920]BlueprintLog: New page: Compile Stun_Gun
+[2020.03.05-10.38.07:671][920]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.03.05-10.38.08:201][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stun_Gun" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Stun_Gun.uasset" SILENT=true
+[2020.03.05-10.38.08:243][947]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Stun_Gun2AAD53ED44BA27E5C409218DFF821EBF.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Stun_Gun.uasset'
+[2020.03.05-10.38.12:175][296]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-10.38.12:205][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.38.12:205][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-10.38.12:205][296]PIE: New page: PIE session: Monster_Type_Map (Mar 5, 2020, 12:38:12 AM)
+[2020.03.05-10.38.12:205][296]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-10.38.12:231][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025490s)
+[2020.03.05-10.38.12:231][296]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-10.38.12:232][296]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2020.03.05-10.38.12:232][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.026331s)
+[2020.03.05-10.38.12:278][296]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.03.05-10.38.12:281][296]LogInit: XAudio2 using 'Speakers / Headphones (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-10.38.12:288][296]LogInit: FAudioDevice initialized.
+[2020.03.05-10.38.12:318][296]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-10.38.12:321][296]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.05-05.38.12
+[2020.03.05-10.38.12:322][296]LogWorld: Bringing up level for play took: 0.003734
+[2020.03.05-10.38.12:339][296]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map 0.932
+[2020.03.05-10.38.12:339][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.39.14:476][994]LogNet: Browse: /Game/Maps/Monster_Type_Map
+[2020.03.05-10.39.14:509][994]LogLoad: LoadMap: /Game/Maps/Monster_Type_Map
+[2020.03.05-10.39.14:577][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.03.05-10.39.14:624][994]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-10.39.14:677][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052843s)
+[2020.03.05-10.39.14:678][994]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-10.39.14:678][994]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2020.03.05-10.39.14:678][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.054384s)
+[2020.03.05-10.39.14:678][994]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-10.39.14:682][994]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.05-05.39.14
+[2020.03.05-10.39.14:684][994]LogWorld: Bringing up level for play took: 0.003779
+[2020.03.05-10.39.14:703][994]LogLoad: Took 0.194779 seconds to LoadMap(/Game/Maps/UEDPIE_0_Monster_Type_Map)
+[2020.03.05-10.39.14:780][995]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [NPC_C]
+[2020.03.05-10.39.40:265][695]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.05-10.39.40:812][695]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.547 s
+[2020.03.05-10.39.40:812][695]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.05-10.39.40:812][695]LogOutputDevice: Error: 
+[2020.03.05-10.39.40:812][695]LogOutputDevice: Error: Ensure condition failed: !InverseListenerTransform.ContainsNaN() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\AudioDevice.cpp] [Line: 3804]
+[2020.03.05-10.39.40:812][695]LogOutputDevice: Error: 
+[2020.03.05-10.39.40:812][695]LogOutputDevice: Error: Stack: 
+[2020.03.05-10.39.40:812][695]LogOutputDevice: Error: [Callstack] 0x00007fffe94847f9 UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.05-10.39.40:812][695]LogOutputDevice: Error: [Callstack] 0x00007fffe812a3cc UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.05-10.39.40:812][695]LogOutputDevice: Error: [Callstack] 0x00007fffe812b373 UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.05-10.39.40:812][695]LogOutputDevice: Error: [Callstack] 0x00007fffe5c60bc1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.05-10.39.40:813][695]LogOutputDevice: Error: [Callstack] 0x00007fffe647d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.05-10.39.40:813][695]LogOutputDevice: Error: [Callstack] 0x00007ff78aea6bb1 UE4Editor.exe!UnknownFunction []
+[2020.03.05-10.39.40:813][695]LogOutputDevice: Error: [Callstack] 0x00007ff78aeb554c UE4Editor.exe!UnknownFunction []
+[2020.03.05-10.39.40:813][695]LogOutputDevice: Error: [Callstack] 0x00007ff78aeb55ca UE4Editor.exe!UnknownFunction []
+[2020.03.05-10.39.40:813][695]LogOutputDevice: Error: [Callstack] 0x00007ff78aec316c UE4Editor.exe!UnknownFunction []
+[2020.03.05-10.39.40:813][695]LogOutputDevice: Error: [Callstack] 0x00007ff78aec5b8e UE4Editor.exe!UnknownFunction []
+[2020.03.05-10.39.40:813][695]LogOutputDevice: Error: [Callstack] 0x00007ff832a113d2 KERNEL32.DLL!UnknownFunction []
+[2020.03.05-10.39.40:813][695]LogOutputDevice: Error: [Callstack] 0x00007ff8351154f4 ntdll.dll!UnknownFunction []
+[2020.03.05-10.39.40:813][695]LogOutputDevice: Error: 
+[2020.03.05-10.39.40:845][695]LogStats:                SubmitErrorReport -  0.000 s
+[2020.03.05-10.39.45:987][695]LogStats:                    SendNewReport -  5.142 s
+[2020.03.05-10.39.45:987][695]LogStats:             FDebug::EnsureFailed -  5.722 s
+[2020.03.05-10.39.45:998][696]LogActor: Warning: Player_Char_BP_C_0 is outside the world bounds!
+[2020.03.05-10.39.46:026][696]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.05-10.39.46:293][696]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.267 s
+[2020.03.05-10.39.46:293][696]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.05-10.39.46:293][696]LogOutputDevice: Error: 
+[2020.03.05-10.39.46:293][696]LogOutputDevice: Error: Ensure condition failed: !Primitive->Bounds.BoxExtent.ContainsNaN() && !Primitive->Bounds.Origin.ContainsNaN() && !FMath::IsNaN(Primitive->Bounds.SphereRadius) && FMath::IsFinite(Primitive->Bounds.SphereRadius) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Renderer\Private\RendererScene.cpp] [Line: 1329]
+[2020.03.05-10.39.46:293][696]LogOutputDevice: Error: Nans found on Bounds for Primitive Prototype_Pistol: Origin X=-nan(ind) Y=-nan(ind) Z=-nan(ind), BoxExtent X=0.000 Y=0.000 Z=0.000, SphereRadius 0.000000
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: Stack: 
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007fffe30ea79f UE4Editor-Renderer.dll!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007fffe2eb8055 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007fffe82af500 UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007fffe8223fc9 UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007fffe86a4615 UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007fffe86ce651 UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007fffe86de323 UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007fffe83193e7 UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007fffe5c6032f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007fffe647d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007ff78aea6bb1 UE4Editor.exe!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007ff78aeb554c UE4Editor.exe!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007ff78aeb55ca UE4Editor.exe!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007ff78aec316c UE4Editor.exe!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007ff78aec5b8e UE4Editor.exe!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007ff832a113d2 KERNEL32.DLL!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: [Callstack] 0x00007ff8351154f4 ntdll.dll!UnknownFunction []
+[2020.03.05-10.39.46:294][696]LogOutputDevice: Error: 
+[2020.03.05-10.39.46:329][696]LogStats:                SubmitErrorReport -  0.000 s
+[2020.03.05-10.39.46:716][696]LogStats:                    SendNewReport -  0.387 s
+[2020.03.05-10.39.46:716][696]LogStats:             FDebug::EnsureFailed -  0.690 s
+[2020.03.05-10.39.48:607][756]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.39.48:607][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.39.48:694][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-10.39.48:695][756]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.39.48:745][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.39.48:751][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.03.05-10.39.48:765][757]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.03.05-10.40.02:679][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-10.40.20:134][648]BlueprintLog: New page: Compile Stun_Gun
+[2020.03.05-10.40.20:388][648]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.03.05-10.40.21:440][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stun_Gun" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Stun_Gun.uasset" SILENT=true
+[2020.03.05-10.40.21:479][718]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Stun_GunEEB37A1E4317D76518052099CD16094D.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Stun_Gun.uasset'
+[2020.03.05-10.41.25:205][778]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.03.05-10.41.25:587][778]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Monster_Type_Map_Auto2DEED03B74182398F2C16488DAFF2B6AD.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Autosaves/Game/Maps/Monster_Type_Map_Auto2.umap'
+[2020.03.05-10.41.25:596][778]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Monster_Type_Map' took 0.453
+[2020.03.05-10.41.25:596][778]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.453
+[2020.03.05-10.45.28:233][323]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Player_Char_BP.Player_Char_BP
+[2020.03.05-10.46.16:875][825]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event AnyDamage  and was replaced as a Custom Event!
+[2020.03.05-10.48.14:807][573]BlueprintLog: New page: Compile AIEnemy
+[2020.03.05-10.48.15:072][573]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.03.05-10.48.34:417][200]BlueprintLog: New page: Compile AIEnemy
+[2020.03.05-10.48.34:679][200]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.03.05-10.48.35:276][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Allen/AIEnemy" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset" SILENT=true
+[2020.03.05-10.48.35:332][238]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/AIEnemyABC3CE724B9DE4470F4DC888CB9D80BD.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset'
+[2020.03.05-10.49.09:361][576]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AttackBall_Bp.AttackBall_Bp
+[2020.03.05-10.49.48:847][286]BlueprintLog: New page: Compile AttackBall_Bp
+[2020.03.05-10.49.48:854][286]LogBlueprint: Warning: [Compiler AttackBall_Bp] Could not find a variable named "Health" in 'AttackBall_Bp_C'.
+Make sure 'AttackBall_Bp_C' has been compiled for  Get Health
+[2020.03.05-10.49.48:854][286]LogBlueprint: Warning: [Compiler AttackBall_Bp] Could not find a variable named "Health" in 'AttackBall_Bp_C'.
+Make sure 'AttackBall_Bp_C' has been compiled for  Set Health
+[2020.03.05-10.49.48:857][286]LogBlueprint: Error: [Compiler AttackBall_Bp] The property associated with  Health  could not be found in '/Game/Blueprints/AttackBall_Bp.AttackBall_Bp_C'
+[2020.03.05-10.49.48:857][286]LogBlueprint: Error: [Compiler AttackBall_Bp] The property associated with  Health  could not be found in '/Game/Blueprints/AttackBall_Bp.AttackBall_Bp_C'
+[2020.03.05-10.49.49:109][286]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.03.05-10.49.49:125][286]LogBlueprint: Warning: [Compiler AttackBall_Bp] [3039.78] Compile of AttackBall_Bp failed. 2 Fatal Issue(s) 2 Warning(s) [in 277 ms] (/Game/Blueprints/AttackBall_Bp.AttackBall_Bp)
+[2020.03.05-10.50.02:808][297]BlueprintLog: New page: Compile AttackBall_Bp
+[2020.03.05-10.50.03:065][297]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.03.05-10.50.04:412][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AttackBall_Bp" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AttackBall_Bp.uasset" SILENT=true
+[2020.03.05-10.50.04:480][388]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/AttackBall_BpA5F5FA974CCF7809A08A639639453563.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AttackBall_Bp.uasset'
+[2020.03.05-10.50.10:916][784]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Bullete_BP.Bullete_BP
+[2020.03.05-10.50.47:873][465]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.03.05-10.50.48:233][465]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Monster_Type_MapB9F93020476BFCA8AD50038493935EAF.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Monster_Type_Map.umap'
+[2020.03.05-10.50.48:968][541]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-10.50.49:008][541]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.50.49:008][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-10.50.49:008][541]PIE: New page: PIE session: Monster_Type_Map (Mar 5, 2020, 12:50:49 AM)
+[2020.03.05-10.50.49:008][541]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-10.50.49:032][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023946s)
+[2020.03.05-10.50.49:033][541]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-10.50.49:033][541]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2020.03.05-10.50.49:033][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.024681s)
+[2020.03.05-10.50.49:083][541]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.03.05-10.50.49:084][541]LogInit: XAudio2 using 'Speakers / Headphones (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-10.50.49:092][541]LogInit: FAudioDevice initialized.
+[2020.03.05-10.50.49:117][541]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-10.50.49:120][541]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.05-05.50.49
+[2020.03.05-10.50.49:121][541]LogWorld: Bringing up level for play took: 0.003284
+[2020.03.05-10.50.49:137][541]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map -0.27
+[2020.03.05-10.50.49:137][541]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.50.49:304][542]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [NPC_C]
+[2020.03.05-10.51.28:913][632]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.51.28:913][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.51.29:012][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-10.51.29:012][632]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.51.29:079][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.51.29:086][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.03.05-10.51.29:114][633]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.03.05-10.51.31:839][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-10.51.42:441][595]BlueprintLog: New page: Compile AIEnemy
+[2020.03.05-10.51.42:700][595]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.03.05-10.51.43:306][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Allen/AIEnemy" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset" SILENT=true
+[2020.03.05-10.51.43:358][632]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/AIEnemy4C20BD2D4DA965E9E38C45ACBA9D31FF.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset'
+[2020.03.05-10.52.04:324][830]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AttackBall_Bp.AttackBall_Bp
+[2020.03.05-10.52.14:240][486]BlueprintLog: New page: Compile AttackBall_Bp
+[2020.03.05-10.52.14:507][486]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.03.05-10.52.22:874][791]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.03.05-10.52.23:222][791]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Monster_Type_MapC187D4364C48664BF87AEFB541F11FCC.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Monster_Type_Map.umap'
+[2020.03.05-10.52.24:035][877]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-10.52.24:087][877]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.52.24:088][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-10.52.24:088][877]PIE: New page: PIE session: Monster_Type_Map (Mar 5, 2020, 12:52:24 AM)
+[2020.03.05-10.52.24:088][877]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-10.52.24:112][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023767s)
+[2020.03.05-10.52.24:112][877]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-10.52.24:112][877]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2020.03.05-10.52.24:112][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.024649s)
+[2020.03.05-10.52.24:161][877]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.03.05-10.52.24:163][877]LogInit: XAudio2 using 'Speakers / Headphones (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-10.52.24:170][877]LogInit: FAudioDevice initialized.
+[2020.03.05-10.52.24:197][877]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-10.52.24:200][877]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.05-05.52.24
+[2020.03.05-10.52.24:201][877]LogWorld: Bringing up level for play took: 0.003299
+[2020.03.05-10.52.24:217][877]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map 0.81
+[2020.03.05-10.52.24:217][877]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.52.24:374][878]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [NPC_C]
+[2020.03.05-10.52.37:068][238]LogActor: Warning: Player_Char_BP_C_0 is outside the world bounds!
+[2020.03.05-10.52.40:565][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.52.40:566][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.52.40:660][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-10.52.40:661][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.52.40:715][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.52.40:722][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.03.05-10.52.40:751][351]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.03.05-10.52.42:864][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-10.52.42:997][608]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-10.52.43:036][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.52.43:036][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-10.52.43:037][608]PIE: New page: PIE session: Monster_Type_Map (Mar 5, 2020, 12:52:43 AM)
+[2020.03.05-10.52.43:037][608]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-10.52.43:061][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024607s)
+[2020.03.05-10.52.43:062][608]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-10.52.43:062][608]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2020.03.05-10.52.43:062][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.025322s)
+[2020.03.05-10.52.43:110][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.03.05-10.52.43:111][608]LogInit: XAudio2 using 'Speakers / Headphones (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-10.52.43:118][608]LogInit: FAudioDevice initialized.
+[2020.03.05-10.52.43:146][608]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-10.52.43:149][608]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.05-05.52.43
+[2020.03.05-10.52.43:150][608]LogWorld: Bringing up level for play took: 0.003359
+[2020.03.05-10.52.43:166][608]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map -0.241
+[2020.03.05-10.52.43:166][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.53.23:484][723]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.53.23:484][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.53.23:590][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-10.53.23:591][723]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.53.23:659][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.53.23:665][723]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.03.05-10.53.23:695][724]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.03.05-10.53.32:150][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-10.53.50:107][417]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AI/TeleportNPC/TeleportNPC.TeleportNPC
+[2020.03.05-10.54.47:595][334]BlueprintLog: New page: Compile AIEnemy
+[2020.03.05-10.54.47:872][334]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.03.05-10.54.48:710][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Allen/AIEnemy" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset" SILENT=true
+[2020.03.05-10.54.48:767][386]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/AIEnemy5D0D66234318CD5261F711B1E02DDE48.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset'
+[2020.03.05-10.55.09:190][828]LogEditorTransaction: Undo Paste clipboard contents
+[2020.03.05-10.55.28:058][202]BlueprintLog: New page: Compile Stun_Gun
+[2020.03.05-10.55.28:341][202]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2020.03.05-10.55.37:490][870]BlueprintLog: New page: Compile Stun_Bullet
+[2020.03.05-10.55.37:749][870]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.03.05-10.55.38:250][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stun_Bullet" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Stun_Bullet.uasset" SILENT=true
+[2020.03.05-10.55.38:284][903]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Stun_BulletA544619F4C9A3770C09226A54C73110F.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Stun_Bullet.uasset'
+[2020.03.05-10.56.01:129][439]BlueprintLog: New page: Compile AttackBall_Bp
+[2020.03.05-10.56.01:400][439]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.03.05-10.56.03:324][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AttackBall_Bp" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AttackBall_Bp.uasset" SILENT=true
+[2020.03.05-10.56.03:392][548]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/AttackBall_Bp3A70DD964534A3074CFE43B64CBC2F2C.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AttackBall_Bp.uasset'
+[2020.03.05-10.56.08:209][998]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.03.05-10.56.08:570][998]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Monster_Type_MapFA5FC2684FE0B471061346A3236FFE26.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Monster_Type_Map.umap'
+[2020.03.05-10.56.09:229][ 62]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-10.56.09:289][ 62]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.56.09:289][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-10.56.09:289][ 62]PIE: New page: PIE session: Monster_Type_Map (Mar 5, 2020, 12:56:09 AM)
+[2020.03.05-10.56.09:289][ 62]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-10.56.09:311][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021910s)
+[2020.03.05-10.56.09:312][ 62]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-10.56.09:312][ 62]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2020.03.05-10.56.09:312][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.022757s)
+[2020.03.05-10.56.09:364][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.03.05-10.56.09:368][ 62]LogInit: XAudio2 using 'Speakers / Headphones (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-10.56.09:375][ 62]LogInit: FAudioDevice initialized.
+[2020.03.05-10.56.09:402][ 62]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-10.56.09:406][ 62]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.05-05.56.09
+[2020.03.05-10.56.09:407][ 62]LogWorld: Bringing up level for play took: 0.003915
+[2020.03.05-10.56.09:423][ 62]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map 0.016
+[2020.03.05-10.56.09:423][ 62]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.56.09:604][ 63]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.060423 > MaxSimulationTimeStep (0.050) for 'AIEnemy_2', movement 'Walking'
+[2020.03.05-10.56.47:370][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.56.47:371][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.56.47:481][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-10.56.47:482][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.56.47:540][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.56.47:547][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.03.05-10.56.47:580][108]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.03.05-10.56.53:570][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-10.57.32:403][542]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-10.57.32:448][542]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.57.32:448][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-10.57.32:448][542]PIE: New page: PIE session: Monster_Type_Map (Mar 5, 2020, 12:57:32 AM)
+[2020.03.05-10.57.32:448][542]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-10.57.32:472][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023357s)
+[2020.03.05-10.57.32:472][542]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-10.57.32:472][542]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2020.03.05-10.57.32:472][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.024161s)
+[2020.03.05-10.57.32:526][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.03.05-10.57.32:528][542]LogInit: XAudio2 using 'Speakers / Headphones (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-10.57.32:535][542]LogInit: FAudioDevice initialized.
+[2020.03.05-10.57.32:562][542]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-10.57.32:565][542]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.05-05.57.32
+[2020.03.05-10.57.32:566][542]LogWorld: Bringing up level for play took: 0.003371
+[2020.03.05-10.57.32:582][542]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map -0.825
+[2020.03.05-10.57.32:582][542]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.57.32:760][543]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [NPC_C]
+[2020.03.05-10.58.02:980][374]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [NPC_C]
+[2020.03.05-10.58.10:366][578]LogNet: Browse: /Game/Maps/Monster_Type_Map
+[2020.03.05-10.58.10:405][578]LogLoad: LoadMap: /Game/Maps/Monster_Type_Map
+[2020.03.05-10.58.10:473][578]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.03.05-10.58.10:473][578]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-10.58.10:495][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021875s)
+[2020.03.05-10.58.10:495][578]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-10.58.10:496][578]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2020.03.05-10.58.10:496][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.022725s)
+[2020.03.05-10.58.10:496][578]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-10.58.10:499][578]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.05-05.58.10
+[2020.03.05-10.58.10:500][578]LogWorld: Bringing up level for play took: 0.003196
+[2020.03.05-10.58.10:504][578]LogLoad: Took 0.098849 seconds to LoadMap(/Game/Maps/UEDPIE_0_Monster_Type_Map)
+[2020.03.05-10.58.11:120][591]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.58.11:120][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.58.11:221][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-10.58.11:221][591]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.58.11:274][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.58.11:280][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.03.05-10.58.11:313][592]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.03.05-10.58.13:935][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-10.58.29:000][947]LogHttp: Warning: 0000005F175B4F40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.03.05-10.58.29:000][947]LogHttp: Warning: 0000005F175B4F40: libcurl info message cache 0 (Connection 20 seems to be dead!)
+[2020.03.05-10.58.29:000][947]LogHttp: Warning: 0000005F175B4F40: libcurl info message cache 1 (Closing connection 20)
+[2020.03.05-10.58.29:000][947]LogHttp: Warning: 0000005F175B4F40: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.05-10.58.29:000][947]LogHttp: Warning: 0000005F175B4F40: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.03.05-10.58.29:000][947]LogHttp: Warning: 0000005F175B4F40: libcurl info message cache 4 (Closing connection 21)
+[2020.03.05-10.58.29:015][948]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4DB4D4A1-4CC6-1C79-8C81-57A41D4A2344%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=86f131d24b035b79f81fb1b934d36a79%7C1c68b0a83d0d47fa913635cfd12290eb%7Cfe71ecf9-e8b1-49b0-ba2b-f63d64ae8e23&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.05-10.58.29:176][961]BlueprintLog: New page: Compile AIEnemy
+[2020.03.05-10.58.29:449][961]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.03.05-10.58.34:966][406]LogEditorTransaction: Undo Delete current selection
+[2020.03.05-10.58.41:751][917]BlueprintLog: New page: Compile AIEnemy
+[2020.03.05-10.58.42:022][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.03.05-10.58.42:379][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Allen/AIEnemy" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset" SILENT=true
+[2020.03.05-10.58.42:429][938]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/AIEnemyA34722B2464FB1B4F54B28BDF325316E.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Allen/AIEnemy.uasset'
+[2020.03.05-10.58.45:046][209]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-10.58.45:116][209]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.58.45:116][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-10.58.45:116][209]PIE: New page: PIE session: Monster_Type_Map (Mar 5, 2020, 12:58:45 AM)
+[2020.03.05-10.58.45:116][209]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Monster_Type_Map
+[2020.03.05-10.58.45:138][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021810s)
+[2020.03.05-10.58.45:138][209]LogAIModule: Creating AISystem for world Monster_Type_Map
+[2020.03.05-10.58.45:139][209]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2020.03.05-10.58.45:139][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Monster_Type_Map.Monster_Type_Map to /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map (0.022500s)
+[2020.03.05-10.58.45:189][209]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.03.05-10.58.45:191][209]LogInit: XAudio2 using 'Speakers / Headphones (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-10.58.45:198][209]LogInit: FAudioDevice initialized.
+[2020.03.05-10.58.45:227][209]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-10.58.45:231][209]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Monster_Type_Map.Monster_Type_Map up for play (max tick rate 0) at 2020.03.05-05.58.45
+[2020.03.05-10.58.45:232][209]LogWorld: Bringing up level for play took: 0.003285
+[2020.03.05-10.58.45:248][209]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Monster_Type_Map -0.159
+[2020.03.05-10.58.45:248][209]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.58.45:411][210]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.051305 > MaxSimulationTimeStep (0.050) for 'AIEnemy_2', movement 'Walking'
+[2020.03.05-10.58.45:412][210]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [NPC_C]
+[2020.03.05-10.58.55:524][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.58.55:524][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.58.55:627][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-10.58.55:628][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map' with GeneratedClass '/Game/Maps/Monster_Type_Map.Monster_Type_Map_C' with ClassGeneratedBy '/Game/Maps/Monster_Type_Map.Monster_Type_Map:PersistentLevel.Monster_Type_Map'
+[2020.03.05-10.58.55:686][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-10.58.55:692][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.03.05-10.58.55:721][488]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.03.05-10.59.04:234][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-10.59.16:936][305]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.05-11.00.09:965][405]BlueprintLog: New page: Compile TeleportNPC
+[2020.03.05-11.00.10:239][405]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.03.05-11.00.10:801][435]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/TeleportNPCF8F3E3EE4EAD8180573EE0A7B2624960.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/TeleportNPC/TeleportNPC.uasset'
+[2020.03.05-11.01.51:656][357]BlueprintLog: New page: Compile Player_Char_BP
+[2020.03.05-11.01.51:988][357]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.03.05-11.01.52:588][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Char_BP" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset" SILENT=true
+[2020.03.05-11.01.52:685][386]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BP313B78734D798C7C953CDFB7E553E627.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.03.05-11.01.59:311][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.03.05-11.02.01:356][ 87]LogSlate: Window 'Save Content' being destroyed
+[2020.03.05-11.02.01:434][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AttackBall_Bp" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AttackBall_Bp.uasset" SILENT=true
+[2020.03.05-11.02.01:499][ 87]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/AttackBall_Bp2E8A864B41CC5B45C1D0398B31B7E6FA.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AttackBall_Bp.uasset'
+[2020.03.05-11.02.01:563][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bullete_BP" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Bullete_BP.uasset" SILENT=true
+[2020.03.05-11.02.01:596][ 87]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Bullete_BP188C82CD441BA46BA1DF768425D7A03B.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Bullete_BP.uasset'
+[2020.03.05-11.02.01:663][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.03.05-11.02.02:017][ 87]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Monster_Type_Map1D202A6C4DAEDB309FE913A14A21752D.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Monster_Type_Map.umap'
+[2020.03.05-11.02.02:065][ 87]LogFileHelpers: Saving map 'Monster_Type_Map' took 0.457
+[2020.03.05-11.02.02:120][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stun_Bullet" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Stun_Bullet.uasset" SILENT=true
+[2020.03.05-11.02.02:153][ 87]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Stun_Bullet3B28F37F46A9BE730279BBBF2FE7A48B.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Stun_Bullet.uasset'
+[2020.03.05-11.02.02:216][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stun_Gun" FILE="../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Stun_Gun.uasset" SILENT=true
+[2020.03.05-11.02.02:260][ 87]LogSavePackage: Moving '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Saved/Stun_GunABEC187C4D7944E18824048F02F39483.tmp' to '../../../../../../Users/allen/Desktop/Level_Design_Dungeon/Zelda_Dungeon/Content/Stun_Gun.uasset'
+[2020.03.05-11.02.02:446][ 87]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.05-11.02.02:513][ 87]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.05-11.02.02:592][ 87]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.05-11.02.02:658][ 87]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.05-11.02.02:736][ 87]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.05-11.02.02:802][ 87]LogSlate: Window 'TeleportNPC' being destroyed
+[2020.03.05-11.02.02:806][ 87]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.05-11.02.02:868][ 87]LogSlate: Window 'Zelda_Dungeon - Unreal Editor' being destroyed
+[2020.03.05-11.02.02:868][ 87]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.05-11.02.03:155][ 88]Cmd: QUIT_EDITOR
+[2020.03.05-11.02.03:281][ 88]LogExit: Preparing to exit.
+[2020.03.05-11.02.03:887][ 88]LogExit: Editor shut down
+[2020.03.05-11.02.03:887][ 88]LogExit: Transaction tracking system shut down
+[2020.03.05-11.02.04:141][ 88]LogExit: Object subsystem successfully closed.
+[2020.03.05-11.02.04:158][ 88]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.05-11.02.04:163][ 88]LogD3D11RHI: Shutdown
+[2020.03.05-11.02.04:163][ 88]LogD3D11RHI: CleanupD3DDevice
+[2020.03.05-11.02.04:164][ 88]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.05-11.02.04:164][ 88]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.05-11.02.04:164][ 88]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.05-11.02.04:164][ 88]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.05-11.02.04:164][ 88]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.05-11.02.04:164][ 88]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.05-11.02.04:331][ 88]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.05-11.02.04:354][ 88]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2020.03.05-11.02.04:354][ 88]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2020.03.05-11.02.04:354][ 88]LogModuleManager: Shutting down and abandoning module BlueprintGraph (646)
+[2020.03.05-11.02.04:354][ 88]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2020.03.05-11.02.04:354][ 88]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2020.03.05-11.02.04:354][ 88]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.03.05-11.02.04:355][ 88]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.03.05-11.02.04:356][ 88]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.03.05-11.02.04:357][ 88]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.03.05-11.02.04:357][ 88]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.03.05-11.02.05:786][ 88]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.03.05-11.02.05:786][ 88]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.03.05-11.02.05:786][ 88]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.03.05-11.02.05:787][ 88]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.03.05-11.02.05:787][ 88]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.03.05-11.02.05:787][ 88]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.03.05-11.02.05:787][ 88]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.03.05-11.02.05:787][ 88]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.03.05-11.02.05:787][ 88]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.03.05-11.02.05:787][ 88]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.03.05-11.02.05:787][ 88]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.03.05-11.02.05:787][ 88]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.03.05-11.02.05:787][ 88]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.03.05-11.02.05:787][ 88]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.03.05-11.02.05:787][ 88]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.03.05-11.02.05:788][ 88]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.03.05-11.02.05:788][ 88]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.03.05-11.02.05:788][ 88]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.03.05-11.02.05:788][ 88]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.03.05-11.02.05:788][ 88]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.03.05-11.02.05:788][ 88]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.03.05-11.02.05:788][ 88]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.03.05-11.02.05:789][ 88]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.03.05-11.02.05:833][ 88]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.03.05-11.02.05:833][ 88]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.03.05-11.02.05:833][ 88]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.03.05-11.02.05:833][ 88]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.03.05-11.02.05:833][ 88]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.03.05-11.02.05:833][ 88]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.03.05-11.02.05:834][ 88]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.03.05-11.02.05:834][ 88]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.03.05-11.02.05:834][ 88]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.03.05-11.02.05:834][ 88]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.03.05-11.02.05:834][ 88]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.03.05-11.02.05:861][ 88]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.03.05-11.02.05:861][ 88]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.03.05-11.02.05:864][ 88]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.03.05-11.02.05:864][ 88]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.03.05-11.02.05:864][ 88]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.03.05-11.02.05:864][ 88]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.03.05-11.02.05:864][ 88]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.03.05-11.02.05:864][ 88]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.03.05-11.02.05:865][ 88]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.03.05-11.02.05:871][ 88]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.03.05-11.02.06:072][ 88]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.03.05-11.02.06:073][ 88]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.03.05-11.02.06:073][ 88]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.03.05-11.02.06:073][ 88]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.03.05-11.02.06:073][ 88]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.03.05-11.02.06:073][ 88]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.03.05-11.02.06:073][ 88]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.03.05-11.02.06:073][ 88]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.03.05-11.02.06:073][ 88]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.03.05-11.02.06:073][ 88]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.03.05-11.02.06:073][ 88]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.03.05-11.02.06:074][ 88]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.03.05-11.02.06:074][ 88]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.03.05-11.02.06:074][ 88]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.03.05-11.02.06:074][ 88]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.03.05-11.02.06:074][ 88]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.03.05-11.02.06:074][ 88]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.03.05-11.02.06:074][ 88]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.03.05-11.02.06:074][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.03.05-11.02.06:074][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.03.05-11.02.06:074][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.03.05-11.02.06:074][ 88]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.03.05-11.02.06:074][ 88]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.03.05-11.02.06:074][ 88]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.03.05-11.02.06:074][ 88]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.03.05-11.02.06:075][ 88]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.03.05-11.02.06:075][ 88]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.03.05-11.02.06:075][ 88]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.03.05-11.02.06:075][ 88]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.03.05-11.02.06:075][ 88]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.03.05-11.02.06:075][ 88]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.03.05-11.02.06:075][ 88]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.03.05-11.02.06:075][ 88]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.03.05-11.02.06:075][ 88]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.03.05-11.02.06:075][ 88]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.03.05-11.02.06:075][ 88]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.03.05-11.02.06:076][ 88]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.03.05-11.02.06:076][ 88]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.03.05-11.02.06:076][ 88]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.03.05-11.02.06:076][ 88]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.03.05-11.02.06:076][ 88]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.03.05-11.02.06:076][ 88]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.03.05-11.02.06:076][ 88]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.03.05-11.02.06:076][ 88]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.03.05-11.02.06:076][ 88]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.03.05-11.02.06:076][ 88]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.03.05-11.02.06:076][ 88]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.03.05-11.02.06:077][ 88]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.03.05-11.02.06:077][ 88]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.03.05-11.02.06:077][ 88]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.03.05-11.02.06:077][ 88]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.03.05-11.02.06:077][ 88]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.03.05-11.02.06:077][ 88]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.03.05-11.02.06:077][ 88]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.03.05-11.02.06:077][ 88]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.03.05-11.02.06:077][ 88]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.03.05-11.02.06:077][ 88]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.03.05-11.02.06:078][ 88]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.03.05-11.02.06:078][ 88]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.03.05-11.02.06:078][ 88]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.03.05-11.02.06:078][ 88]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.03.05-11.02.06:078][ 88]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.03.05-11.02.06:178][ 88]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.03.05-11.02.06:279][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.03.05-11.02.06:279][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.03.05-11.02.06:279][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.03.05-11.02.06:279][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.03.05-11.02.06:279][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.03.05-11.02.06:279][ 88]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.05-11.02.06:280][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.03.05-11.02.06:280][ 88]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.03.05-11.02.06:280][ 88]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.03.05-11.02.06:280][ 88]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.03.05-11.02.06:280][ 88]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.03.05-11.02.06:280][ 88]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.03.05-11.02.06:280][ 88]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.03.05-11.02.06:281][ 88]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.03.05-11.02.06:283][ 88]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.03.05-11.02.06:283][ 88]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.03.05-11.02.06:283][ 88]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.03.05-11.02.06:283][ 88]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.03.05-11.02.06:285][ 88]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.03.05-11.02.06:288][ 88]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.03.05-11.02.06:288][ 88]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.03.05-11.02.06:288][ 88]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.03.05-11.02.06:288][ 88]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.03.05-11.02.06:288][ 88]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.03.05-11.02.06:288][ 88]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.03.05-11.02.06:288][ 88]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.03.05-11.02.06:288][ 88]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.03.05-11.02.06:288][ 88]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.03.05-11.02.06:288][ 88]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.03.05-11.02.06:288][ 88]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.03.05-11.02.06:289][ 88]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.03.05-11.02.06:289][ 88]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.03.05-11.02.06:289][ 88]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.03.05-11.02.06:289][ 88]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.03.05-11.02.06:289][ 88]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.03.05-11.02.06:289][ 88]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.03.05-11.02.06:289][ 88]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.03.05-11.02.06:289][ 88]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.03.05-11.02.06:289][ 88]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.03.05-11.02.06:290][ 88]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.03.05-11.02.06:290][ 88]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.03.05-11.02.06:290][ 88]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.03.05-11.02.06:290][ 88]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.03.05-11.02.06:290][ 88]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.03.05-11.02.06:290][ 88]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.03.05-11.02.06:290][ 88]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.03.05-11.02.06:295][ 88]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.03.05-11.02.06:295][ 88]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.03.05-11.02.06:295][ 88]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.03.05-11.02.06:295][ 88]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.03.05-11.02.06:296][ 88]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.03.05-11.02.06:296][ 88]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.03.05-11.02.06:296][ 88]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.03.05-11.02.06:296][ 88]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.03.05-11.02.06:296][ 88]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.03.05-11.02.06:296][ 88]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.03.05-11.02.06:296][ 88]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.03.05-11.02.06:296][ 88]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.03.05-11.02.06:296][ 88]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.03.05-11.02.06:296][ 88]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.03.05-11.02.06:296][ 88]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.03.05-11.02.06:296][ 88]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.03.05-11.02.06:306][ 88]LogDerivedDataCache: Shutdown
+[2020.03.05-11.02.06:306][ 88]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.03.05-11.02.06:307][ 88]LogXGEController: Cleaning working directory: C:/Users/allen/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.05-11.02.06:307][ 88]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.03.05-11.02.06:307][ 88]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.03.05-11.02.06:307][ 88]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.03.05-11.02.06:307][ 88]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.03.05-11.02.06:307][ 88]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.03.05-11.02.06:307][ 88]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.03.05-11.02.06:307][ 88]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.03.05-11.02.06:308][ 88]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.03.05-11.02.06:308][ 88]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.03.05-11.02.06:308][ 88]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.03.05-11.02.06:308][ 88]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.03.05-11.02.06:308][ 88]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.03.05-11.02.06:308][ 88]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.03.05-11.02.06:308][ 88]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.03.05-11.02.06:308][ 88]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.03.05-11.02.06:309][ 88]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.03.05-11.02.06:309][ 88]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.03.05-11.02.06:311][ 88]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.03.05-11.02.06:311][ 88]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.03.05-11.02.06:311][ 88]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.03.05-11.02.06:311][ 88]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.03.05-11.02.06:311][ 88]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.03.05-11.02.06:314][ 88]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.03.05-11.02.06:314][ 88]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.03.05-11.02.06:316][ 88]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.03.05-11.02.06:316][ 88]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.03.05-11.02.06:335][ 88]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.03.05-11.02.06:335][ 88]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.03.05-11.02.06:335][ 88]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.03.05-11.02.06:335][ 88]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.03.05-11.02.06:335][ 88]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.03.05-11.02.06:335][ 88]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.03.05-11.02.06:335][ 88]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.03.05-11.02.06:335][ 88]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.03.05-11.02.06:335][ 88]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.03.05-11.02.06:335][ 88]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.03.05-11.02.06:335][ 88]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.03.05-11.02.06:335][ 88]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.03.05-11.02.06:336][ 88]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.03.05-11.02.06:336][ 88]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.03.05-11.02.06:336][ 88]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.05-11.02.06:336][ 88]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.03.05-11.02.06:336][ 88]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.03.05-11.02.06:336][ 88]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.03.05-11.02.06:336][ 88]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.03.05-11.02.06:336][ 88]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.03.05-11.02.06:338][ 88]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.03.05-11.02.06:338][ 88]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.03.05-11.02.06:369][ 88]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.03.05-11.02.06:370][ 88]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.05-11.02.06:370][ 88]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4DB4D4A1-4CC6-1C79-8C81-57A41D4A2344%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=86f131d24b035b79f81fb1b934d36a79%7C1c68b0a83d0d47fa913635cfd12290eb%7Cfe71ecf9-e8b1-49b0-ba2b-f63d64ae8e23&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.03.05-11.02.06:372][ 88]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.03.05-11.02.06:374][ 88]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.03.05-11.02.06:374][ 88]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.03.05-11.02.06:381][ 88]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.03.05-11.02.06:381][ 88]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.03.05-11.02.06:382][ 88]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.05-11.02.06:382][ 88]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.05-11.02.06:382][ 88]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.05-11.02.06:383][ 88]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.05-11.02.06:383][ 88]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.05-11.02.06:383][ 88]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.05-11.02.06:383][ 88]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.05-11.02.06:384][ 88]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.05-11.02.06:384][ 88]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.05-11.02.06:384][ 88]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.05-11.02.06:384][ 88]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.05-11.02.06:384][ 88]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.05-11.02.06:384][ 88]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.05-11.02.06:384][ 88]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.05-11.02.06:384][ 88]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.05-11.02.06:384][ 88]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.05-11.02.06:384][ 88]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.05-11.02.06:384][ 88]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.05-11.02.06:385][ 88]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.05-11.02.06:391][ 88]LogExit: Exiting.
+[2020.03.05-11.02.06:425][ 88]Log file closed, 03/05/20 06:02:06
+>>>>>>> master
