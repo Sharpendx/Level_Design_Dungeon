@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 ﻿Log file open, 03/04/20 23:09:28
 =======
@@ -11,6 +12,9 @@
 ﻿Log file open, 03/04/20 23:09:28
 >>>>>>> master
 >>>>>>> master
+=======
+﻿Log file open, 03/05/20 00:14:41
+>>>>>>> master
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -21,6 +25,7 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: Zelda_Dungeon
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
@@ -37,6 +42,10 @@ LogStats: Stats thread started at 0.179000
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.395208
 >>>>>>> master
+>>>>>>> master
+=======
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.375738
 >>>>>>> master
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
@@ -147,11 +156,7 @@ LogInit: Build: ++UE4+Release-4.22-CL-7053642
 LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
 LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
 LogInit: Net CL: 5660361
-<<<<<<< HEAD
-LogInit: OS: Windows 8.1 (), CPU: Intel(R) Core(TM) i5-4440 CPU @ 3.10GHz, GPU: Intel(R) HD Graphics 4600
-=======
 LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: AMD Radeon RX 5700
->>>>>>> master
 LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
 LogInit: Compiled with Visual C++: 19.16.27025.01
 LogInit: Build Configuration: Development
@@ -187,6 +192,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
@@ -4028,4 +4034,519 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-04.56.28:987][837]LogModuleManager: Shutting down and abandoning module RSA (3)
 [2020.03.05-04.56.28:995][837]LogExit: Exiting.
 [2020.03.05-04.56.29:020][837]Log file closed, 03/04/20 23:56:29
+>>>>>>> master
+=======
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.05-05.14.42:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.03.05-05.14.42:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
+[2020.03.05-05.14.42:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.05-05.14.42:227][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.05-05.14.42:228][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.05-05.14.42:228][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
+[2020.03.05-05.14.42:228][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.05-05.14.42:228][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.05-05.14.42:228][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.05-05.14.42:228][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.05-05.14.42:228][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.05-05.14.42:228][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.05-05.14.42:228][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.05-05.14.42:228][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.05-05.14.42:228][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.05-05.14.42:228][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.05-05.14.42:228][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.05-05.14.42:228][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.05-05.14.42:228][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.05-05.14.42:228][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
+[2020.03.05-05.14.42:228][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
+[2020.03.05-05.14.42:233][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.05-05.14.42:233][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.05-05.14.42:234][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.05-05.14.42:234][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-05.14.42:234][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.05-05.14.42:246][  0]LogHAL: Display: Platform has ~ 16 GB [17128497152 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.05-05.14.42:246][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.05-05.14.42:246][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.05-05.14.42:246][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.05-05.14.42:247][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
+[2020.03.05-05.14.42:247][  0]LogInit: Computer: DESKTOP-PJ05D11
+[2020.03.05-05.14.42:247][  0]LogInit: User: Albatross
+[2020.03.05-05.14.42:247][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.03.05-05.14.42:247][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.05-05.14.42:247][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.03.05-05.14.42:247][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.05-05.14.42:247][  0]LogMemory: Process Physical Memory: 99.47 MB used, 99.48 MB peak
+[2020.03.05-05.14.42:247][  0]LogMemory: Process Virtual Memory: 98.44 MB used, 98.44 MB peak
+[2020.03.05-05.14.42:247][  0]LogMemory: Physical Memory: 6204.52 MB used,  10130.49 MB free, 16335.01 MB total
+[2020.03.05-05.14.42:247][  0]LogMemory: Virtual Memory: 4669.09 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.03.05-05.14.42:260][  0]LogInit: Using OS detected language (en-US).
+[2020.03.05-05.14.42:260][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.05-05.14.42:260][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.05-05.14.42:376][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.05-05.14.42:409][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.05-05.14.42:409][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.05-05.14.42:539][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-05.14.42:539][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.05-05.14.42:572][  0]LogD3D11RHI:    0. 'AMD Radeon RX 5700' (Feature Level 11_0)
+[2020.03.05-05.14.42:572][  0]LogD3D11RHI:       8151/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2020.03.05-05.14.42:575][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.05-05.14.42:575][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.05-05.14.42:575][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.05-05.14.42:580][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.05-05.14.42:580][  0]LogD3D11RHI:     GPU DeviceId: 0x731f (for the marketing name, search the web for "GPU Device Id")
+[2020.03.05-05.14.42:580][  0]LogWindows: EnumDisplayDevices:
+[2020.03.05-05.14.42:580][  0]LogWindows:    0. 'AMD Radeon RX 5700' (P:1 D:1)
+[2020.03.05-05.14.42:581][  0]LogWindows:    1. 'AMD Radeon RX 5700' (P:0 D:1)
+[2020.03.05-05.14.42:581][  0]LogWindows:    2. 'AMD Radeon RX 5700' (P:0 D:0)
+[2020.03.05-05.14.42:581][  0]LogWindows:    3. 'AMD Radeon RX 5700' (P:0 D:0)
+[2020.03.05-05.14.42:581][  0]LogWindows:    4. 'AMD Radeon RX 5700' (P:0 D:0)
+[2020.03.05-05.14.42:581][  0]LogWindows:    5. 'AMD Radeon RX 5700' (P:0 D:0)
+[2020.03.05-05.14.42:582][  0]LogWindows:    6. 'AMD Radeon RX 5700' (P:0 D:0)
+[2020.03.05-05.14.42:582][  0]LogWindows:    7. 'AMD Radeon RX 5700' (P:0 D:0)
+[2020.03.05-05.14.42:582][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2020.03.05-05.14.42:582][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 5700
+[2020.03.05-05.14.42:582][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.1.3 (internal:26.20.15015.1007, unified:26.20.15015.1007)
+[2020.03.05-05.14.42:582][  0]LogD3D11RHI:      Driver Date: 1-17-2020
+[2020.03.05-05.14.42:582][  0]LogRHI: Texture pool is 5706 MB (70% of 8151 MB)
+[2020.03.05-05.14.42:632][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.05-05.14.42:638][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-05.14.42:639][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-05.14.42:639][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-05.14.42:646][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2020.03.05-05.14.42:836][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.05-05.14.42:848][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.05-05.14.42:860][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.05-05.14.42:872][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.05-05.14.42:884][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.05-05.14.42:897][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.05-05.14.42:909][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.05-05.14.42:921][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.05-05.14.42:927][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.05-05.14.43:004][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.05-05.14.43:004][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.05-05.14.43:004][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.05-05.14.43:004][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.05-05.14.43:004][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.05-05.14.43:004][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.05-05.14.43:004][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.05-05.14.43:004][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.05-05.14.43:004][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.05-05.14.43:004][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.05-05.14.43:004][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.05-05.14.43:004][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.05-05.14.43:004][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.05-05.14.43:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.05-05.14.43:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.05-05.14.43:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.05-05.14.43:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.05-05.14.43:005][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.05-05.14.43:006][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.05-05.14.43:055][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.05-05.14.43:055][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.05-05.14.43:079][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.05-05.14.43:079][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.05-05.14.43:090][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.05-05.14.43:103][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.05-05.14.43:115][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.05-05.14.43:128][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.05-05.14.43:173][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.05-05.14.43:173][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.05-05.14.43:173][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.05-05.14.43:182][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.05-05.14.43:228][  0]LogShaderCompilers: Guid format shader working directory is -63 characters bigger than the processId version (../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Intermediate/Shaders/WorkingDirectory/12528/).
+[2020.03.05-05.14.43:229][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Albatross/AppData/Local/Temp/UnrealShaderWorkingDir/D299B67A426AA5E8168B6C8BECADA3E6/'.
+[2020.03.05-05.14.43:230][  0]LogXGEController: Cleaning working directory: C:/Users/Albatross/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.05-05.14.43:231][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.05-05.14.43:231][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.05-05.14.43:231][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.05-05.14.43:687][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.05-05.14.43:748][  0]LogDerivedDataCache: Loaded boot cache 0.06s 128MB C:/Users/Albatross/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.05-05.14.43:748][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Albatross/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.05-05.14.43:749][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.05-05.14.43:749][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.05-05.14.43:749][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-05.14.43:749][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.05-05.14.43:760][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.05-05.14.43:760][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-05.14.43:760][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.05-05.14.43:771][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Albatross/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.05-05.14.43:771][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.05-05.14.43:771][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.05-05.14.43:790][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.05-05.14.43:791][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.05-05.14.43:791][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.05-05.14.43:863][  0]LogAssetRegistry: FAssetRegistry took 0.0320 seconds to start up
+[2020.03.05-05.14.44:155][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-05.14.44:260][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.05-05.14.44:260][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.05-05.14.44:261][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.05-05.14.44:261][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.05-05.14.44:261][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.05-05.14.44:268][  0]LogNetVersion: Zelda_Dungeon 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 331747485)
+[2020.03.05-05.14.44:595][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.049077 seconds
+[2020.03.05-05.14.44:603][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.03.05-05.14.44:603][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.03.05-05.14.44:603][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.05-05.14.45:220][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.05-05.14.45:233][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.05-05.14.45:326][  0]SourceControl: Source control is disabled
+[2020.03.05-05.14.45:326][  0]SourceControl: Source control is disabled
+[2020.03.05-05.14.45:327][  0]SourceControl: Source control is disabled
+[2020.03.05-05.14.45:328][  0]SourceControl: Source control is disabled
+[2020.03.05-05.14.45:385][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.05-05.14.45:439][  0]LogOcInput: OculusInput pre-init called
+[2020.03.05-05.14.45:942][  0]LogEngine: Initializing Engine...
+[2020.03.05-05.14.45:943][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-05.14.45:944][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.05-05.14.46:098][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.05-05.14.46:109][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.05-05.14.46:142][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-05.14.46:154][  0]LogInit: FAudioDevice initialized.
+[2020.03.05-05.14.46:154][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.05-05.14.46:248][  0]LogDerivedDataCache: Saved boot cache 0.09s 128MB C:/Users/Albatross/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.05-05.14.46:262][  0]LogInit: Texture streaming: Enabled
+[2020.03.05-05.14.46:278][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.05-05.14.46:296][  0]LogInit: Transaction tracking system initialized
+[2020.03.05-05.14.46:314][  0]BlueprintLog: New page: Editor Load
+[2020.03.05-05.14.46:381][  0]LocalizationService: Localization service is disabled
+[2020.03.05-05.14.46:614][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/' took 0.01s
+[2020.03.05-05.14.46:614][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.05-05.14.46:614][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.05-05.14.46:749][  0]SourceControl: Source control is disabled
+[2020.03.05-05.14.46:749][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.05-05.14.46:749][  0]LightingResults: New page: Lighting Build
+[2020.03.05-05.14.46:751][  0]MapCheck: New page: Map Check
+[2020.03.05-05.14.46:751][  0]LightingResults: New page: Lighting Build
+[2020.03.05-05.14.46:777][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.03.05-05.14.46:840][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.03.05-05.14.46:844][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.05-05.14.46:872][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.03.05-05.14.46:873][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.05-05.14.46:873][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.162ms to complete.
+[2020.03.05-05.14.46:873][  0]LogFileHelpers: Loading map 'Template_Default' took 0.124
+[2020.03.05-05.14.46:979][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-05.14.46:985][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-05.14.46:992][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-05.14.46:998][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-05.14.47:003][  0]LogCollectionManager: Loaded 0 collections in 0.001282 seconds
+[2020.03.05-05.14.47:040][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Collections/' took 0.01s
+[2020.03.05-05.14.47:040][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Developers/Albatross/Collections/' took 0.01s
+[2020.03.05-05.14.47:040][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Collections/' took 0.01s
+[2020.03.05-05.14.47:040][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.05-05.14.47:048][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2732 classes and 659 folders.
+[2020.03.05-05.14.47:053][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.05-05.14.47:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:059][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:059][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:059][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-05.14.47:080][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.05-05.14.47:085][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.05-05.14.47:096][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.05-05.14.47:098][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.05-05.14.47:102][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.05-05.14.47:147][  0]LogRenderer: Reallocating scene render targets to support 864x608 Format 10 NumSamples 1 (Frame:1).
+[2020.03.05-05.14.47:407][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.05-05.14.47:407][  0]LogLoad: (Engine Initialization) Total time: 6.69 seconds
+[2020.03.05-05.14.47:407][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.05-05.14.47:436][  0]LogAssetRegistry: Asset discovery search completed in 3.5949 seconds
+[2020.03.05-05.14.47:438][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.05-05.14.47:438][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000026 seconds (updated 0 objects)
+[2020.03.05-05.14.47:439][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.05-05.14.47:453][  0]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-05.14.49:492][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-05.15.29:460][ 30]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-05.15.29:481][ 30]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.03.05-05.15.29:481][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-05.15.29:481][ 30]PIE: New page: PIE session: Untitled_1 (Mar 4, 2020, 7:15:29 PM)
+[2020.03.05-05.15.29:493][ 30]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.03.05-05.15.29:495][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002130s)
+[2020.03.05-05.15.29:495][ 30]LogAIModule: Creating AISystem for world Untitled_1
+[2020.03.05-05.15.29:496][ 30]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2020.03.05-05.15.29:496][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002948s)
+[2020.03.05-05.15.29:520][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.03.05-05.15.29:529][ 30]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-05.15.29:537][ 30]LogInit: FAudioDevice initialized.
+[2020.03.05-05.15.29:579][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_D'
+[2020.03.05-05.15.29:579][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_D' while loading NULL.
+[2020.03.05-05.15.29:580][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M'
+[2020.03.05-05.15.29:580][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M' while loading NULL.
+[2020.03.05-05.15.29:580][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N'
+[2020.03.05-05.15.29:580][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N' while loading NULL.
+[2020.03.05-05.15.29:580][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_D'
+[2020.03.05-05.15.29:580][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_D' while loading NULL.
+[2020.03.05-05.15.29:580][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M'
+[2020.03.05-05.15.29:580][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M' while loading NULL.
+[2020.03.05-05.15.29:581][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N'
+[2020.03.05-05.15.29:581][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N' while loading NULL.
+[2020.03.05-05.15.29:584][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_Ember_01'
+[2020.03.05-05.15.29:584][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_Ember_01' while loading NULL.
+[2020.03.05-05.15.29:584][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_Pop_01'
+[2020.03.05-05.15.29:584][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_Pop_01' while loading NULL.
+[2020.03.05-05.15.29:584][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01'
+[2020.03.05-05.15.29:585][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01' while loading NULL.
+[2020.03.05-05.15.29:587][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_Ember_01'
+[2020.03.05-05.15.29:587][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_Ember_01' while loading NULL.
+[2020.03.05-05.15.29:587][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_Pop_01'
+[2020.03.05-05.15.29:587][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_Pop_01' while loading NULL.
+[2020.03.05-05.15.29:587][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01'
+[2020.03.05-05.15.29:587][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01' while loading NULL.
+[2020.03.05-05.15.29:620][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M'
+[2020.03.05-05.15.29:621][ 30]LoadErrors: Failed to load /Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M.T_Prototype_GrenadeLauncher_M Referenced by MaterialExpressionTextureSampleParameter2D_13
+[2020.03.05-05.15.29:621][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M' while loading NULL.
+[2020.03.05-05.15.29:621][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N'
+[2020.03.05-05.15.29:621][ 30]LoadErrors: Failed to load /Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N.T_Prototype_GrenadeLauncher_N Referenced by MaterialExpressionTextureSampleParameter2D_16
+[2020.03.05-05.15.29:621][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N' while loading NULL.
+[2020.03.05-05.15.29:621][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_D'
+[2020.03.05-05.15.29:621][ 30]LoadErrors: Failed to load /Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_D.T_Prototype_GrenadeLauncher_D Referenced by MaterialExpressionTextureSampleParameter2D_8
+[2020.03.05-05.15.29:621][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_D' while loading NULL.
+[2020.03.05-05.15.29:625][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_Pop_01'
+[2020.03.05-05.15.29:625][ 30]LoadErrors: Failed to load /Game/PrototypeWeap/FX/Materials/M_Pop_01.M_Pop_01 Referenced by ParticleModuleRequired_14
+[2020.03.05-05.15.29:625][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_Pop_01' while loading NULL.
+[2020.03.05-05.15.29:625][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01'
+[2020.03.05-05.15.29:625][ 30]LoadErrors: Failed to load /Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01.M_SmokeSimple_01 Referenced by ParticleModuleRequired_5
+[2020.03.05-05.15.29:625][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_SmokeSimple_01' while loading NULL.
+[2020.03.05-05.15.29:625][ 30]LogLinker: Warning: Can't find file '/Game/PrototypeWeap/FX/Materials/M_Ember_01'
+[2020.03.05-05.15.29:625][ 30]LoadErrors: Failed to load /Game/PrototypeWeap/FX/Materials/M_Ember_01.M_Ember_01 Referenced by ParticleModuleRequired_7
+[2020.03.05-05.15.29:625][ 30]LogLinker: Warning: Can't find file for asset '/Game/PrototypeWeap/FX/Materials/M_Ember_01' while loading NULL.
+[2020.03.05-05.15.29:628][ 30]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.03.05-05.15.29:629][ 30]LogMaterial: Warning: C:\Users\Albatross\Desktop\Alberto School\Level_Design_Dungeon\Level_Design_Dungeon\Zelda_Dungeon\Content\PrototypeWeap\Materials\M_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.05-05.15.29:629][ 30]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.03.05-05.15.29:648][ 30]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-05.15.29:649][ 30]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.03.05-00.15.29
+[2020.03.05-05.15.29:649][ 30]LogWorld: Bringing up level for play took: 0.000535
+[2020.03.05-05.15.29:665][ 30]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.03.05-05.15.29:667][ 30]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.785
+[2020.03.05-05.15.29:667][ 30]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.03.05-05.15.43:146][624]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.03.05-05.15.43:146][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-05.15.43:172][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-05.15.43:172][624]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.03.05-05.15.43:200][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-05.15.43:203][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.03.05-05.15.43:277][626]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.03.05-05.15.45:072][839]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-05.15.47:116][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-05.15.48:040][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-05.15.48:911][192]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.03.05-05.16.07:393][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-05.16.07:467][386]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-05.16.07:488][386]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.03.05-05.16.07:488][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-05.16.07:488][386]PIE: New page: PIE session: Untitled_1 (Mar 4, 2020, 7:16:07 PM)
+[2020.03.05-05.16.07:488][386]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.03.05-05.16.07:490][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002050s)
+[2020.03.05-05.16.07:490][386]LogAIModule: Creating AISystem for world Untitled_1
+[2020.03.05-05.16.07:490][386]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2020.03.05-05.16.07:490][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002663s)
+[2020.03.05-05.16.07:515][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.03.05-05.16.07:524][386]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-05.16.07:532][386]LogInit: FAudioDevice initialized.
+[2020.03.05-05.16.07:558][386]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.03.05-05.16.07:559][386]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.03.05-00.16.07
+[2020.03.05-05.16.07:559][386]LogWorld: Bringing up level for play took: 0.000549
+[2020.03.05-05.16.07:572][386]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.689
+[2020.03.05-05.16.07:572][386]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.03.05-05.16.20:453][927]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.03.05-05.16.20:453][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-05.16.20:483][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-05.16.20:483][927]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.03.05-05.16.20:511][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-05.16.20:513][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.03.05-05.16.20:584][929]LogPlayLevel: Display: Destroying online subsystem :Context_5
 >>>>>>> master
