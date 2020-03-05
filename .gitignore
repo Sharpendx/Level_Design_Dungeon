@@ -6,13 +6,13 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-# Added by me Cristian
+#stop dumb files
 */Build
 */Binaries
 */DerivedDataCache
 */Intermediate
 */Saved
-Content/StarterContent/
+AutoScreenshot.png
 
 # Compiled Object files
 *.slo
