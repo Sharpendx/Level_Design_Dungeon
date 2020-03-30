@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 03/30/20 16:02:56
+=======
+﻿Log file open, 03/30/20 13:55:41
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 03/30/20 13:55:41
 >>>>>>> Stashed changes
@@ -14,8 +18,13 @@ LogInit: Display: Running engine for game: Zelda_Dungeon
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.269845
+=======
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.339831
+>>>>>>> Stashed changes
 =======
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.339831
@@ -165,6 +174,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2020.03.30-20.02.56:831][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.03.30-20.02.56:831][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1185,6 +1195,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.30-20.11.03:296][702]LogExit: Exiting.
 [2020.03.30-20.11.03:307][702]Log file closed, 03/30/20 16:11:03
 =======
+=======
+>>>>>>> Stashed changes
 [2020.03.30-17.55.42:063][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.03.30-17.55.42:063][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.03.30-17.55.42:063][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Program Files (HDD)/GitHub/Level Design Dungeon Project/Level_Design_Dungeon/Zelda_Dungeon/Saved/Config/Windows/Engine.ini]
@@ -3662,4 +3674,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.30-20.39.17:626][155]LogModuleManager: Shutting down and abandoning module RSA (3)
 [2020.03.30-20.39.17:638][155]LogExit: Exiting.
 [2020.03.30-20.39.17:678][155]Log file closed, 03/30/20 16:39:17
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
