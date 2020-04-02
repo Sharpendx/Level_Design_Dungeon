@@ -972,3 +972,932 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.02-22.03.02:226][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.04.02-22.03.02:234][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
 [2020.04.02-22.03.02:268][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.04.02-22.03.35:816][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.05.15:872][538]BlueprintLog: New page: Compile HUD
+[2020.04.02-22.05.15:923][538]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.04.02-22.05.16:374][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset" SILENT=true
+[2020.04.02-22.05.16:411][586]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/HUD69CA40AB4CBEAA1EB7622CB40C561551.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset'
+[2020.04.02-22.11.01:615][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Albatross\Pictures\bomb hack pic.png)
+[2020.04.02-22.11.01:628][568]LogTexture: Display: Building textures: bomb_hack_pic (BGRA8, 561X605)
+[2020.04.02-22.11.01:747][568]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Albatross\Pictures\jump hack image.png)
+[2020.04.02-22.11.01:760][568]LogTexture: Display: Building textures: jump_hack_image (BGRA8, 458X734)
+[2020.04.02-22.11.13:012][849]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/bomb_hack_picCA8E1B444627EFA730B33B9AFFC586A4.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Materials/bomb_hack_pic.uasset'
+[2020.04.02-22.11.16:653][239]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/jump_hack_imageA7B3F9714EFF7E1F63748D97133EE60B.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Materials/jump_hack_image.uasset'
+[2020.04.02-22.11.38:748][674]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon
+[2020.04.02-22.12.40:802][980]BlueprintLog: New page: Compile Dungeon
+[2020.04.02-22.12.41:089][980]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.04.02-22.12.41:407][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.04.02-22.12.42:236][999]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Dungeon35D7C5464BF4B66C95F6D8AF7AC11148.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Dungeon.umap'
+[2020.04.02-22.12.42:292][999]LogFileHelpers: Saving map 'Dungeon' took 0.931
+[2020.04.02-22.13.08:816][107]BlueprintLog: New page: Compile Dungeon
+[2020.04.02-22.13.09:101][107]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.04.02-22.13.09:546][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.04.02-22.13.10:365][142]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Dungeon44B2AF2643C3F814DB7679A63FD40422.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Dungeon.umap'
+[2020.04.02-22.13.10:418][142]LogFileHelpers: Saving map 'Dungeon' took 0.917
+[2020.04.02-22.13.38:306][423]LogSlate: Took 0.004407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.02-22.14.18:861][220]BlueprintLog: New page: Compile HUD
+[2020.04.02-22.14.18:932][220]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.04.02-22.14.19:315][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset" SILENT=true
+[2020.04.02-22.14.19:355][259]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/HUD6C4A4B96415C438417F044937EA087FB.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset'
+[2020.04.02-22.14.22:259][589]BlueprintLog: New page: Compile Dungeon
+[2020.04.02-22.14.22:542][589]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.04.02-22.14.22:853][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.04.02-22.14.23:679][607]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/DungeonEE4C898544EEDCC1E273088002202FA2.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Dungeon.umap'
+[2020.04.02-22.14.23:730][607]LogFileHelpers: Saving map 'Dungeon' took 0.924
+[2020.04.02-22.15.11:337][724]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Materials/bomb_hack_pic_Sprite.bomb_hack_pic_Sprite
+[2020.04.02-22.15.20:650][698]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.04.02-22.15.22:330][698]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.02-22.15.22:403][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.04.02-22.15.24:075][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.04.02-22.15.25:237][873]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.02-22.15.25:302][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.04.02-22.16.14:634][496]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.02-22.16.14:998][496]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.363 s
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: 
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h] [Line: 119]
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: This hack usually results in a crash during loading screens in slate.  Please change any code that arrives here to not use FSlateDynamicImageBrush.  In the case of loading screens, you can use FDeferredCleanupSlateBrush.  Which correctly accounts for both GC lifetime, and the lifetime of the object through the slate rendering pipeline which may be several frames after you stop using it.
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: Stack: 
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd975b7c88 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd9749e1d9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd97405dfa UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd959e8a2c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd954e28eb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd87a4d68a UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd86a1fff5 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd869f7838 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd86a3dda4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd86970e4d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd86953d59 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd9794b61a UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd9791ee59 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd9797cc60 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd97785efe UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd9777e8ff UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd9776a506 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffd9775ff82 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffdc3c3b932 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffdc3c2ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffdc3c3d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffdc3c2c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffe07445c0d USER32.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffe07445602 USER32.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffdc3c3e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ff783375d3e UE4Editor.exe!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ff78338554c UE4Editor.exe!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ff7833855ca UE4Editor.exe!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ff78339316c UE4Editor.exe!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ff783395b8e UE4Editor.exe!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffe065e7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: [Callstack] 0x00007ffe07a6ced1 ntdll.dll!UnknownFunction []
+[2020.04.02-22.16.14:998][496]LogOutputDevice: Error: 
+[2020.04.02-22.16.15:000][496]LogStats:                SubmitErrorReport -  0.000 s
+[2020.04.02-22.16.15:568][496]LogStats:                    SendNewReport -  0.569 s
+[2020.04.02-22.16.15:568][496]LogStats:             FDebug::EnsureFailed -  0.934 s
+[2020.04.02-22.16.16:708][611]LogAssetEditorManager: Opening Asset editor for SlateBrushAsset /Game/Materials/bomb_hack_pic_Brush.bomb_hack_pic_Brush
+[2020.04.02-22.16.26:841][718]LogAssetEditorManager: Opening Asset editor for SlateBrushAsset /Game/Materials/bomb_hack_pic_Brush.bomb_hack_pic_Brush
+[2020.04.02-22.20.04:050][164]BlueprintLog: New page: Compile HUD
+[2020.04.02-22.20.04:120][164]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.04.02-22.20.04:509][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset" SILENT=true
+[2020.04.02-22.20.04:550][205]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/HUDAAF876E84C3D7C978B14AEB796FD3AC7.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset'
+[2020.04.02-22.20.05:582][319]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.04.02-22.20.06:399][319]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Dungeon9BA6D4E34A7834880661ED82F94707F4.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Dungeon.umap'
+[2020.04.02-22.20.19:523][859]BlueprintLog: New page: Compile Dungeon
+[2020.04.02-22.20.19:534][859]LogBlueprint: Error: [Compiler PersistentLevel.Dungeon] This blueprint (self) is not a Image, therefore ' Target ' must have a connection.
+[2020.04.02-22.20.19:809][859]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.04.02-22.20.19:829][859]LogBlueprint: Warning: [Compiler PersistentLevel.Dungeon] [2122.87] Compile of PersistentLevel.Dungeon failed. 1 Fatal Issue(s) 0 Warning(s) [in 305 ms] (/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon)
+[2020.04.02-22.20.19:997][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.04.02-22.20.20:023][863]LogBlueprint: Error: [Compiler PersistentLevel.Dungeon] This blueprint (self) is not a Image, therefore ' Target ' must have a connection.
+[2020.04.02-22.20.20:030][863]LogBlueprint: Warning: [Compiler PersistentLevel.Dungeon] [2123.08] Compile of PersistentLevel.Dungeon failed. 1 Fatal Issue(s) 0 Warning(s) [in 17 ms] (/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon)
+[2020.04.02-22.20.20:819][863]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/DungeonDC6652BC4426F8BD1F8A66AAEF863351.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Dungeon.umap'
+[2020.04.02-22.20.20:870][863]LogFileHelpers: Saving map 'Dungeon' took 0.919
+[2020.04.02-22.20.25:185][367]BlueprintLog: New page: Compile Dungeon
+[2020.04.02-22.20.25:468][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.04.02-22.20.25:789][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.04.02-22.20.26:614][387]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Dungeon6C2CDB6F4A9A6B63C611C9AFABDB15C3.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Dungeon.umap'
+[2020.04.02-22.20.26:664][387]LogFileHelpers: Saving map 'Dungeon' took 0.921
+[2020.04.02-22.23.02:376][712]BlueprintLog: New page: Collapse to Function
+[2020.04.02-22.23.48:581][102]BlueprintLog: New page: Compile Dungeon
+[2020.04.02-22.23.48:872][102]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2020.04.02-22.23.49:082][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.04.02-22.23.49:896][117]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Dungeon2B47675F418AC8DADD37E0A56E854E36.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Dungeon.umap'
+[2020.04.02-22.23.49:949][117]LogFileHelpers: Saving map 'Dungeon' took 0.912
+[2020.04.02-22.24.36:287][149]LogSlate: Window 'Player_Char_BP' being destroyed
+[2020.04.02-22.25.17:379][994]BlueprintLog: New page: Compile Player_Char_BP
+[2020.04.02-22.25.17:721][994]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.04.02-22.25.18:313][ 27]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPF4389D254CE627FF10BEE6BBAEFFD198.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.04.02-22.25.19:891][204]BlueprintLog: New page: Compile Dungeon
+[2020.04.02-22.25.19:898][204]LogBlueprint: Warning: [Compiler PersistentLevel.Dungeon] 'Player Char BP' does not inherit from 'Player Controller' ( Cast To Player_Char_BP  would always fail).
+[2020.04.02-22.25.20:178][204]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.04.02-22.25.20:201][204]LogBlueprint: Warning: [Compiler PersistentLevel.Dungeon] [2423.25] Compile of PersistentLevel.Dungeon successful, but with 1 Warning(s) [in 309 ms] (/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon)
+[2020.04.02-22.25.20:677][245]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.04.02-22.25.20:706][245]LogBlueprint: Warning: [Compiler PersistentLevel.Dungeon] 'Player Char BP' does not inherit from 'Player Controller' ( Cast To Player_Char_BP  would always fail).
+[2020.04.02-22.25.20:717][245]LogBlueprint: Warning: [Compiler PersistentLevel.Dungeon] [2423.76] Compile of PersistentLevel.Dungeon successful, but with 1 Warning(s) [in 19 ms] (/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon)
+[2020.04.02-22.25.21:517][245]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Dungeon87A5CB394401F5E1FA7311880BC2D1C1.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Dungeon.umap'
+[2020.04.02-22.25.21:571][245]LogFileHelpers: Saving map 'Dungeon' took 0.941
+[2020.04.02-22.26.08:274][821]BlueprintLog: New page: Compile Dungeon
+[2020.04.02-22.26.08:563][821]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.04.02-22.26.08:849][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.04.02-22.26.09:677][837]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Dungeon1914D6494C6B99D1868735AEDC983ED9.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Dungeon.umap'
+[2020.04.02-22.26.09:728][837]LogFileHelpers: Saving map 'Dungeon' took 0.923
+[2020.04.02-22.26.18:842][918]LogEditorTransaction: Undo Delete current selection
+[2020.04.02-22.26.21:101][173]BlueprintLog: New page: Compile Dungeon
+[2020.04.02-22.26.21:385][173]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.04.02-22.26.22:052][235]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.04.02-22.26.22:880][235]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/DungeonFEE88D1246D4E1CCD8C49BAC644197A1.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Dungeon.umap'
+[2020.04.02-22.26.22:933][235]LogFileHelpers: Saving map 'Dungeon' took 0.927
+[2020.04.02-22.26.51:548][636]BlueprintLog: New page: Compile Dungeon
+[2020.04.02-22.26.51:835][636]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.04.02-22.26.52:242][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.04.02-22.26.53:055][674]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/DungeonB64C75584A2EE0F468F4C4BC3572BC8F.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Dungeon.umap'
+[2020.04.02-22.26.53:108][674]LogFileHelpers: Saving map 'Dungeon' took 0.911
+[2020.04.02-22.27.02:023][726]BlueprintLog: New page: Compile Player_Char_BP
+[2020.04.02-22.27.02:320][726]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.04.02-22.27.02:951][769]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Player_Char_BPD52B484D44626BDA9EC2DCB1CD5E0C39.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/Player_Char_BP.uasset'
+[2020.04.02-22.27.04:105][905]LogTemp: Repeating last play command: Simulate
+[2020.04.02-22.27.04:147][905]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.27.04:147][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-22.27.04:147][905]PIE: New page: SIE session: Dungeon (Apr 2, 2020, 2:27:04 PM)
+[2020.04.02-22.27.04:147][905]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Dungeon
+[2020.04.02-22.27.04:207][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060247s)
+[2020.04.02-22.27.04:208][905]LogAIModule: Creating AISystem for world Dungeon
+[2020.04.02-22.27.04:208][905]LogPlayLevel: PIE: World Init took: (0.000536s)
+[2020.04.02-22.27.04:208][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Dungeon.Dungeon to /Game/Maps/UEDPIE_0_Dungeon.Dungeon (0.060964s)
+[2020.04.02-22.27.04:251][905]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.04.02-22.27.04:265][905]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-22.27.04:273][905]LogInit: FAudioDevice initialized.
+[2020.04.02-22.27.04:302][905]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.04.02-22.27.04:309][905]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Dungeon.Dungeon up for play (max tick rate 0) at 2020.04.02-18.27.04
+[2020.04.02-22.27.04:310][905]LogWorld: Bringing up level for play took: 0.007588
+[2020.04.02-22.27.04:324][905]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Dungeon -0.511
+[2020.04.02-22.27.04:326][905]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.27.16:437][316]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.27.16:437][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.27.16:474][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-22.27.16:474][316]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.27.16:520][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.27.16:528][316]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.04.02-22.27.16:561][317]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.04.02-22.27.28:169][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.27.34:145][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.27.38:021][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2020.04.02-22.27.41:969][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.27.42:143][306]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AI/NPC.NPC
+[2020.04.02-22.28.27:035][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-22.28.37:195][784]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-22.28.42:737][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.28.42:804][417]BlueprintLog: New page: Compile NPC
+[2020.04.02-22.28.43:078][417]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.04.02-22.28.43:544][457]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/NPC207A65314A5CBB441D08A4B58BBFCD7F.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Blueprints/AI/NPC.uasset'
+[2020.04.02-22.28.45:569][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.28.46:650][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.04.02-22.28.47:473][819]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Dungeon96D01A464DBB17DD2A6D88897DB84D55.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Dungeon.umap'
+[2020.04.02-22.28.47:525][819]LogFileHelpers: Saving map 'Dungeon' took 0.922
+[2020.04.02-22.29.07:082][128]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC)
+[2020.04.02-22.29.15:546][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2020.04.02-22.29.23:197][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.29.30:519][905]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC)
+[2020.04.02-22.29.34:500][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.29.34:592][376]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.04.02-22.29.35:418][376]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Dungeon4D8CDD594A9D28F3F1091CA30CA1C834.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Dungeon.umap'
+[2020.04.02-22.29.36:661][516]LogTemp: Repeating last play command: Simulate
+[2020.04.02-22.29.36:701][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.29.36:701][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-22.29.36:701][516]PIE: New page: SIE session: Dungeon (Apr 2, 2020, 2:29:36 PM)
+[2020.04.02-22.29.36:701][516]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Dungeon
+[2020.04.02-22.29.36:763][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062251s)
+[2020.04.02-22.29.36:763][516]LogAIModule: Creating AISystem for world Dungeon
+[2020.04.02-22.29.36:764][516]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2020.04.02-22.29.36:764][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Dungeon.Dungeon to /Game/Maps/UEDPIE_0_Dungeon.Dungeon (0.062969s)
+[2020.04.02-22.29.36:809][516]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.04.02-22.29.36:823][516]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-22.29.36:831][516]LogInit: FAudioDevice initialized.
+[2020.04.02-22.29.36:861][516]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.04.02-22.29.36:868][516]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Dungeon.Dungeon up for play (max tick rate 0) at 2020.04.02-18.29.36
+[2020.04.02-22.29.36:869][516]LogWorld: Bringing up level for play took: 0.007419
+[2020.04.02-22.29.36:883][516]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Dungeon 0.049
+[2020.04.02-22.29.36:915][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.29.46:776][642]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.29.46:776][642]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.29.46:783][643]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.29.46:783][643]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.29.46:791][644]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.29.46:791][644]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.29.46:800][645]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.29.46:800][645]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.29.46:808][646]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.29.46:809][646]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.29.46:817][647]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.29.46:817][647]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.29.46:825][648]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.29.46:825][648]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.29.46:834][649]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.29.46:834][649]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.29.50:652][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.29.50:652][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.29.50:691][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-22.29.50:691][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.29.50:740][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.29.50:747][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.04.02-22.29.50:772][108]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.04.02-22.29.52:158][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.29.58:696][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2020.04.02-22.30.00:579][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.30.09:154][265]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC)
+[2020.04.02-22.30.29:235][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2020.04.02-22.30.37:870][671]Cmd: TRANSACTION UNDO
+[2020.04.02-22.30.37:870][671]LogEditorTransaction: Undo Scale Actors
+[2020.04.02-22.30.38:985][803]Cmd: TRANSACTION UNDO
+[2020.04.02-22.30.38:985][803]LogEditorTransaction: Undo Animatable Property Changed
+[2020.04.02-22.30.40:061][931]Cmd: TRANSACTION UNDO
+[2020.04.02-22.30.40:061][931]LogEditorTransaction: Undo Scale Actors
+[2020.04.02-22.30.40:906][ 31]Cmd: TRANSACTION UNDO
+[2020.04.02-22.30.40:906][ 31]LogEditorTransaction: Undo Animatable Property Changed
+[2020.04.02-22.30.41:527][105]Cmd: TRANSACTION UNDO
+[2020.04.02-22.30.41:527][105]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.02-22.30.44:188][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.30.50:280][ 91]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC)
+[2020.04.02-22.30.54:311][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.31.10:266][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.31.10:316][463]LogTemp: Repeating last play command: Simulate
+[2020.04.02-22.31.10:354][463]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.31.10:354][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-22.31.10:354][463]PIE: New page: SIE session: Dungeon (Apr 2, 2020, 2:31:10 PM)
+[2020.04.02-22.31.10:354][463]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Dungeon
+[2020.04.02-22.31.10:416][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061265s)
+[2020.04.02-22.31.10:416][463]LogAIModule: Creating AISystem for world Dungeon
+[2020.04.02-22.31.10:416][463]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2020.04.02-22.31.10:416][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Dungeon.Dungeon to /Game/Maps/UEDPIE_0_Dungeon.Dungeon (0.062029s)
+[2020.04.02-22.31.10:466][463]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.04.02-22.31.10:480][463]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-22.31.10:488][463]LogInit: FAudioDevice initialized.
+[2020.04.02-22.31.10:518][463]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.04.02-22.31.10:525][463]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Dungeon.Dungeon up for play (max tick rate 0) at 2020.04.02-18.31.10
+[2020.04.02-22.31.10:526][463]LogWorld: Bringing up level for play took: 0.007830
+[2020.04.02-22.31.10:540][463]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Dungeon -0.294
+[2020.04.02-22.31.10:551][463]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.31.20:724][639]LogBlueprintUserMessages: [Player_Char_BP_C_0] NoHackTargetSet
+[2020.04.02-22.31.22:991][911]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.22:999][912]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.23:007][913]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.23:015][914]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.23:024][915]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.23:032][916]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.23:040][917]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:058][ 39]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:066][ 40]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:074][ 41]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:082][ 42]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:090][ 43]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:099][ 44]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:107][ 45]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:116][ 46]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:124][ 47]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:132][ 48]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:299][ 68]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:307][ 69]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:315][ 70]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:324][ 71]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:332][ 72]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:340][ 73]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:349][ 74]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:357][ 75]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:365][ 76]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:374][ 77]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:382][ 78]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:391][ 79]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:399][ 80]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:407][ 81]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:415][ 82]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:424][ 83]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:599][104]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:607][105]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:615][106]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:623][107]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:632][108]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:641][109]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:649][110]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:657][111]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:666][112]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:674][113]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:682][114]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:691][115]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:699][116]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.24:707][117]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.25:174][173]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.25:182][174]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.25:190][175]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.25:199][176]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.25:207][177]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.25:216][178]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.25:224][179]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.25:232][180]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.25:241][181]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.31.27:791][487]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.31.27:791][487]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.31.27:799][488]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.31.27:799][488]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.31.27:807][489]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.31.27:807][489]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.31.27:815][490]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.31.27:815][490]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.31.27:824][491]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.31.27:824][491]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.31.27:832][492]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.31.27:832][492]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.31.27:840][493]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.31.27:841][493]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.31.27:849][494]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.31.27:849][494]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.31.27:857][495]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.31.27:857][495]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.31.27:866][496]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.31.27:866][496]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.31.27:874][497]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.31.27:874][497]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.31.30:067][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.31.30:067][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.31.30:103][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-22.31.30:103][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.31.30:152][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.31.30:159][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.04.02-22.31.30:179][761]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.04.02-22.31.31:499][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.31.31:558][919]LogTemp: Repeating last play command: Simulate
+[2020.04.02-22.31.31:592][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.31.31:593][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-22.31.31:593][919]PIE: New page: SIE session: Dungeon (Apr 2, 2020, 2:31:31 PM)
+[2020.04.02-22.31.31:593][919]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Dungeon
+[2020.04.02-22.31.31:655][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062030s)
+[2020.04.02-22.31.31:656][919]LogAIModule: Creating AISystem for world Dungeon
+[2020.04.02-22.31.31:656][919]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2020.04.02-22.31.31:656][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Dungeon.Dungeon to /Game/Maps/UEDPIE_0_Dungeon.Dungeon (0.062756s)
+[2020.04.02-22.31.31:699][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.04.02-22.31.31:711][919]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-22.31.31:719][919]LogInit: FAudioDevice initialized.
+[2020.04.02-22.31.31:748][919]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.04.02-22.31.31:755][919]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Dungeon.Dungeon up for play (max tick rate 0) at 2020.04.02-18.31.31
+[2020.04.02-22.31.31:757][919]LogWorld: Bringing up level for play took: 0.007780
+[2020.04.02-22.31.31:770][919]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Dungeon 0.936
+[2020.04.02-22.31.31:771][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.31.34:480][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.32.00:476][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset" SILENT=true
+[2020.04.02-22.32.00:517][263]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/HUD57AB90C445F7318E33884E99E144422F.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset'
+[2020.04.02-22.32.26:488][270]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.32.26:488][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.32.26:522][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-22.32.26:522][270]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.32.26:574][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.32.26:581][270]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.04.02-22.32.26:592][271]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.04.02-22.32.27:173][336]LogTemp: Repeating last play command: Simulate
+[2020.04.02-22.32.27:208][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.32.27:208][336]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.02-22.32.27:210][336]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2020.04.02-22.32.27:516][336]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.04.02-22.32.27:516][336]LogPlayLevel: PlayLevel: Blueprint regeneration took 308 ms (1 blueprints)
+[2020.04.02-22.32.27:516][336]PIE: New page: SIE session: Dungeon (Apr 2, 2020, 2:32:27 PM)
+[2020.04.02-22.32.27:516][336]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Dungeon
+[2020.04.02-22.32.27:578][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061676s)
+[2020.04.02-22.32.27:578][336]LogAIModule: Creating AISystem for world Dungeon
+[2020.04.02-22.32.27:579][336]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2020.04.02-22.32.27:579][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Dungeon.Dungeon to /Game/Maps/UEDPIE_0_Dungeon.Dungeon (0.062372s)
+[2020.04.02-22.32.27:623][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.04.02-22.32.27:636][336]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-22.32.27:644][336]LogInit: FAudioDevice initialized.
+[2020.04.02-22.32.27:672][336]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.04.02-22.32.27:680][336]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Dungeon.Dungeon up for play (max tick rate 0) at 2020.04.02-18.32.27
+[2020.04.02-22.32.27:681][336]LogWorld: Bringing up level for play took: 0.008031
+[2020.04.02-22.32.27:694][336]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Dungeon 0.86
+[2020.04.02-22.32.27:695][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.32.33:432][ 12]LogBlueprintUserMessages: [Player_Char_BP_C_0] NoHackTargetSet
+[2020.04.02-22.32.35:524][263]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.35:532][264]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.35:540][265]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.35:549][266]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.35:557][267]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.35:565][268]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.35:574][269]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.35:582][270]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.35:590][271]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.35:599][272]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.35:975][317]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.35:982][318]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.35:990][319]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.35:999][320]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.36:007][321]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.36:015][322]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.36:024][323]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.36:032][324]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.36:040][325]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.32.37:708][525]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.32.37:708][525]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.32.37:716][526]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.32.37:716][526]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.32.37:724][527]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.32.37:724][527]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.32.37:732][528]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.32.37:732][528]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.32.37:741][529]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.32.37:741][529]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.32.37:749][530]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.32.37:749][530]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.32.37:757][531]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.32.37:757][531]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.32.37:766][532]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.32.37:766][532]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.32.42:742][129]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.32.42:742][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.32.42:783][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-22.32.42:783][129]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.32.42:830][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.32.42:836][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.04.02-22.32.42:857][130]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.04.02-22.32.43:667][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.33.55:327][468]BlueprintLog: New page: Compile HUD
+[2020.04.02-22.33.55:381][468]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.04.02-22.33.55:902][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset" SILENT=true
+[2020.04.02-22.33.55:938][523]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/HUD4BFAB3774B7D1C64FD38F5964AC88AC8.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset'
+[2020.04.02-22.33.57:281][681]LogTemp: Repeating last play command: Simulate
+[2020.04.02-22.33.57:317][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.33.57:317][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-22.33.57:317][681]PIE: New page: SIE session: Dungeon (Apr 2, 2020, 2:33:57 PM)
+[2020.04.02-22.33.57:317][681]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Dungeon
+[2020.04.02-22.33.57:379][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062254s)
+[2020.04.02-22.33.57:380][681]LogAIModule: Creating AISystem for world Dungeon
+[2020.04.02-22.33.57:380][681]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2020.04.02-22.33.57:380][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Dungeon.Dungeon to /Game/Maps/UEDPIE_0_Dungeon.Dungeon (0.063066s)
+[2020.04.02-22.33.57:427][681]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.04.02-22.33.57:440][681]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-22.33.57:448][681]LogInit: FAudioDevice initialized.
+[2020.04.02-22.33.57:473][681]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.04.02-22.33.57:480][681]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Dungeon.Dungeon up for play (max tick rate 0) at 2020.04.02-18.33.57
+[2020.04.02-22.33.57:482][681]LogWorld: Bringing up level for play took: 0.008034
+[2020.04.02-22.33.57:495][681]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Dungeon 0.661
+[2020.04.02-22.33.57:497][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.34.01:405][139]LogBlueprintUserMessages: [Player_Char_BP_C_0] NoHackTargetSet
+[2020.04.02-22.34.03:814][428]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.03:814][428]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.03:821][429]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.03:822][429]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.03:830][430]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.03:830][430]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.03:838][431]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.03:838][431]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.03:846][432]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.03:846][432]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.03:855][433]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.03:855][433]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.03:863][434]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.03:863][434]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.03:871][435]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.03:871][435]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.03:880][436]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.03:880][436]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.03:888][437]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.03:888][437]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.03:896][438]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.03:897][438]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.07:556][877]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.34.07:556][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.34.07:590][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-22.34.07:590][877]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.34.07:639][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.34.07:646][877]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.04.02-22.34.07:668][878]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.04.02-22.34.08:457][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.34.15:300][785]BlueprintLog: New page: Compile HUD
+[2020.04.02-22.34.15:353][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.04.02-22.34.15:858][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset" SILENT=true
+[2020.04.02-22.34.15:896][840]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/HUD1894F3D3434E34C870A905B7FF814551.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset'
+[2020.04.02-22.34.17:283][  3]LogTemp: Repeating last play command: Simulate
+[2020.04.02-22.34.17:320][  3]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.34.17:320][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-22.34.17:320][  3]PIE: New page: SIE session: Dungeon (Apr 2, 2020, 2:34:17 PM)
+[2020.04.02-22.34.17:320][  3]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Dungeon
+[2020.04.02-22.34.17:381][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061298s)
+[2020.04.02-22.34.17:382][  3]LogAIModule: Creating AISystem for world Dungeon
+[2020.04.02-22.34.17:382][  3]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2020.04.02-22.34.17:382][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Dungeon.Dungeon to /Game/Maps/UEDPIE_0_Dungeon.Dungeon (0.062000s)
+[2020.04.02-22.34.17:428][  3]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.04.02-22.34.17:441][  3]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-22.34.17:450][  3]LogInit: FAudioDevice initialized.
+[2020.04.02-22.34.17:480][  3]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.04.02-22.34.17:487][  3]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Dungeon.Dungeon up for play (max tick rate 0) at 2020.04.02-18.34.17
+[2020.04.02-22.34.17:488][  3]LogWorld: Bringing up level for play took: 0.007765
+[2020.04.02-22.34.17:502][  3]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Dungeon 0.667
+[2020.04.02-22.34.17:503][  3]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.34.23:397][699]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.23:397][699]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.23:406][700]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.23:406][700]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.23:414][701]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.23:414][701]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.23:422][702]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.23:422][702]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.23:431][703]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.23:431][703]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.23:439][704]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.23:439][704]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.23:447][705]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.34.23:447][705]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.34.25:782][985]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.34.25:782][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.34.25:819][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-22.34.25:819][985]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.34.25:870][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.34.25:877][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.04.02-22.34.25:898][986]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.04.02-22.34.26:928][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-22.35.23:716][518]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.23:718][518]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.02-22.35.23:720][518]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: 
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: Stack: 
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ffd963bc0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ffd95c36fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ffd95c44e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ffd945937f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ffd931d5cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ffd93191e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ffd97745984 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ffd979315e3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ffd9778d70b UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ffd9778a302 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ffd97789a4d UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ff783377a6a UE4Editor.exe!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ff78338554c UE4Editor.exe!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ff7833855ca UE4Editor.exe!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ff78339316c UE4Editor.exe!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ff783395b8e UE4Editor.exe!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ffe065e7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: [Callstack] 0x00007ffe07a6ced1 ntdll.dll!UnknownFunction []
+[2020.04.02-22.35.23:720][518]LogOutputDevice: Error: 
+[2020.04.02-22.35.23:725][518]LogStats:                SubmitErrorReport -  0.000 s
+[2020.04.02-22.35.23:980][518]LogStats:                    SendNewReport -  0.255 s
+[2020.04.02-22.35.23:980][518]LogStats:             FDebug::EnsureFailed -  0.261 s
+[2020.04.02-22.35.24:233][549]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:233][549]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:235][549]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:237][549]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:242][550]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:243][550]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:250][551]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:251][551]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:252][551]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:259][552]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:260][552]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:267][553]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:269][553]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:276][554]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:277][554]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:283][555]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:284][555]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:285][555]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:292][556]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:293][556]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:300][557]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:301][557]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:308][558]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:309][558]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:317][559]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:318][559]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:325][560]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:325][560]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:327][560]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:334][561]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:335][561]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:342][562]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:343][562]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:350][563]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:351][563]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:352][563]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:359][564]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:360][564]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:366][565]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:368][565]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:370][565]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:375][566]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:376][566]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:384][567]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:385][567]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:392][568]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:393][568]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:400][569]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:402][569]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:409][570]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:410][570]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:417][571]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:418][571]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:425][572]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:426][572]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:434][573]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:435][573]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:442][574]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:443][574]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:450][575]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:451][575]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:458][576]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:460][576]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:467][577]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:468][577]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:475][578]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:477][578]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:483][579]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:484][579]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:492][580]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:493][580]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:500][581]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:501][581]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:508][582]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:509][582]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:517][583]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:517][583]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:525][584]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:526][584]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:533][585]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.24:534][585]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:937][749]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:937][749]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:938][749]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:940][749]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:946][750]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:946][750]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:948][750]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:953][751]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:954][751]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:955][751]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:962][752]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:963][752]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:970][753]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:971][753]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:972][753]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:978][754]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:979][754]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.25:980][754]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.48:947][506]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.48:947][506]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.48:949][506]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.48:950][506]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.48:951][506]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.48:955][507]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.48:956][507]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.48:957][507]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:739][601]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:739][601]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:741][601]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:742][601]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:747][602]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:748][602]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:749][602]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:756][603]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:756][603]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:757][603]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:764][604]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:764][604]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:766][604]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:772][605]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:773][605]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:774][605]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:781][606]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:781][606]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:782][606]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:789][607]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:790][607]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.49:792][607]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.54:356][147]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.54:356][147]LogUObjectBase: Warning: Object is not registered
+[2020.04.02-22.35.54:923][215]BlueprintLog: New page: Compile Dungeon
+[2020.04.02-22.35.54:935][215]LogBlueprint: Error: [Compiler PersistentLevel.Dungeon] This blueprint (self) is not a Image, therefore ' Target ' must have a connection.
+[2020.04.02-22.35.55:213][215]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.04.02-22.35.55:221][215]LogBlueprint: Warning: [Compiler PersistentLevel.Dungeon] [3058.27] Compile of PersistentLevel.Dungeon failed. 1 Fatal Issue(s) 0 Warning(s) [in 298 ms] (/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon)
+[2020.04.02-22.35.55:552][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.04.02-22.35.55:586][247]LogBlueprint: Error: [Compiler PersistentLevel.Dungeon] This blueprint (self) is not a Image, therefore ' Target ' must have a connection.
+[2020.04.02-22.35.55:592][247]LogBlueprint: Warning: [Compiler PersistentLevel.Dungeon] [3058.64] Compile of PersistentLevel.Dungeon failed. 1 Fatal Issue(s) 0 Warning(s) [in 17 ms] (/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon)
+[2020.04.02-22.35.56:386][247]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Dungeon23893E524EB89825409FB3A666E59767.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Dungeon.umap'
+[2020.04.02-22.35.56:437][247]LogFileHelpers: Saving map 'Dungeon' took 0.933
+[2020.04.02-22.35.59:569][619]BlueprintLog: New page: Compile Dungeon
+[2020.04.02-22.35.59:859][619]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.04.02-22.36.00:203][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.04.02-22.36.01:034][650]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/Dungeon900A7879495BF698A9014485474FB0FA.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/Maps/Dungeon.umap'
+[2020.04.02-22.36.01:085][650]LogFileHelpers: Saving map 'Dungeon' took 0.930
+[2020.04.02-22.36.06:339][272]BlueprintLog: New page: Compile HUD
+[2020.04.02-22.36.06:393][272]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.04.02-22.36.06:782][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset" SILENT=true
+[2020.04.02-22.36.06:819][313]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/HUD9A71A9B2445F1B4D2887A98225FE2771.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset'
+[2020.04.02-22.36.09:052][576]LogTemp: Repeating last play command: Simulate
+[2020.04.02-22.36.09:089][576]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.36.09:089][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-22.36.09:089][576]PIE: New page: SIE session: Dungeon (Apr 2, 2020, 2:36:09 PM)
+[2020.04.02-22.36.09:089][576]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Dungeon
+[2020.04.02-22.36.09:152][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062665s)
+[2020.04.02-22.36.09:152][576]LogAIModule: Creating AISystem for world Dungeon
+[2020.04.02-22.36.09:153][576]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2020.04.02-22.36.09:153][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Dungeon.Dungeon to /Game/Maps/UEDPIE_0_Dungeon.Dungeon (0.063386s)
+[2020.04.02-22.36.09:198][576]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.04.02-22.36.09:210][576]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-22.36.09:219][576]LogInit: FAudioDevice initialized.
+[2020.04.02-22.36.09:250][576]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.04.02-22.36.09:257][576]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Dungeon.Dungeon up for play (max tick rate 0) at 2020.04.02-18.36.09
+[2020.04.02-22.36.09:258][576]LogWorld: Bringing up level for play took: 0.007749
+[2020.04.02-22.36.09:272][576]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Dungeon 0.437
+[2020.04.02-22.36.09:273][576]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.36.15:954][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset" SILENT=true
+[2020.04.02-22.36.15:990][337]LogSavePackage: Moving '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Saved/HUDAF05E13D4C33BC55E74B3BA05483E499.tmp' to '../../../../../../Users/Albatross/Desktop/Alberto School/Level_Design_Dungeon/Level_Design_Dungeon/Zelda_Dungeon/Content/HUD.uasset'
+[2020.04.02-22.36.18:074][574]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.36.18:075][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.36.18:112][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-22.36.18:112][574]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.36.18:158][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.36.18:164][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.04.02-22.36.18:175][575]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.04.02-22.36.19:048][675]LogTemp: Repeating last play command: Simulate
+[2020.04.02-22.36.19:082][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.36.19:082][675]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.02-22.36.19:086][675]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2020.04.02-22.36.19:397][675]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.04.02-22.36.19:397][675]LogPlayLevel: PlayLevel: Blueprint regeneration took 314 ms (1 blueprints)
+[2020.04.02-22.36.19:397][675]PIE: New page: SIE session: Dungeon (Apr 2, 2020, 2:36:19 PM)
+[2020.04.02-22.36.19:397][675]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Dungeon
+[2020.04.02-22.36.19:459][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061922s)
+[2020.04.02-22.36.19:460][675]LogAIModule: Creating AISystem for world Dungeon
+[2020.04.02-22.36.19:460][675]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2020.04.02-22.36.19:460][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Dungeon.Dungeon to /Game/Maps/UEDPIE_0_Dungeon.Dungeon (0.062664s)
+[2020.04.02-22.36.19:504][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.04.02-22.36.19:516][675]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-22.36.19:524][675]LogInit: FAudioDevice initialized.
+[2020.04.02-22.36.19:550][675]LogLoad: Game class is 'Dungeon_GM_C'
+[2020.04.02-22.36.19:557][675]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Dungeon.Dungeon up for play (max tick rate 0) at 2020.04.02-18.36.19
+[2020.04.02-22.36.19:559][675]LogWorld: Bringing up level for play took: 0.008171
+[2020.04.02-22.36.19:572][675]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Dungeon 0.738
+[2020.04.02-22.36.19:574][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.36.26:632][511]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.26:640][512]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.26:649][513]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.26:657][514]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.26:665][515]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.26:674][516]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.26:682][517]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.26:690][518]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.26:698][519]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.26:707][520]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.26:715][521]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.27:100][567]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.27:107][568]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.27:115][569]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.27:124][570]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.27:132][571]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.27:140][572]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.27:149][573]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.27:157][574]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.27:165][575]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.27:174][576]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:425][846]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:432][847]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:440][848]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:449][849]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:457][850]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:816][893]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:824][894]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:832][895]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:841][896]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:849][897]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:857][898]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:866][899]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:874][900]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:882][901]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:891][902]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.29:899][903]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:258][946]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:265][947]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:274][948]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:282][949]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:290][950]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:299][951]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:307][952]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:315][953]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:323][954]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:332][955]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:340][956]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:349][957]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:357][958]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:365][959]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:583][985]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:591][986]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:599][987]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:607][988]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:616][989]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:624][990]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:632][991]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:640][992]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:649][993]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:657][994]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:665][995]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:674][996]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.30:682][997]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.31:558][102]LogBlueprintUserMessages: [Stun_Gun_C_0] NPC_C
+[2020.04.02-22.36.31:558][102]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Jump Hack!
+[2020.04.02-22.36.31:566][103]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.31:574][104]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.31:582][105]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.31:591][106]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.31:599][107]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.31:607][108]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.31:616][109]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.31:624][110]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.31:632][111]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.31:641][112]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.34:558][462]LogBlueprintUserMessages: [Stun_Gun_C_0] BombEnemy_C
+[2020.04.02-22.36.34:558][462]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Bomb Hack!
+[2020.04.02-22.36.34:566][463]LogBlueprintUserMessages: [Stun_Gun_C_0] BombEnemy_C
+[2020.04.02-22.36.34:566][463]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Bomb Hack!
+[2020.04.02-22.36.34:574][464]LogBlueprintUserMessages: [Stun_Gun_C_0] BombEnemy_C
+[2020.04.02-22.36.34:574][464]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Bomb Hack!
+[2020.04.02-22.36.34:582][465]LogBlueprintUserMessages: [Stun_Gun_C_0] BombEnemy_C
+[2020.04.02-22.36.34:582][465]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Bomb Hack!
+[2020.04.02-22.36.34:591][466]LogBlueprintUserMessages: [Stun_Gun_C_0] BombEnemy_C
+[2020.04.02-22.36.34:591][466]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Bomb Hack!
+[2020.04.02-22.36.34:599][467]LogBlueprintUserMessages: [Stun_Gun_C_0] BombEnemy_C
+[2020.04.02-22.36.34:599][467]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Bomb Hack!
+[2020.04.02-22.36.34:607][468]LogBlueprintUserMessages: [Stun_Gun_C_0] BombEnemy_C
+[2020.04.02-22.36.34:607][468]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Bomb Hack!
+[2020.04.02-22.36.34:616][469]LogBlueprintUserMessages: [Stun_Gun_C_0] BombEnemy_C
+[2020.04.02-22.36.34:616][469]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Bomb Hack!
+[2020.04.02-22.36.34:624][470]LogBlueprintUserMessages: [Stun_Gun_C_0] BombEnemy_C
+[2020.04.02-22.36.34:624][470]LogBlueprintUserMessages: [Player_Char_BP_C_0] Got Bomb Hack!
+[2020.04.02-22.36.36:791][730]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.36:799][731]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.36:807][732]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.36:816][733]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.36:824][734]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.36:832][735]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.36:841][736]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.36:849][737]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.36:857][738]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.37:516][817]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.37:524][818]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.37:532][819]LogBlueprintUserMessages: [Stun_Gun_C_0] StaticMeshActor
+[2020.04.02-22.36.38:225][902]LogBlueprintUserMessages: [Stun_Gun_C_0] 
+[2020.04.02-22.36.38:225][902]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
+[2020.04.02-22.36.38:225][902]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.02-22.36.38:232][903]LogBlueprintUserMessages: [Stun_Gun_C_0] 
+[2020.04.02-22.36.38:232][903]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
+[2020.04.02-22.36.38:233][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.02-22.36.38:241][904]LogBlueprintUserMessages: [Stun_Gun_C_0] 
+[2020.04.02-22.36.38:241][904]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
+[2020.04.02-22.36.38:241][904]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.02-22.36.38:249][905]LogBlueprintUserMessages: [Stun_Gun_C_0] 
+[2020.04.02-22.36.38:249][905]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
+[2020.04.02-22.36.38:249][905]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.02-22.36.38:257][906]LogBlueprintUserMessages: [Stun_Gun_C_0] 
+[2020.04.02-22.36.38:257][906]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
+[2020.04.02-22.36.38:257][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.02-22.36.38:266][907]LogBlueprintUserMessages: [Stun_Gun_C_0] 
+[2020.04.02-22.36.38:266][907]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
+[2020.04.02-22.36.38:266][907]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.02-22.36.38:274][908]LogBlueprintUserMessages: [Stun_Gun_C_0] 
+[2020.04.02-22.36.38:274][908]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
+[2020.04.02-22.36.38:274][908]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.02-22.36.38:282][909]LogBlueprintUserMessages: [Stun_Gun_C_0] 
+[2020.04.02-22.36.38:282][909]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
+[2020.04.02-22.36.38:282][909]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.02-22.36.38:291][910]LogBlueprintUserMessages: [Stun_Gun_C_0] 
+[2020.04.02-22.36.38:291][910]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
+[2020.04.02-22.36.38:291][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.02-22.36.46:367][879]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.36.46:367][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.36.46:406][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-22.36.46:406][879]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Dungeon.Dungeon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon' with GeneratedClass '/Game/Maps/Dungeon.Dungeon_C' with ClassGeneratedBy '/Game/Maps/Dungeon.Dungeon:PersistentLevel.Dungeon'
+[2020.04.02-22.36.46:457][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-22.36.46:464][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.04.02-22.36.46:474][879]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-22.36.46:508][880]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.04.02-22.36.55:120][697]LogSlate: Window 'Message Log' being destroyed
+[2020.04.02-22.36.55:132][697]LogSlate: Window 'Message Log' being destroyed
