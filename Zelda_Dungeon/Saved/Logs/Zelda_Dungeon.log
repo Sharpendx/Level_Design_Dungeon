@@ -809,85 +809,85 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.21-10.52.17:937][517]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
 	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.17:938][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.17:945][518]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.17:945][518]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:807][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:814][957]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:814][957]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.17:945][518]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.17:953][519]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.17:953][519]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:814][957]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:823][958]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:823][958]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.17:953][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.17:962][520]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.17:962][520]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:823][958]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:832][959]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:832][959]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.17:962][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.17:969][521]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.17:969][521]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:832][959]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:841][960]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:841][960]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.17:969][521]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.17:978][522]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.17:978][522]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:841][960]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:849][961]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:849][961]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.17:978][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.17:986][523]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.17:986][523]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:849][961]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:857][962]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:857][962]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.17:986][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.17:994][524]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.17:994][524]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:857][962]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:866][963]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:866][963]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.17:994][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.18:003][525]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.18:003][525]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:866][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:873][964]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:873][964]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.18:003][525]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.18:011][526]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.18:011][526]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:874][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:882][965]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:882][965]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.18:011][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.18:019][527]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.18:019][527]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:882][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:891][966]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:891][966]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.18:019][527]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.18:028][528]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.18:028][528]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:891][966]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:900][967]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:900][967]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.18:028][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.18:036][529]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.18:036][529]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:900][967]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:909][968]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:909][968]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.18:036][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.18:044][530]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.18:044][530]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:909][968]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:919][969]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:919][969]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.18:045][530]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.18:053][531]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.18:053][531]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:919][969]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:929][970]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:929][970]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.18:053][531]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.18:062][532]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.18:062][532]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:929][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:937][971]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:937][971]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
-[2020.04.21-10.52.18:062][532]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
-[2020.04.21-10.52.18:070][533]LogBlueprintUserMessages: [Stun_Gun_C_0] 
-[2020.04.21-10.52.18:070][533]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
-	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_0
+[2020.04.21-11.20.57:938][971]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
+[2020.04.21-11.20.57:946][972]LogBlueprintUserMessages: [Stun_Gun_C_1] 
+[2020.04.21-11.20.57:946][972]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	Stun_Gun_C /Game/Maps/UEDPIE_0_Dungeon.Dungeon:PersistentLevel.Stun_Gun_C_1
 	Function /Game/Stun_Gun.Stun_Gun_C:Hack:02FC
 [2020.04.21-10.52.18:070][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  Stun_Gun Function:  Hack Graph:  Hack Node:  Branch
 [2020.04.21-10.52.18:078][534]LogBlueprintUserMessages: [Stun_Gun_C_0] 
